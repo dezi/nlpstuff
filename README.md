@@ -1,2 +1,2 @@
-# nplstuff
-NPL releated data
+# nlpstuff
+NLP releated data
