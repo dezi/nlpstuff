@@ -15,6 +15,9 @@
     "dem": {
       "type": "DET"
     },
+    "den": {
+      "type": "DET"
+    },
     "ein": {
       "type": "DET"
     },
@@ -78,6 +81,12 @@
     "dich": {
       "type": "PRON"
     },
+    "ihm": {
+      "type": "PRON"
+    },
+    "ihn": {
+      "type": "PRON"
+    },
     "wer": {
       "type": "PRON"
     },
@@ -117,6 +126,9 @@
     "keiner": {
       "type": "PRON"
     },
+    "nun": {
+      "type": "ADV"
+    },
     "hier": {
       "type": "ADV"
     },
@@ -148,6 +160,39 @@
       "type": "ADV"
     },
     "nie": {
+      "type": "ADV"
+    },
+    "wo": {
+      "type": "ADV"
+    },
+    "so": {
+      "type": "ADV"
+    },
+    "wohin": {
+      "type": "ADV"
+    },
+    "woher": {
+      "type": "ADV"
+    },
+    "wann": {
+      "type": "ADV"
+    },
+    "wie": {
+      "type": "ADV"
+    },
+    "warum": {
+      "type": "ADV"
+    },
+    "wodurch": {
+      "type": "ADV"
+    },
+    "womit": {
+      "type": "ADV"
+    },
+    "ca": {
+      "type": "ADV"
+    },
+    "circa": {
       "type": "ADV"
     },
     "abseits": {
@@ -183,6 +228,21 @@
     "durch": {
       "type": "ADP"
     },
+    "zu": {
+      "type": "ADP"
+    },
+    "zum": {
+      "type": "ADP"
+    },
+    "zur": {
+      "type": "ADP"
+    },
+    "von": {
+      "type": "ADP"
+    },
+    "vom": {
+      "type": "ADP"
+    },
     "für": {
       "type": "ADP"
     },
@@ -195,7 +255,22 @@
     "um": {
       "type": "ADP"
     },
+    "pro": {
+      "type": "ADP"
+    },
+    "contra": {
+      "type": "ADP"
+    },
     "auf": {
+      "type": "ADP"
+    },
+    "an": {
+      "type": "ADP"
+    },
+    "am": {
+      "type": "ADP"
+    },
+    "ab": {
       "type": "ADP"
     },
     "vor": {
@@ -210,7 +285,25 @@
     "neben": {
       "type": "ADP"
     },
+    "je": {
+      "type": "ADP"
+    },
     "in": {
+      "type": "ADP"
+    },
+    "im": {
+      "type": "ADP"
+    },
+    "ins": {
+      "type": "ADP"
+    },
+    "per": {
+      "type": "ADP"
+    },
+    "hin": {
+      "type": "ADP"
+    },
+    "her": {
       "type": "ADP"
     },
     "unter": {
@@ -218,6 +311,12 @@
     },
     "über": {
       "type": "ADP"
+    },
+    "ja": {
+      "type": "PRT"
+    },
+    "nein": {
+      "type": "PRT"
     },
     "oder": {
       "type": "CONJ"
@@ -285,6 +384,27 @@
     "da": {
       "type": "CONJ"
     },
+    "de": {
+      "type": "CONJ"
+    },
+    "van": {
+      "type": "CONJ"
+    },
+    "di": {
+      "type": "CONJ"
+    },
+    "la": {
+      "type": "CONJ"
+    },
+    "of": {
+      "type": "CONJ"
+    },
+    "et": {
+      "type": "CONJ"
+    },
+    "al": {
+      "type": "CONJ"
+    },
     "damit": {
       "type": "CONJ"
     },
@@ -315,8 +435,116 @@
     "noch": {
       "type": "CONJ"
     },
-    "sowohl": {
+    "bzw": {
       "type": "CONJ"
+    },
+    "mm": {
+      "type": "UNIT"
+    },
+    "cm": {
+      "type": "UNIT"
+    },
+    "km": {
+      "type": "UNIT"
+    },
+    "kg": {
+      "type": "UNIT"
+    },
+    "the": {
+      "type": "DET,PRON"
+    },
+    "and": {
+      "type": "CONJ"
+    },
+    "ab-": {
+      "type": "VADP"
+    },
+    "an-": {
+      "type": "VADP"
+    },
+    "auf-": {
+      "type": "VADP"
+    },
+    "aus-": {
+      "type": "VADP"
+    },
+    "be-": {
+      "type": "VADP"
+    },
+    "bei-": {
+      "type": "VADP"
+    },
+    "dar-": {
+      "type": "VADP"
+    },
+    "dran-": {
+      "type": "VADP"
+    },
+    "durch-": {
+      "type": "VADP"
+    },
+    "ein-": {
+      "type": "VADP"
+    },
+    "ent-": {
+      "type": "VADP"
+    },
+    "er-": {
+      "type": "VADP"
+    },
+    "fort-": {
+      "type": "VADP"
+    },
+    "frei-": {
+      "type": "VADP"
+    },
+    "ge-": {
+      "type": "VADP"
+    },
+    "her-": {
+      "type": "VADP"
+    },
+    "hin-": {
+      "type": "VADP"
+    },
+    "hinter-": {
+      "type": "VADP"
+    },
+    "hoch-": {
+      "type": "VADP"
+    },
+    "mit-": {
+      "type": "VADP"
+    },
+    "nach-": {
+      "type": "VADP"
+    },
+    "tief-": {
+      "type": "VADP"
+    },
+    "über-": {
+      "type": "VADP"
+    },
+    "um-": {
+      "type": "VADP"
+    },
+    "unter-": {
+      "type": "VADP"
+    },
+    "ver-": {
+      "type": "VADP"
+    },
+    "vor-": {
+      "type": "VADP"
+    },
+    "weg-": {
+      "type": "VADP"
+    },
+    "zer-": {
+      "type": "VADP"
+    },
+    "zu-": {
+      "type": "VADP"
     }
   }
 }
