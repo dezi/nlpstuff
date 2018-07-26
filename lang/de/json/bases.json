@@ -1,0 +1,322 @@
+{
+  "lemmas": {
+    "der": {
+      "type": "DET,PRON"
+    },
+    "die": {
+      "type": "DET,PRON"
+    },
+    "das": {
+      "type": "DET,PRON"
+    },
+    "des": {
+      "type": "DET"
+    },
+    "dem": {
+      "type": "DET"
+    },
+    "ein": {
+      "type": "DET"
+    },
+    "eine": {
+      "type": "DET"
+    },
+    "eines": {
+      "type": "DET"
+    },
+    "einem": {
+      "type": "DET"
+    },
+    "einen": {
+      "type": "DET"
+    },
+    "ich": {
+      "type": "PRON"
+    },
+    "du": {
+      "type": "PRON"
+    },
+    "er": {
+      "type": "PRON"
+    },
+    "sie": {
+      "type": "PRON"
+    },
+    "es": {
+      "type": "PRON"
+    },
+    "wir": {
+      "type": "PRON"
+    },
+    "ihr": {
+      "type": "PRON"
+    },
+    "dieser": {
+      "type": "PRON"
+    },
+    "diese": {
+      "type": "PRON"
+    },
+    "dieses": {
+      "type": "PRON"
+    },
+    "jener": {
+      "type": "PRON"
+    },
+    "jene": {
+      "type": "PRON"
+    },
+    "jenes": {
+      "type": "PRON"
+    },
+    "sich": {
+      "type": "PRON"
+    },
+    "mich": {
+      "type": "PRON"
+    },
+    "dich": {
+      "type": "PRON"
+    },
+    "wer": {
+      "type": "PRON"
+    },
+    "was": {
+      "type": "PRON"
+    },
+    "wem": {
+      "type": "PRON"
+    },
+    "wen": {
+      "type": "PRON"
+    },
+    "welcher": {
+      "type": "PRON"
+    },
+    "welche": {
+      "type": "PRON"
+    },
+    "welches": {
+      "type": "PRON"
+    },
+    "man": {
+      "type": "PRON"
+    },
+    "jemand": {
+      "type": "PRON"
+    },
+    "jeder": {
+      "type": "PRON"
+    },
+    "niemand": {
+      "type": "PRON"
+    },
+    "einer": {
+      "type": "PRON"
+    },
+    "keiner": {
+      "type": "PRON"
+    },
+    "hier": {
+      "type": "ADV"
+    },
+    "außen": {
+      "type": "ADV"
+    },
+    "links": {
+      "type": "ADV"
+    },
+    "rechts": {
+      "type": "ADV"
+    },
+    "dort": {
+      "type": "ADV"
+    },
+    "dahin": {
+      "type": "ADV"
+    },
+    "davon": {
+      "type": "ADV"
+    },
+    "heute": {
+      "type": "ADV"
+    },
+    "gestern": {
+      "type": "ADV"
+    },
+    "immer": {
+      "type": "ADV"
+    },
+    "nie": {
+      "type": "ADV"
+    },
+    "abseits": {
+      "type": "ADP"
+    },
+    "infolge": {
+      "type": "ADP"
+    },
+    "mittels": {
+      "type": "ADP"
+    },
+    "während": {
+      "type": "ADP"
+    },
+    "nachdem": {
+      "type": "ADP"
+    },
+    "trotz": {
+      "type": "ADP"
+    },
+    "aus": {
+      "type": "ADP"
+    },
+    "seit": {
+      "type": "ADP"
+    },
+    "mit": {
+      "type": "ADP"
+    },
+    "bei": {
+      "type": "ADP"
+    },
+    "durch": {
+      "type": "ADP"
+    },
+    "für": {
+      "type": "ADP"
+    },
+    "ohne": {
+      "type": "ADP"
+    },
+    "gegen": {
+      "type": "ADP"
+    },
+    "um": {
+      "type": "ADP"
+    },
+    "auf": {
+      "type": "ADP"
+    },
+    "vor": {
+      "type": "ADP"
+    },
+    "zwischen": {
+      "type": "ADP"
+    },
+    "hinter": {
+      "type": "ADP"
+    },
+    "neben": {
+      "type": "ADP"
+    },
+    "in": {
+      "type": "ADP"
+    },
+    "unter": {
+      "type": "ADP"
+    },
+    "über": {
+      "type": "ADP"
+    },
+    "oder": {
+      "type": "CONJ"
+    },
+    "aber": {
+      "type": "CONJ"
+    },
+    "auch": {
+      "type": "CONJ"
+    },
+    "dagegen": {
+      "type": "CONJ"
+    },
+    "nur": {
+      "type": "CONJ"
+    },
+    "zudem": {
+      "type": "CONJ"
+    },
+    "indessen": {
+      "type": "CONJ"
+    },
+    "daher": {
+      "type": "CONJ"
+    },
+    "darum": {
+      "type": "CONJ"
+    },
+    "denn": {
+      "type": "CONJ"
+    },
+    "also": {
+      "type": "CONJ"
+    },
+    "deshalb": {
+      "type": "CONJ"
+    },
+    "außerdem": {
+      "type": "CONJ"
+    },
+    "als": {
+      "type": "CONJ"
+    },
+    "dass": {
+      "type": "CONJ"
+    },
+    "sodass": {
+      "type": "CONJ"
+    },
+    "seitdem": {
+      "type": "CONJ"
+    },
+    "indem": {
+      "type": "CONJ"
+    },
+    "falls": {
+      "type": "CONJ"
+    },
+    "ob": {
+      "type": "CONJ"
+    },
+    "obwohl": {
+      "type": "CONJ"
+    },
+    "da": {
+      "type": "CONJ"
+    },
+    "damit": {
+      "type": "CONJ"
+    },
+    "weil": {
+      "type": "CONJ"
+    },
+    "wenn": {
+      "type": "CONJ"
+    },
+    "ehe": {
+      "type": "CONJ"
+    },
+    "bis": {
+      "type": "CONJ"
+    },
+    "je": {
+      "type": "CONJ"
+    },
+    "desto": {
+      "type": "CONJ"
+    },
+    "und": {
+      "type": "CONJ"
+    },
+    "weder": {
+      "type": "CONJ"
+    },
+    "noch": {
+      "type": "CONJ"
+    },
+    "sowohl": {
+      "type": "CONJ"
+    }
+  }
+}
