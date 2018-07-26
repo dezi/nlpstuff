@@ -1,13 +1,13 @@
 {
   "lemmas": {
     "der": {
-      "type": "DET,PRON"
+      "type": "DET"
     },
     "die": {
-      "type": "DET,PRON"
+      "type": "DET"
     },
     "das": {
-      "type": "DET,PRON"
+      "type": "DET"
     },
     "des": {
       "type": "DET"
@@ -54,13 +54,142 @@
     "ihr": {
       "type": "PRON"
     },
-    "dieser": {
+    "ihre": {
+      "type": "PRON"
+    },
+    "ihrem": {
+      "type": "PRON"
+    },
+    "ihren": {
+      "type": "PRON"
+    },
+    "ihrer": {
+      "type": "PRON"
+    },
+    "ihres": {
+      "type": "PRON"
+    },
+    "euch": {
+      "type": "PRON"
+    },
+    "eure": {
+      "type": "PRON"
+    },
+    "unser": {
+      "type": "PRON"
+    },
+    "unsere": {
+      "type": "PRON"
+    },
+    "unsre": {
+      "type": "PRON"
+    },
+    "unseres": {
+      "type": "PRON"
+    },
+    "unsres": {
+      "type": "PRON"
+    },
+    "solch": {
+      "type": "PRON"
+    },
+    "solche": {
+      "type": "PRON"
+    },
+    "solcher": {
+      "type": "PRON"
+    },
+    "solches": {
+      "type": "PRON"
+    },
+    "solchen": {
+      "type": "PRON"
+    },
+    "solchem": {
+      "type": "PRON"
+    },
+    "dies": {
       "type": "PRON"
     },
     "diese": {
       "type": "PRON"
     },
+    "diesen": {
+      "type": "PRON"
+    },
+    "diesem": {
+      "type": "PRON"
+    },
+    "dieser": {
+      "type": "PRON"
+    },
     "dieses": {
+      "type": "PRON"
+    },
+    "dein": {
+      "type": "PRON"
+    },
+    "deine": {
+      "type": "PRON"
+    },
+    "deines": {
+      "type": "PRON"
+    },
+    "deinem": {
+      "type": "PRON"
+    },
+    "deinen": {
+      "type": "PRON"
+    },
+    "selben": {
+      "type": "PRON"
+    },
+    "derer": {
+      "type": "PRON"
+    },
+    "deren": {
+      "type": "PRON"
+    },
+    "denen": {
+      "type": "PRON"
+    },
+    "mein": {
+      "type": "PRON"
+    },
+    "meine": {
+      "type": "PRON"
+    },
+    "meiner": {
+      "type": "PRON"
+    },
+    "meines": {
+      "type": "PRON"
+    },
+    "meinem": {
+      "type": "PRON"
+    },
+    "meinen": {
+      "type": "PRON"
+    },
+    "dessen": {
+      "type": "PRON"
+    },
+    "sein": {
+      "type": "PRON"
+    },
+    "seine": {
+      "type": "PRON"
+    },
+    "seiner": {
+      "type": "PRON"
+    },
+    "seines": {
+      "type": "PRON"
+    },
+    "seinem": {
+      "type": "PRON"
+    },
+    "seinen": {
       "type": "PRON"
     },
     "jener": {
@@ -70,6 +199,27 @@
       "type": "PRON"
     },
     "jenes": {
+      "type": "PRON"
+    },
+    "jenem": {
+      "type": "PRON"
+    },
+    "jenen": {
+      "type": "PRON"
+    },
+    "beide": {
+      "type": "PRON"
+    },
+    "beiden": {
+      "type": "PRON"
+    },
+    "beider": {
+      "type": "PRON"
+    },
+    "beides": {
+      "type": "PRON"
+    },
+    "jeher": {
       "type": "PRON"
     },
     "sich": {
@@ -87,6 +237,9 @@
     "ihn": {
       "type": "PRON"
     },
+    "ihnen": {
+      "type": "PRON"
+    },
     "wer": {
       "type": "PRON"
     },
@@ -97,6 +250,9 @@
       "type": "PRON"
     },
     "wen": {
+      "type": "PRON"
+    },
+    "welch": {
       "type": "PRON"
     },
     "welcher": {
@@ -114,7 +270,19 @@
     "jemand": {
       "type": "PRON"
     },
+    "jede": {
+      "type": "PRON"
+    },
     "jeder": {
+      "type": "PRON"
+    },
+    "jedes": {
+      "type": "PRON"
+    },
+    "jedem": {
+      "type": "PRON"
+    },
+    "jeden": {
       "type": "PRON"
     },
     "niemand": {
@@ -123,16 +291,178 @@
     "einer": {
       "type": "PRON"
     },
+    "manch": {
+      "type": "PRON"
+    },
+    "manche": {
+      "type": "PRON"
+    },
+    "mancher": {
+      "type": "PRON"
+    },
+    "manches": {
+      "type": "PRON"
+    },
+    "manchen": {
+      "type": "PRON"
+    },
+    "manchem": {
+      "type": "PRON"
+    },
+    "andere": {
+      "type": "PRON"
+    },
+    "anderen": {
+      "type": "PRON"
+    },
+    "kein": {
+      "type": "PRON"
+    },
+    "keine": {
+      "type": "PRON"
+    },
+    "keinen": {
+      "type": "PRON"
+    },
+    "keinem": {
+      "type": "PRON"
+    },
+    "keines": {
+      "type": "PRON"
+    },
     "keiner": {
       "type": "PRON"
     },
+    "viele": {
+      "type": "PRON"
+    },
+    "vielen": {
+      "type": "PRON"
+    },
+    "vieler": {
+      "type": "PRON"
+    },
+    "vieles": {
+      "type": "PRON"
+    },
+    "alle": {
+      "type": "PRON"
+    },
+    "allen": {
+      "type": "PRON"
+    },
+    "aller": {
+      "type": "PRON"
+    },
+    "alles": {
+      "type": "PRON"
+    },
+    "beiden": {
+      "type": "PRON"
+    },
+    "stets": {
+      "type": "ADV"
+    },
+    "jetzt": {
+      "type": "ADV"
+    },
     "nun": {
+      "type": "ADV"
+    },
+    "doch": {
       "type": "ADV"
     },
     "hier": {
       "type": "ADV"
     },
+    "gern": {
+      "type": "ADV"
+    },
+    "gerne": {
+      "type": "ADV"
+    },
+    "erst": {
+      "type": "ADV"
+    },
+    "dazu": {
+      "type": "ADV"
+    },
+    "hinzu": {
+      "type": "ADV"
+    },
+    "zwar": {
+      "type": "ADV"
+    },
+    "kaum": {
+      "type": "ADV"
+    },
+    "somit": {
+      "type": "ADV"
+    },
+    "soweit": {
+      "type": "ADV"
+    },
+    "zuvor": {
+      "type": "ADV"
+    },
+    "quasi": {
+      "type": "ADV"
+    },
+    "bald": {
+      "type": "ADV"
+    },
+    "oben": {
+      "type": "ADV"
+    },
+    "sonst": {
+      "type": "ADV"
+    },
+    "unten": {
+      "type": "ADV"
+    },
+    "eher": {
+      "type": "ADV"
+    },
     "außen": {
+      "type": "ADV"
+    },
+    "raus": {
+      "type": "ADV"
+    },
+    "heraus": {
+      "type": "ADV"
+    },
+    "sodann": {
+      "type": "ADV"
+    },
+    "jemals": {
+      "type": "ADV"
+    },
+    "hinauf": {
+      "type": "ADV"
+    },
+    "hervor": {
+      "type": "ADV"
+    },
+    "vorher": {
+      "type": "ADV"
+    },
+    "daraus": {
+      "type": "ADV"
+    },
+    "voraus": {
+      "type": "ADV"
+    },
+    "fortan": {
+      "type": "ADV"
+    },
+    "vorbei": {
+      "type": "ADV"
+    },
+    "hinein": {
+      "type": "ADV"
+    },
+    "rein": {
       "type": "ADV"
     },
     "links": {
@@ -147,10 +477,115 @@
     "dahin": {
       "type": "ADV"
     },
+    "dato": {
+      "type": "ADV"
+    },
     "davon": {
       "type": "ADV"
     },
+    "allzu": {
+      "type": "ADV"
+    },
+    "davor": {
+      "type": "ADV"
+    },
+    "danach": {
+      "type": "ADV"
+    },
+    "zuerst": {
+      "type": "ADV"
+    },
+    "sofort": {
+      "type": "ADV"
+    },
+    "nahezu": {
+      "type": "ADV"
+    },
+    "ebenso": {
+      "type": "ADV"
+    },
+    "bisher": {
+      "type": "ADV"
+    },
+    "dafür": {
+      "type": "ADV"
+    },
+    "nebst": {
+      "type": "ADV"
+    },
+    "indes": {
+      "type": "ADV"
+    },
+    "daran": {
+      "type": "ADV"
+    },
+    "zumal": {
+      "type": "ADV"
+    },
+    "genug": {
+      "type": "ADV"
+    },
+    "darauf": {
+      "type": "ADV"
+    },
+    "drauf": {
+      "type": "ADV"
+    },
+    "empor": {
+      "type": "ADV"
+    },
+    "umher": {
+      "type": "ADV"
+    },
+    "herab": {
+      "type": "ADV"
+    },
+    "innen": {
+      "type": "ADV"
+    },
+    "hinten": {
+      "type": "ADV"
+    },
+    "hierzu": {
+      "type": "ADV"
+    },
+    "selber": {
+      "type": "ADV"
+    },
+    "vorne": {
+      "type": "ADV"
+    },
+    "voran": {
+      "type": "ADV"
+    },
+    "hinab": {
+      "type": "ADV"
+    },
+    "vorab": {
+      "type": "ADV"
+    },
+    "worin": {
+      "type": "ADV"
+    },
+    "woran": {
+      "type": "ADV"
+    },
+    "worauf": {
+      "type": "ADV"
+    },
+    "darin": {
+      "type": "ADV"
+    },
+    "dabei": {
+      "type": "ADV"
+    },
     "heute": {
+      "type": "ADV"
+    },
+    "damals": {
+      "type": "ADV"
+    },
+    "soviel": {
       "type": "ADV"
     },
     "gestern": {
@@ -171,7 +606,28 @@
     "wohin": {
       "type": "ADV"
     },
+    "derart": {
+      "type": "ADV"
+    },
+    "wohnach": {
+      "type": "ADV"
+    },
+    "wozu": {
+      "type": "ADV"
+    },
+    "woraus": {
+      "type": "ADV"
+    },
+    "wonach": {
+      "type": "ADV"
+    },
+    "wofür": {
+      "type": "ADV"
+    },
     "woher": {
+      "type": "ADV"
+    },
+    "wovon": {
       "type": "ADV"
     },
     "wann": {
@@ -183,16 +639,106 @@
     "warum": {
       "type": "ADV"
     },
+    "wieso": {
+      "type": "ADV"
+    },
+    "wieviel": {
+      "type": "ADV"
+    },
     "wodurch": {
       "type": "ADV"
     },
     "womit": {
       "type": "ADV"
     },
+    "worum": {
+      "type": "ADV"
+    },
+    "anders": {
+      "type": "ADV"
+    },
     "ca": {
       "type": "ADV"
     },
+    "etwa": {
+      "type": "ADV"
+    },
+    "mithin": {
+      "type": "ADV"
+    },
+    "ebenda": {
+      "type": "ADV"
+    },
+    "herbei": {
+      "type": "ADV"
+    },
+    "daheim": {
+      "type": "ADV"
+    },
+    "rundum": {
+      "type": "ADV"
+    },
+    "etwas": {
+      "type": "ADV"
+    },
+    "sogar": {
+      "type": "ADV"
+    },
+    "gewiß": {
+      "type": "ADV"
+    },
+    "bspw": {
+      "type": "ADV"
+    },
+    "beispielsweise": {
+      "type": "ADV"
+    },
+    "inne": {
+      "type": "ADV"
+    },
+    "meist": {
+      "type": "ADV"
+    },
+    "meistens": {
+      "type": "ADV"
+    },
     "circa": {
+      "type": "ADV"
+    },
+    "zirka": {
+      "type": "ADV"
+    },
+    "umso": {
+      "type": "ADV"
+    },
+    "vorn": {
+      "type": "ADV"
+    },
+    "vorm": {
+      "type": "ADV"
+    },
+    "herum": {
+      "type": "ADV"
+    },
+    "netto": {
+      "type": "ADV"
+    },
+    "brutto": {
+      "type": "ADV"
+    },
+    "rings": {
+      "type": "ADV"
+    },
+    "heran": {
+      "type": "ADV"
+    },
+    "vitro": {
+      "type": "ADV"
+    },
+    "ehem": {
+      "type": "ADV"
+    },
+    "ehemals": {
       "type": "ADV"
     },
     "abseits": {
@@ -210,10 +756,22 @@
     "nachdem": {
       "type": "ADP"
     },
+    "bevor": {
+      "type": "ADP"
+    },
     "trotz": {
       "type": "ADP"
     },
     "aus": {
+      "type": "ADP"
+    },
+    "inkl": {
+      "type": "ADP"
+    },
+    "bzgl": {
+      "type": "ADP"
+    },
+    "bezüglich": {
       "type": "ADP"
     },
     "seit": {
@@ -225,7 +783,13 @@
     "bei": {
       "type": "ADP"
     },
+    "beim": {
+      "type": "ADP"
+    },
     "durch": {
+      "type": "ADP"
+    },
+    "durchs": {
       "type": "ADP"
     },
     "zu": {
@@ -246,6 +810,9 @@
     "für": {
       "type": "ADP"
     },
+    "fürs": {
+      "type": "ADP"
+    },
     "ohne": {
       "type": "ADP"
     },
@@ -262,6 +829,15 @@
       "type": "ADP"
     },
     "auf": {
+      "type": "ADP"
+    },
+    "jedoch": {
+      "type": "ADP"
+    },
+    "wieder": {
+      "type": "ADP"
+    },
+    "aufs": {
       "type": "ADP"
     },
     "an": {
@@ -310,6 +886,21 @@
       "type": "ADP"
     },
     "über": {
+      "type": "ADP"
+    },
+    "übers": {
+      "type": "ADP"
+    },
+    "anhand": {
+      "type": "ADP"
+    },
+    "außer": {
+      "type": "ADP"
+    },
+    "nicht": {
+      "type": "ADP"
+    },
+    "statt": {
       "type": "ADP"
     },
     "ja": {
@@ -363,6 +954,9 @@
     "dass": {
       "type": "CONJ"
     },
+    "daß": {
+      "type": "CONJ"
+    },
     "sodass": {
       "type": "CONJ"
     },
@@ -375,6 +969,12 @@
     "falls": {
       "type": "CONJ"
     },
+    "sowie": {
+      "type": "CONJ"
+    },
+    "sowohl": {
+      "type": "CONJ"
+    },
     "ob": {
       "type": "CONJ"
     },
@@ -385,6 +985,9 @@
       "type": "CONJ"
     },
     "de": {
+      "type": "CONJ"
+    },
+    "facto": {
       "type": "CONJ"
     },
     "van": {
@@ -426,16 +1029,28 @@
     "desto": {
       "type": "CONJ"
     },
+    "wobei": {
+      "type": "CONJ"
+    },
     "und": {
       "type": "CONJ"
     },
     "weder": {
       "type": "CONJ"
     },
+    "sofern": {
+      "type": "CONJ"
+    },
+    "sobald": {
+      "type": "CONJ"
+    },
     "noch": {
       "type": "CONJ"
     },
     "bzw": {
+      "type": "CONJ"
+    },
+    "evtl": {
       "type": "CONJ"
     },
     "mm": {
@@ -451,100 +1066,283 @@
       "type": "UNIT"
     },
     "the": {
-      "type": "DET,PRON"
+      "type": "DET"
     },
     "and": {
       "type": "CONJ"
     },
     "ab-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "an-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "auf-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "aus-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "be-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "bei-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "dar-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "dran-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "durch-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "ein-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "ent-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "er-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "fort-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "frei-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "ge-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "her-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "hin-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "hinter-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "hoch-": {
-      "type": "VADP"
+      "type": "VPFX"
+    },
+    "einher-": {
+      "type": "VPFX"
     },
     "mit-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "nach-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "tief-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "über-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "um-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "unter-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "ver-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "vor-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "weg-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "zer-": {
-      "type": "VADP"
+      "type": "VPFX"
     },
     "zu-": {
-      "type": "VADP"
+      "type": "VPFX"
+    },
+    "erst-": {
+      "type": "VPFX"
+    },
+    "zweit-": {
+      "type": "VPFX"
+    },
+    "dritt-": {
+      "type": "VPFX"
+    },
+    "viert-": {
+      "type": "VPFX"
+    },
+    "fünft-": {
+      "type": "VPFX"
+    },
+    "sechst-": {
+      "type": "VPFX"
+    },
+    "siebent-": {
+      "type": "VPFX"
+    },
+    "acht-": {
+      "type": "VPFX"
+    },
+    "neunt-": {
+      "type": "VPFX"
+    },
+    "zugute-": {
+      "type": "VPFX"
+    },
+    "hinaus-": {
+      "type": "VPFX"
+    },
+    "un-": {
+      "type": "APFX"
+    },
+    "eins": {
+      "type": "NUM"
+    },
+    "zwei": {
+      "type": "NUM"
+    },
+    "drei": {
+      "type": "NUM"
+    },
+    "vier": {
+      "type": "NUM"
+    },
+    "fünf": {
+      "type": "NUM"
+    },
+    "sechs": {
+      "type": "NUM"
+    },
+    "sieben": {
+      "type": "NUM"
+    },
+    "acht": {
+      "type": "NUM"
+    },
+    "neun": {
+      "type": "NUM"
+    },
+    "zehn": {
+      "type": "NUM"
+    },
+    "elf": {
+      "type": "NUM"
+    },
+    "zwölf": {
+      "type": "NUM"
+    },
+    "erste": {
+      "type": "NUM"
+    },
+    "ersten": {
+      "type": "NUM"
+    },
+    "erster": {
+      "type": "NUM"
+    },
+    "erstes": {
+      "type": "NUM"
+    },
+    "zweite": {
+      "type": "NUM"
+    },
+    "zweiten": {
+      "type": "NUM"
+    },
+    "zweiter": {
+      "type": "NUM"
+    },
+    "zweites": {
+      "type": "NUM"
+    },
+    "dritte": {
+      "type": "NUM"
+    },
+    "dritten": {
+      "type": "NUM"
+    },
+    "dritter": {
+      "type": "NUM"
+    },
+    "drittes": {
+      "type": "NUM"
+    },
+    "vierte": {
+      "type": "NUM"
+    },
+    "vierten": {
+      "type": "NUM"
+    },
+    "vierter": {
+      "type": "NUM"
+    },
+    "viertes": {
+      "type": "NUM"
+    },
+    "fünfte": {
+      "type": "NUM"
+    },
+    "fünften": {
+      "type": "NUM"
+    },
+    "fünfter": {
+      "type": "NUM"
+    },
+    "fünftes": {
+      "type": "NUM"
+    },
+    "sechste": {
+      "type": "NUM"
+    },
+    "sechsten": {
+      "type": "NUM"
+    },
+    "sechster": {
+      "type": "NUM"
+    },
+    "sechster": {
+      "type": "NUM"
+    },
+    "siebente": {
+      "type": "NUM"
+    },
+    "siebenten": {
+      "type": "NUM"
+    },
+    "siebenter": {
+      "type": "NUM"
+    },
+    "siebentes": {
+      "type": "NUM"
+    },
+    "achte": {
+      "type": "NUM"
+    },
+    "achten": {
+      "type": "NUM"
+    },
+    "achter": {
+      "type": "NUM"
+    },
+    "achtes": {
+      "type": "NUM"
+    },
+    "neunte": {
+      "type": "NUM"
+    },
+    "neunten": {
+      "type": "NUM"
+    },
+    "neunter": {
+      "type": "NUM"
+    },
+    "neuntes": {
+      "type": "NUM"
     }
   }
 }
