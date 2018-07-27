@@ -1,963 +1,2884 @@
 {
   "lemmas": {
-    "ab und zu": 1,
-    "abends": 1,
-    "aber": 1,
-    "abermals": 1,
-    "abhanden": 1,
-    "abher": 1,
-    "abhin": 1,
-    "abseits": 1,
-    "absonderlicherweise": 1,
-    "absurderweise": 1,
-    "achtens": 1,
-    "achteraus": 1,
-    "achtern": 1,
-    "allda": 1,
-    "alldieweil": 1,
-    "alle naselang": 1,
-    "alle naslang": 1,
-    "allein": 1,
-    "allemal": 1,
-    "allenfalls": 1,
-    "allenthalben": 1,
-    "allerdings": 1,
-    "allerhöchstens": 1,
-    "allerorten": 1,
-    "allerseits": 1,
-    "alleweg": 1,
-    "alleweil": 1,
-    "allgemach": 1,
-    "allseits": 1,
-    "allzeit": 1,
-    "allzu": 1,
-    "alsbald": 1,
-    "alsdann": 1,
-    "also": 1,
-    "alters": 1,
-    "altershalber": 1,
-    "amtshalber": 1,
-    "an": 1,
-    "an und für sich": 1,
-    "anbei": 1,
-    "andante": 1,
-    "andantino": 1,
-    "anderenfalls": 1,
-    "anderenorts": 1,
-    "anderentags": 1,
-    "andererseits": 1,
-    "andernfalls": 1,
-    "andernorts": 1,
-    "anderntags": 1,
-    "anders": 1,
-    "anderswo": 1,
-    "anderweit": 1,
-    "andrerseits": 1,
-    "aneinander": 1,
-    "anfangs": 1,
-    "angst": 1,
-    "anhand": 1,
-    "anjetzt": 1,
-    "anno": 1,
-    "ansatzweise": 1,
-    "ansonsten": 1,
-    "anstandshalber": 1,
-    "anständigerweise": 1,
-    "anstandslos": 1,
-    "apropos": 1,
-    "auch": 1,
-    "auf": 1,
-    "aufhin": 1,
-    "aufi": 1,
-    "aufwärts": 1,
-    "aus": 1,
-    "auseinander": 1,
-    "ausgangs": 1,
-    "aushilfsweise": 1,
-    "ausnahmsweise": 1,
-    "außen": 1,
-    "außenvor": 1,
-    "außer Stande": 1,
-    "außerdem": 1,
-    "außerhalb": 1,
-    "außerorts": 1,
-    "außerstande": 1,
-    "auswärts": 1,
-    "backbord": 1,
-    "bald": 1,
-    "bäuchlings": 1,
-    "bauchoben": 1,
-    "bedauerlicherweise": 1,
-    "befremdlicherweise": 1,
-    "behelfsweise": 1,
-    "beiderseits": 1,
-    "beidseits": 1,
-    "beieinander": 1,
-    "beinahe": 1,
-    "beisammen": 1,
-    "beiseite": 1,
-    "beispielhalber": 1,
-    "beispielsweise": 1,
-    "beizeiten": 1,
-    "beizu": 1,
-    "bekanntermaßen": 1,
-    "bemerkenswerterweise": 1,
-    "bequemlichkeitshalber": 1,
-    "bereits": 1,
-    "bergab": 1,
-    "bergan": 1,
-    "bergauf": 1,
-    "berufshalber": 1,
-    "besonders": 1,
-    "bestenfalls": 1,
-    "bestens": 1,
-    "bestimmt": 1,
-    "bezeichnenderweise": 1,
-    "billigermaßen": 1,
-    "billigerweise": 1,
-    "bisher": 1,
-    "bislang": 1,
-    "bisschen": 1,
-    "bisweilen": 1,
-    "bitte": 1,
-    "blindlings": 1,
-    "bloß": 1,
-    "blödsinnigerweise": 1,
-    "brockenweise": 1,
-    "circa": 1,
-    "crescendo": 1,
-    "da": 1,
-    "dabei": 1,
-    "dadrauf": 1,
-    "dadurch": 1,
-    "dafür": 1,
-    "dagegen": 1,
-    "dahannen": 1,
-    "dahaußen": 1,
-    "daheim": 1,
-    "daher": 1,
-    "dahin": 1,
-    "dahinnen": 1,
-    "dahinten": 1,
-    "dahüben": 1,
-    "dahunten": 1,
-    "dalli": 1,
-    "damals": 1,
-    "damit": 1,
-    "danach": 1,
-    "daneben": 1,
-    "dankenswerterweise": 1,
-    "dann": 1,
-    "daran": 1,
-    "darauf": 1,
-    "daraufhin": 1,
-    "daraus": 1,
-    "darein": 1,
-    "darin": 1,
-    "darob": 1,
-    "darüber": 1,
-    "darum": 1,
-    "darunter": 1,
-    "daselbst": 1,
-    "dato": 1,
-    "dauernd": 1,
-    "dauß": 1,
-    "daußen": 1,
-    "davon": 1,
-    "davor": 1,
-    "dazu": 1,
-    "dazumal": 1,
-    "dazwischen": 1,
-    "deinerseits": 1,
-    "deinetwillen": 1,
-    "dementgegen": 1,
-    "demnach": 1,
-    "demnächst": 1,
-    "demzufolge": 1,
-    "denn": 1,
-    "dennoch": 1,
-    "derart": 1,
-    "dereinst": 1,
-    "dermaßen": 1,
-    "derohalben": 1,
-    "derowegen": 1,
-    "derweil": 1,
-    "deshalb": 1,
-    "dessen ungeachtet": 1,
-    "dessentwillen": 1,
-    "deswegen": 1,
-    "detto": 1,
-    "deutlichkeitshalber": 1,
-    "dichtauf": 1,
-    "dienstags": 1,
-    "dieserart": 1,
-    "diesmal": 1,
-    "dieweil": 1,
-    "diktando": 1,
-    "diminuendo": 1,
-    "direttissimo": 1,
-    "dito": 1,
-    "doch": 1,
-    "donnerstags": 1,
-    "dort": 1,
-    "dorther": 1,
-    "dorthin": 1,
-    "dorthinan": 1,
-    "dortmals": 1,
-    "dortzulande": 1,
-    "dran": 1,
-    "drauf": 1,
-    "draußen": 1,
-    "drin": 1,
-    "drinnen": 1,
-    "droben": 1,
-    "drüben": 1,
-    "drüber": 1,
-    "drum": 1,
-    "drumherum": 1,
-    "drunten": 1,
-    "dummerweise": 1,
-    "durch": 1,
-    "durchaus": 1,
-    "durcheinander": 1,
-    "durchweg": 1,
-    "dutzendmal": 1,
-    "eben": 1,
-    "ebenda": 1,
-    "ebendaher": 1,
-    "ebendaselbst": 1,
-    "ebendort": 1,
-    "ebenfalls": 1,
-    "ebenso": 1,
-    "egal": 1,
-    "eh": 1,
-    "ehedem": 1,
-    "ehemals": 1,
-    "eher": 1,
-    "ehnder": 1,
-    "ehrenhalber": 1,
-    "ehrlicherweise": 1,
-    "eigenartigerweise": 1,
-    "eigens": 1,
-    "eigentümlicherweise": 1,
-    "eilends": 1,
-    "eimerweise": 1,
-    "einerseits": 1,
-    "einfacherweise": 1,
-    "einfachheitshalber": 1,
-    "eingangs": 1,
-    "einigermaßen": 1,
-    "einmal": 1,
-    "eins": 1,
-    "einst": 1,
-    "einstmals": 1,
-    "einstweilen": 1,
-    "elbabwärts": 1,
-    "elbaufwärts": 1,
-    "empor": 1,
-    "entgegen": 1,
-    "erforderlichenfalls": 1,
-    "erfreulicherweise": 1,
-    "ergo": 1,
-    "erprobungshalber": 1,
-    "erst": 1,
-    "erstaunlicherweise": 1,
-    "erstens": 1,
-    "erstmal": 1,
-    "erstmals": 1,
-    "erwartungsgemäß": 1,
-    "etwa": 1,
-    "etwas": 1,
-    "euertwillen": 1,
-    "eurerseits": 1,
-    "euretwillen": 1,
-    "eventualiter": 1,
-    "extra": 1,
-    "fairerweise": 1,
-    "faktisch": 1,
-    "fast": 1,
-    "faszinierenderweise": 1,
-    "ferienhalber": 1,
-    "fernab": 1,
-    "ferner": 1,
-    "flugs": 1,
-    "flussabwärts": 1,
-    "flussaufwärts": 1,
-    "folgendermaßen": 1,
-    "fort": 1,
-    "fortan": 1,
-    "franco": 1,
-    "franko": 1,
-    "freiheraus": 1,
-    "freitags": 1,
-    "freundlicherweise": 1,
-    "früher": 1,
-    "frühestens": 1,
-    "frühmorgens": 1,
-    "fürderhin": 1,
-    "fürwahr": 1,
-    "ganztags": 1,
-    "gar": 1,
-    "gebietsweise": 1,
-    "gech": 1,
-    "gefälligkeitshalber": 1,
-    "gefälligst": 1,
-    "gegebenenfalls": 1,
-    "gegenüber": 1,
-    "gemach": 1,
-    "gemeinhin": 1,
-    "gen": 1,
-    "genau": 1,
-    "genauestens": 1,
-    "genauso": 1,
-    "genug": 1,
-    "gerade": 1,
-    "geradeaus": 1,
-    "geradeheraus": 1,
-    "geradeso": 1,
-    "geradewegs": 1,
-    "geradezu": 1,
-    "gerechterweise": 1,
-    "gern": 1,
-    "gerne": 1,
-    "geschäftehalber": 1,
-    "gestern": 1,
-    "gesundheitshalber": 1,
-    "gewissermaßen": 1,
-    "gleich": 1,
-    "gleichauf": 1,
-    "gleichentags": 1,
-    "gleichermaßen": 1,
-    "gleichfalls": 1,
-    "gleichsam": 1,
-    "gleichviel": 1,
-    "gleichwohl": 1,
-    "glücklicherweise": 1,
-    "grad": 1,
-    "gradweise": 1,
-    "gratis": 1,
-    "großenteils": 1,
-    "großteils": 1,
-    "größtenteils": 1,
-    "gruppenweise": 1,
-    "grüppchenweise": 1,
-    "gutenteils": 1,
-    "gültigkeitshalber": 1,
-    "günstigenfalls": 1,
-    "halb": 1,
-    "halb leer": 1,
-    "halb voll": 1,
-    "halbe-halbe": 1,
-    "halbleer": 1,
-    "halbmast": 1,
-    "halbtags": 1,
-    "halbvoll": 1,
-    "halbwegs": 1,
-    "halt": 1,
-    "hannen": 1,
-    "haufenweise": 1,
-    "hauß": 1,
-    "haußen": 1,
-    "häppchenweise": 1,
-    "hehlings": 1,
-    "heim": 1,
-    "heimwärts": 1,
-    "heint": 1,
-    "hellauf": 1,
-    "her": 1,
-    "herab": 1,
-    "heran": 1,
-    "herauf": 1,
-    "heraus": 1,
-    "herbei": 1,
-    "herein": 1,
-    "hergebrachterweise": 1,
-    "herinnen": 1,
-    "hernach": 1,
-    "heroben": 1,
-    "herüber": 1,
-    "herum": 1,
-    "herunten": 1,
-    "herunter": 1,
-    "hervor": 1,
-    "herzu": 1,
-    "heuer": 1,
-    "heute": 1,
-    "heutigentags": 1,
-    "heutzutage": 1,
-    "hie": 1,
-    "hie und da": 1,
-    "hiedurch": 1,
-    "hiefür": 1,
-    "hienieden": 1,
-    "hier": 1,
-    "hieran": 1,
-    "hierauf": 1,
-    "hierbei": 1,
-    "hierdurch": 1,
-    "hierfür": 1,
-    "hierher": 1,
-    "hierhin": 1,
-    "hiermit": 1,
-    "hierunter": 1,
-    "hierzu": 1,
-    "hierzuland": 1,
-    "hierzulande": 1,
-    "hiezu": 1,
-    "himmelan": 1,
-    "himmelwärts": 1,
-    "hin": 1,
-    "hinab": 1,
-    "hinauf": 1,
-    "hinaus": 1,
-    "hindurch": 1,
-    "hinein": 1,
-    "hinfort": 1,
-    "hinnen": 1,
-    "hinten": 1,
-    "hintenach": 1,
-    "hintereinander": 1,
-    "hintereinanderweg": 1,
-    "hinterher": 1,
-    "hinterhin": 1,
-    "hinterrücks": 1,
-    "hinüber": 1,
-    "hinum": 1,
-    "hinunter": 1,
-    "hinweg": 1,
-    "hinzu": 1,
-    "hoben": 1,
-    "hoch": 1,
-    "hochkant": 1,
-    "höchst": 1,
-    "höchstens": 1,
-    "holterdiepolter": 1,
-    "holterdipolter": 1,
-    "hopplahopp": 1,
-    "höflichkeitshalber": 1,
-    "hüben": 1,
-    "hujus": 1,
-    "hunten": 1,
-    "idealerweise": 1,
-    "idealiter": 1,
-    "ihrerseits": 1,
-    "ihretwegen": 1,
-    "im großen Ganzen": 1,
-    "im Nachhinein": 1,
-    "im Voraus": 1,
-    "im Vorhinein": 1,
-    "immer": 1,
-    "immerdar": 1,
-    "immerhin": 1,
-    "immerzu": 1,
-    "imstande": 1,
-    "indem": 1,
-    "indes": 1,
-    "infolgedessen": 1,
-    "infrage": 1,
-    "inkognito": 1,
-    "innen": 1,
-    "innerorts": 1,
-    "insbesondere": 1,
-    "insgeheim": 1,
-    "insgesamt": 1,
-    "insofern": 1,
-    "instand": 1,
-    "interessanterweise": 1,
-    "interessehalber": 1,
-    "intus": 1,
-    "inwiefern": 1,
-    "inzwischen": 1,
-    "irgend": 1,
-    "irgendwann": 1,
-    "irgendwie": 1,
-    "irgendwo": 1,
-    "ironischerweise": 1,
-    "irrigerweise": 1,
-    "item": 1,
-    "itzo": 1,
-    "itzund": 1,
-    "jählings": 1,
-    "jawohl": 1,
-    "je": 1,
-    "jedenfalls": 1,
-    "jederzeit": 1,
-    "jedesmal": 1,
-    "jedoch": 1,
-    "jeher": 1,
-    "jemals": 1,
-    "jenseits": 1,
-    "jetzt": 1,
-    "jeweils": 1,
-    "jüngst": 1,
-    "just": 1,
-    "justament": 1,
-    "kapitelweise": 1,
-    "kaum": 1,
-    "keinesfalls": 1,
-    "keineswegs": 1,
-    "keinmal": 1,
-    "klassischerweise": 1,
-    "kleinweis": 1,
-    "klipp": 1,
-    "komischerweise": 1,
-    "komplizierterweise": 1,
-    "kopfüber": 1,
-    "kreuzweise": 1,
-    "kurioserweise": 1,
-    "kurzerhand": 1,
-    "kurzweg": 1,
-    "landab": 1,
-    "landauf": 1,
-    "lange": 1,
-    "längs": 1,
-    "längsseits": 1,
-    "längst": 1,
-    "lauter": 1,
-    "lauthals": 1,
-    "leewärts": 1,
-    "leichterhand": 1,
-    "leider": 1,
-    "letztens": 1,
-    "letzthin": 1,
-    "letztmals": 1,
-    "lieber": 1,
-    "links": 1,
-    "literweise": 1,
-    "logischerweise": 1,
-    "los": 1,
-    "lustigerweise": 1,
-    "luvwärts": 1,
-    "massenweise": 1,
-    "mal": 1,
-    "manchenorts": 1,
-    "mancherorts": 1,
-    "manchmal": 1,
-    "meerwärts": 1,
-    "mehr": 1,
-    "mehrmals": 1,
-    "meinerseits": 1,
-    "meinerzeit": 1,
-    "meinethalben": 1,
-    "meinetwegen": 1,
-    "meinetwillen": 1,
-    "meist": 1,
-    "meistens": 1,
-    "meistenteils": 1,
-    "merkwürdigerweise": 1,
-    "minder": 1,
-    "mindestens": 1,
-    "missbräuchlicherweise": 1,
-    "miteinander": 1,
-    "mithin": 1,
-    "mitnichten": 1,
-    "mittags": 1,
-    "mitten": 1,
-    "mittendrin": 1,
-    "mittenmang": 1,
-    "mitternachts": 1,
-    "mittlerweile": 1,
-    "mittschiffs": 1,
-    "mittsommers": 1,
-    "mittwochs": 1,
-    "mitunter": 1,
-    "möglicherweise": 1,
-    "möglichst": 1,
-    "montags": 1,
-    "morgen": 1,
-    "morgens": 1,
-    "mütterlicherseits": 1,
-    "mysteriöserweise": 1,
-    "nach rechts": 1,
-    "nach und nach": 1,
-    "nacheinander": 1,
-    "nachgerade": 1,
-    "nachher": 1,
-    "nachmals": 1,
-    "nachmittags": 1,
-    "nachtsüber": 1,
-    "nahebei": 1,
-    "nächstens": 1,
-    "nächtens": 1,
-    "nachts": 1,
-    "näherungsweise": 1,
-    "nahezu": 1,
-    "namens": 1,
-    "nebenan": 1,
-    "nebenbei": 1,
-    "nebenbei": 1,
-    "nebeneinander": 1,
-    "nebenher": 1,
-    "nee": 1,
-    "nein": 1,
-    "net": 1,
-    "netterweise": 1,
-    "neuerdings": 1,
-    "nicht": 1,
-    "nie": 1,
-    "niemals": 1,
-    "nimmer": 1,
-    "nimmermehr": 1,
-    "nirgends": 1,
-    "nirgendwo": 1,
-    "nirgendwohin": 1,
-    "noch": 1,
-    "noch mal": 1,
-    "nocheinmal": 1,
-    "nochmal": 1,
-    "nochmals": 1,
-    "nordwärts": 1,
-    "normalerweise": 1,
-    "notabene": 1,
-    "notfalls": 1,
-    "nötigenfalls": 1,
-    "notwendigerweise": 1,
-    "nu": 1,
-    "nun": 1,
-    "nunmehr": 1,
-    "nur": 1,
-    "oben": 1,
-    "obendrein": 1,
-    "offenbar": 1,
-    "oft": 1,
-    "oftmals": 1,
-    "ohnedem": 1,
-    "ohnedies": 1,
-    "ohnegleichen": 1,
-    "ohnehin": 1,
-    "ohnlängst": 1,
-    "ordnungshalber": 1,
-    "ostwärts": 1,
-    "paarmal": 1,
-    "paarweise": 1,
-    "paradoxerweise": 1,
-    "parterre": 1,
-    "partout": 1,
-    "passim": 1,
-    "peu à peu": 1,
-    "pikanterweise": 1,
-    "pillepalle": 1,
-    "polwärts": 1,
-    "praktisch": 1,
-    "praktischerweise": 1,
-    "prima": 1,
-    "privatim": 1,
-    "probehalber": 1,
-    "quartalsweise": 1,
-    "quasi": 1,
-    "quer": 1,
-    "querbeet": 1,
-    "querfeldein": 1,
-    "ran": 1,
-    "ratzeputz": 1,
-    "ratzfatz": 1,
-    "raus": 1,
-    "realiter": 1,
-    "recht": 1,
-    "rechtens": 1,
-    "rechts": 1,
-    "reihenweise": 1,
-    "rein": 1,
-    "retour": 1,
-    "ringsherum": 1,
-    "ringsum": 1,
-    "ringsumher": 1,
-    "rittlings": 1,
-    "rüber": 1,
-    "rücklings": 1,
-    "rückwärts": 1,
-    "ruckzuck": 1,
-    "rum": 1,
-    "rund": 1,
-    "rundherum": 1,
-    "rundum": 1,
-    "samstags": 1,
-    "schandehalber": 1,
-    "scharenweise": 1,
-    "schätzungsweise": 1,
-    "scheibchenweise": 1,
-    "schier": 1,
-    "schlankweg": 1,
-    "schlechthin": 1,
-    "schlimmstenfalls": 1,
-    "schnellstens": 1,
-    "schnurstracks": 1,
-    "schon": 1,
-    "schonmal": 1,
-    "schrittweise": 1,
-    "schuldenhalber": 1,
-    "sehr": 1,
-    "seinerseits": 1,
-    "seinerzeit": 1,
-    "seinethalben": 1,
-    "seinetwegen": 1,
-    "seinetwillen": 1,
-    "seitab": 1,
-    "seitdem": 1,
-    "seither": 1,
-    "seitlings": 1,
-    "seitwärts": 1,
-    "selbander": 1,
-    "selbdritt": 1,
-    "selbigesmal": 1,
-    "selbst": 1,
-    "selbviert": 1,
-    "seltsamerweise": 1,
-    "sicherheitshalber": 1,
-    "sinnvollerweise": 1,
-    "so": 1,
-    "so lala": 1,
-    "sodann": 1,
-    "soeben": 1,
-    "sofort": 1,
-    "sogar": 1,
-    "sogleich": 1,
-    "solala": 1,
-    "somit": 1,
-    "sommers": 1,
-    "sommersüber": 1,
-    "sonderbarerweise": 1,
-    "sonnabends": 1,
-    "sonntags": 1,
-    "sonst": 1,
-    "soweit": 1,
-    "sowieso": 1,
-    "sozusagen": 1,
-    "spätabends": 1,
-    "später": 1,
-    "spätestens": 1,
-    "spätnachmittags": 1,
-    "sperrangelweit": 1,
-    "stadtauswärts": 1,
-    "stadteinwärts": 1,
-    "statt": 1,
-    "stattdessen": 1,
-    "stellenweise": 1,
-    "stets": 1,
-    "steuerbord": 1,
-    "stoßweise": 1,
-    "stracks": 1,
-    "stromab": 1,
-    "stromauf": 1,
-    "studienhalber": 1,
-    "stufenweise": 1,
-    "stückchenweise": 1,
-    "stückweise": 1,
-    "südwärts": 1,
-    "sukzessive": 1,
-    "tageweise": 1,
-    "tags": 1,
-    "tagsunter": 1,
-    "tagsüber": 1,
-    "talwärts": 1,
-    "teils": 1,
-    "teilweise": 1,
-    "testweise": 1,
-    "traurigerweise": 1,
-    "treppab": 1,
-    "treppauf": 1,
-    "tröpfchenweise": 1,
-    "tropfenweise": 1,
-    "trotzdem": 1,
-    "tröpferlweise": 1,
-    "tunlichst": 1,
-    "typischerweise": 1,
-    "um": 1,
-    "um deinetwillen": 1,
-    "um euertwillen": 1,
-    "um euretwillen": 1,
-    "um meinetwillen": 1,
-    "um seinetwillen": 1,
-    "um unseretwillen": 1,
-    "um unsertwillen": 1,
-    "umhin": 1,
-    "umso mehr": 1,
-    "umsonst": 1,
-    "umständehalber": 1,
-    "umstandshalber": 1,
-    "unerwarteterweise": 1,
-    "ungefähr": 1,
-    "ungefrühstückt": 1,
-    "ungerechterweise": 1,
-    "ungern": 1,
-    "ungestraft": 1,
-    "unglücklicherweise": 1,
-    "unglückseligerweise": 1,
-    "unisono": 1,
-    "unlängst": 1,
-    "unnötigerweise": 1,
-    "unsererseits": 1,
-    "unseretwillen": 1,
-    "unsertwillen": 1,
-    "unten": 1,
-    "untenan": 1,
-    "unter der Hand": 1,
-    "unterdessen": 1,
-    "untereinander": 1,
-    "untertags": 1,
-    "unterwegs": 1,
-    "unversehens": 1,
-    "unvorsichtigerweise": 1,
-    "väterlicherseits": 1,
-    "vergebens": 1,
-    "vergleichsweise": 1,
-    "vergnügenshalber": 1,
-    "vergnügungshalber": 1,
-    "verständlicherweise": 1,
-    "viel": 1,
-    "vielenorts": 1,
-    "vielerorts": 1,
-    "vielfach": 1,
-    "vielleicht": 1,
-    "vielmals": 1,
-    "vielmehr": 1,
-    "vollends": 1,
-    "volley": 1,
-    "von Zeit zu Zeit": 1,
-    "vonjeher": 1,
-    "vonstatten": 1,
-    "vorab": 1,
-    "voran": 1,
-    "vorauf": 1,
-    "voraus": 1,
-    "vorbei": 1,
-    "vordem": 1,
-    "vorerst": 1,
-    "vorgestern": 1,
-    "vorher": 1,
-    "vorhin": 1,
-    "vormals": 1,
-    "vormittags": 1,
-    "vorn": 1,
-    "vorne": 1,
-    "vorneweg": 1,
-    "vorsichtshalber": 1,
-    "vorüber": 1,
-    "vorwärts": 1,
-    "vorweg": 1,
-    "vorzugsweise": 1,
-    "wahlweise": 1,
-    "währenddem": 1,
-    "wann": 1,
-    "warum": 1,
-    "weg": 1,
-    "weiland": 1,
-    "weitab": 1,
-    "weitaus": 1,
-    "weiter": 1,
-    "weiterhin": 1,
-    "weiters": 1,
-    "weitherum": 1,
-    "weithin": 1,
-    "weniger": 1,
-    "wenigstens": 1,
-    "werktags": 1,
-    "weshalb": 1,
-    "westwärts": 1,
-    "weswegen": 1,
-    "wie": 1,
-    "wieder": 1,
-    "wiederum": 1,
-    "wieso": 1,
-    "winters": 1,
-    "wintersüber": 1,
-    "wo": 1,
-    "woanders": 1,
-    "woandershin": 1,
-    "wochenends": 1,
-    "wodurch": 1,
-    "wogegen": 1,
-    "woher": 1,
-    "woherum": 1,
-    "wohin": 1,
-    "wohl": 1,
-    "wohlan": 1,
-    "wohlauf": 1,
-    "womit": 1,
-    "womöglich": 1,
-    "wonach": 1,
-    "worauf": 1,
-    "woraufhin": 1,
-    "worein": 1,
-    "worin": 1,
-    "worüber": 1,
-    "wozu": 1,
-    "wunderbarerweise": 1,
-    "wunderlicherweise": 1,
-    "x-mal": 1,
-    "zahlungshalber": 1,
-    "zeither": 1,
-    "zeitlang": 1,
-    "zeitlebens": 1,
-    "zeitweise": 1,
-    "ziemlich": 1,
-    "zigmal": 1,
-    "zirka": 1,
-    "zu": 1,
-    "zuallerallererst": 1,
-    "zuallerallerletzt": 1,
-    "zuallererst": 1,
-    "zuallerletzt": 1,
-    "zuallermeist": 1,
-    "zualleroberst": 1,
-    "zuallerunterst": 1,
-    "zuäußerst": 1,
-    "zueinander": 1,
-    "zuerst": 1,
-    "zufälligerweise": 1,
-    "zugegebenermaßen": 1,
-    "zugleich": 1,
-    "zugrunde": 1,
-    "zugute": 1,
-    "zuhauf": 1,
-    "zuhause": 1,
-    "zulande": 1,
-    "zuleid": 1,
-    "zuleide": 1,
-    "zuletzt": 1,
-    "zumal": 1,
-    "zumeist": 1,
-    "zumindest": 1,
-    "zumindestens": 1,
-    "zumute": 1,
-    "zunächst": 1,
-    "zunutze": 1,
-    "zuoberst": 1,
-    "zur": 1,
-    "zurande": 1,
-    "zurück": 1,
-    "zusammen": 1,
-    "zuschanden": 1,
-    "zusehends": 1,
-    "zustande": 1,
-    "zuständigkeitshalber": 1,
-    "zutage": 1,
-    "zutiefst": 1,
-    "zuunterst": 1,
-    "zuviel": 1,
-    "zuvor": 1,
-    "zuvorderst": 1,
-    "zuvörderst": 1,
-    "zuweilen": 1,
-    "zuwider": 1,
-    "zuzeiten": 1,
-    "zwangsweise": 1,
-    "zwar": 1,
-    "zweifellos": 1,
-    "zweifelsohne": 1,
-    "zwischendurch": 1,
-    "überall": 1,
-    "überallhin": 1,
-    "überaus": 1,
-    "überdies": 1,
-    "überein": 1,
-    "übergangsweise": 1,
-    "überhand": 1,
-    "überhaupt": 1,
-    "übermorgen": 1,
-    "überraschenderweise": 1,
-    "üblicherweise": 1,
-    "übrigens": 1,
-    "übungshalber": 1
+    "ab und zu": {
+      "type": "ADV"
+    },
+    "abends": {
+      "type": "ADV"
+    },
+    "aber": {
+      "type": "ADV"
+    },
+    "abermals": {
+      "type": "ADV"
+    },
+    "abhanden": {
+      "type": "ADV"
+    },
+    "abher": {
+      "type": "ADV"
+    },
+    "abhin": {
+      "type": "ADV"
+    },
+    "abseits": {
+      "type": "ADV"
+    },
+    "absonderlicherweise": {
+      "type": "ADV"
+    },
+    "absurderweise": {
+      "type": "ADV"
+    },
+    "achtens": {
+      "type": "ADV"
+    },
+    "achteraus": {
+      "type": "ADV"
+    },
+    "achtern": {
+      "type": "ADV"
+    },
+    "allda": {
+      "type": "ADV"
+    },
+    "alldieweil": {
+      "type": "ADV"
+    },
+    "alle naselang": {
+      "type": "ADV"
+    },
+    "alle naslang": {
+      "type": "ADV"
+    },
+    "allein": {
+      "type": "ADV"
+    },
+    "allemal": {
+      "type": "ADV"
+    },
+    "allenfalls": {
+      "type": "ADV"
+    },
+    "allenthalben": {
+      "type": "ADV"
+    },
+    "allerdings": {
+      "type": "ADV"
+    },
+    "allerhöchstens": {
+      "type": "ADV"
+    },
+    "allerorten": {
+      "type": "ADV"
+    },
+    "allerseits": {
+      "type": "ADV"
+    },
+    "alleweg": {
+      "type": "ADV"
+    },
+    "alleweil": {
+      "type": "ADV"
+    },
+    "allgemach": {
+      "type": "ADV"
+    },
+    "allseits": {
+      "type": "ADV"
+    },
+    "allzeit": {
+      "type": "ADV"
+    },
+    "allzu": {
+      "type": "ADV"
+    },
+    "alsbald": {
+      "type": "ADV"
+    },
+    "alsdann": {
+      "type": "ADV"
+    },
+    "also": {
+      "type": "ADV"
+    },
+    "alters": {
+      "type": "ADV"
+    },
+    "altershalber": {
+      "type": "ADV"
+    },
+    "amtshalber": {
+      "type": "ADV"
+    },
+    "an": {
+      "type": "ADV"
+    },
+    "an und für sich": {
+      "type": "ADV"
+    },
+    "anbei": {
+      "type": "ADV"
+    },
+    "andante": {
+      "type": "ADV"
+    },
+    "andantino": {
+      "type": "ADV"
+    },
+    "anderenfalls": {
+      "type": "ADV"
+    },
+    "anderenorts": {
+      "type": "ADV"
+    },
+    "anderentags": {
+      "type": "ADV"
+    },
+    "andererseits": {
+      "type": "ADV"
+    },
+    "andernfalls": {
+      "type": "ADV"
+    },
+    "andernorts": {
+      "type": "ADV"
+    },
+    "anderntags": {
+      "type": "ADV"
+    },
+    "anders": {
+      "type": "ADV"
+    },
+    "anderswo": {
+      "type": "ADV"
+    },
+    "anderweit": {
+      "type": "ADV"
+    },
+    "andrerseits": {
+      "type": "ADV"
+    },
+    "aneinander": {
+      "type": "ADV"
+    },
+    "anfangs": {
+      "type": "ADV"
+    },
+    "angst": {
+      "type": "ADV"
+    },
+    "anhand": {
+      "type": "ADV"
+    },
+    "anjetzt": {
+      "type": "ADV"
+    },
+    "anno": {
+      "type": "ADV"
+    },
+    "ansatzweise": {
+      "type": "ADV"
+    },
+    "ansonsten": {
+      "type": "ADV"
+    },
+    "anstandshalber": {
+      "type": "ADV"
+    },
+    "anständigerweise": {
+      "type": "ADV"
+    },
+    "anstandslos": {
+      "type": "ADV"
+    },
+    "apropos": {
+      "type": "ADV"
+    },
+    "auch": {
+      "type": "ADV"
+    },
+    "auf": {
+      "type": "ADV"
+    },
+    "aufhin": {
+      "type": "ADV"
+    },
+    "aufi": {
+      "type": "ADV"
+    },
+    "aufwärts": {
+      "type": "ADV"
+    },
+    "aus": {
+      "type": "ADV"
+    },
+    "auseinander": {
+      "type": "ADV"
+    },
+    "ausgangs": {
+      "type": "ADV"
+    },
+    "aushilfsweise": {
+      "type": "ADV"
+    },
+    "ausnahmsweise": {
+      "type": "ADV"
+    },
+    "außen": {
+      "type": "ADV"
+    },
+    "außenvor": {
+      "type": "ADV"
+    },
+    "außer Stande": {
+      "type": "ADV"
+    },
+    "außerdem": {
+      "type": "ADV"
+    },
+    "außerhalb": {
+      "type": "ADV"
+    },
+    "außerorts": {
+      "type": "ADV"
+    },
+    "außerstande": {
+      "type": "ADV"
+    },
+    "auswärts": {
+      "type": "ADV"
+    },
+    "backbord": {
+      "type": "ADV"
+    },
+    "bald": {
+      "type": "ADV"
+    },
+    "bäuchlings": {
+      "type": "ADV"
+    },
+    "bauchoben": {
+      "type": "ADV"
+    },
+    "bedauerlicherweise": {
+      "type": "ADV"
+    },
+    "befremdlicherweise": {
+      "type": "ADV"
+    },
+    "behelfsweise": {
+      "type": "ADV"
+    },
+    "beiderseits": {
+      "type": "ADV"
+    },
+    "beidseits": {
+      "type": "ADV"
+    },
+    "beieinander": {
+      "type": "ADV"
+    },
+    "beinahe": {
+      "type": "ADV"
+    },
+    "beisammen": {
+      "type": "ADV"
+    },
+    "beiseite": {
+      "type": "ADV"
+    },
+    "beispielhalber": {
+      "type": "ADV"
+    },
+    "beispielsweise": {
+      "type": "ADV"
+    },
+    "beizeiten": {
+      "type": "ADV"
+    },
+    "beizu": {
+      "type": "ADV"
+    },
+    "bekanntermaßen": {
+      "type": "ADV"
+    },
+    "bemerkenswerterweise": {
+      "type": "ADV"
+    },
+    "bequemlichkeitshalber": {
+      "type": "ADV"
+    },
+    "bereits": {
+      "type": "ADV"
+    },
+    "bergab": {
+      "type": "ADV"
+    },
+    "bergan": {
+      "type": "ADV"
+    },
+    "bergauf": {
+      "type": "ADV"
+    },
+    "berufshalber": {
+      "type": "ADV"
+    },
+    "besonders": {
+      "type": "ADV"
+    },
+    "bestenfalls": {
+      "type": "ADV"
+    },
+    "bestens": {
+      "type": "ADV"
+    },
+    "bestimmt": {
+      "type": "ADV"
+    },
+    "bezeichnenderweise": {
+      "type": "ADV"
+    },
+    "billigermaßen": {
+      "type": "ADV"
+    },
+    "billigerweise": {
+      "type": "ADV"
+    },
+    "bisher": {
+      "type": "ADV"
+    },
+    "bislang": {
+      "type": "ADV"
+    },
+    "bisschen": {
+      "type": "ADV"
+    },
+    "bisweilen": {
+      "type": "ADV"
+    },
+    "bitte": {
+      "type": "ADV"
+    },
+    "blindlings": {
+      "type": "ADV"
+    },
+    "bloß": {
+      "type": "ADV"
+    },
+    "blödsinnigerweise": {
+      "type": "ADV"
+    },
+    "brockenweise": {
+      "type": "ADV"
+    },
+    "ca": {
+      "type": "ADV"
+    },
+    "circa": {
+      "type": "ADV"
+    },
+    "crescendo": {
+      "type": "ADV"
+    },
+    "da": {
+      "type": "ADV"
+    },
+    "dabei": {
+      "type": "ADV"
+    },
+    "dadrauf": {
+      "type": "ADV"
+    },
+    "dadurch": {
+      "type": "ADV"
+    },
+    "dafür": {
+      "type": "ADV"
+    },
+    "dagegen": {
+      "type": "ADV"
+    },
+    "dahannen": {
+      "type": "ADV"
+    },
+    "dahaußen": {
+      "type": "ADV"
+    },
+    "daheim": {
+      "type": "ADV"
+    },
+    "daher": {
+      "type": "ADV"
+    },
+    "dahin": {
+      "type": "ADV"
+    },
+    "dahinnen": {
+      "type": "ADV"
+    },
+    "dahinten": {
+      "type": "ADV"
+    },
+    "dahüben": {
+      "type": "ADV"
+    },
+    "dahunten": {
+      "type": "ADV"
+    },
+    "dalli": {
+      "type": "ADV"
+    },
+    "damals": {
+      "type": "ADV"
+    },
+    "damit": {
+      "type": "ADV"
+    },
+    "danach": {
+      "type": "ADV"
+    },
+    "daneben": {
+      "type": "ADV"
+    },
+    "dankenswerterweise": {
+      "type": "ADV"
+    },
+    "dann": {
+      "type": "ADV"
+    },
+    "daran": {
+      "type": "ADV"
+    },
+    "darauf": {
+      "type": "ADV"
+    },
+    "daraufhin": {
+      "type": "ADV"
+    },
+    "daraus": {
+      "type": "ADV"
+    },
+    "darein": {
+      "type": "ADV"
+    },
+    "darin": {
+      "type": "ADV"
+    },
+    "darob": {
+      "type": "ADV"
+    },
+    "darüber": {
+      "type": "ADV"
+    },
+    "darum": {
+      "type": "ADV"
+    },
+    "darunter": {
+      "type": "ADV"
+    },
+    "daselbst": {
+      "type": "ADV"
+    },
+    "dato": {
+      "type": "ADV"
+    },
+    "dauernd": {
+      "type": "ADV"
+    },
+    "dauß": {
+      "type": "ADV"
+    },
+    "daußen": {
+      "type": "ADV"
+    },
+    "davon": {
+      "type": "ADV"
+    },
+    "davor": {
+      "type": "ADV"
+    },
+    "dazu": {
+      "type": "ADV"
+    },
+    "dazumal": {
+      "type": "ADV"
+    },
+    "dazwischen": {
+      "type": "ADV"
+    },
+    "deinerseits": {
+      "type": "ADV"
+    },
+    "deinetwillen": {
+      "type": "ADV"
+    },
+    "dementgegen": {
+      "type": "ADV"
+    },
+    "demnach": {
+      "type": "ADV"
+    },
+    "demnächst": {
+      "type": "ADV"
+    },
+    "demzufolge": {
+      "type": "ADV"
+    },
+    "denn": {
+      "type": "ADV"
+    },
+    "dennoch": {
+      "type": "ADV"
+    },
+    "derart": {
+      "type": "ADV"
+    },
+    "dereinst": {
+      "type": "ADV"
+    },
+    "dermaßen": {
+      "type": "ADV"
+    },
+    "derohalben": {
+      "type": "ADV"
+    },
+    "derowegen": {
+      "type": "ADV"
+    },
+    "derweil": {
+      "type": "ADV"
+    },
+    "deshalb": {
+      "type": "ADV"
+    },
+    "dessen ungeachtet": {
+      "type": "ADV"
+    },
+    "dessentwillen": {
+      "type": "ADV"
+    },
+    "deswegen": {
+      "type": "ADV"
+    },
+    "detto": {
+      "type": "ADV"
+    },
+    "deutlichkeitshalber": {
+      "type": "ADV"
+    },
+    "dichtauf": {
+      "type": "ADV"
+    },
+    "dienstags": {
+      "type": "ADV"
+    },
+    "dieserart": {
+      "type": "ADV"
+    },
+    "diesmal": {
+      "type": "ADV"
+    },
+    "dieweil": {
+      "type": "ADV"
+    },
+    "diktando": {
+      "type": "ADV"
+    },
+    "diminuendo": {
+      "type": "ADV"
+    },
+    "direttissimo": {
+      "type": "ADV"
+    },
+    "dito": {
+      "type": "ADV"
+    },
+    "doch": {
+      "type": "ADV"
+    },
+    "donnerstags": {
+      "type": "ADV"
+    },
+    "dort": {
+      "type": "ADV"
+    },
+    "dorther": {
+      "type": "ADV"
+    },
+    "dorthin": {
+      "type": "ADV"
+    },
+    "dorthinan": {
+      "type": "ADV"
+    },
+    "dortmals": {
+      "type": "ADV"
+    },
+    "dortzulande": {
+      "type": "ADV"
+    },
+    "dran": {
+      "type": "ADV"
+    },
+    "drauf": {
+      "type": "ADV"
+    },
+    "draußen": {
+      "type": "ADV"
+    },
+    "drin": {
+      "type": "ADV"
+    },
+    "drinnen": {
+      "type": "ADV"
+    },
+    "droben": {
+      "type": "ADV"
+    },
+    "drüben": {
+      "type": "ADV"
+    },
+    "drüber": {
+      "type": "ADV"
+    },
+    "drum": {
+      "type": "ADV"
+    },
+    "drumherum": {
+      "type": "ADV"
+    },
+    "drunten": {
+      "type": "ADV"
+    },
+    "dummerweise": {
+      "type": "ADV"
+    },
+    "durch": {
+      "type": "ADV"
+    },
+    "durchaus": {
+      "type": "ADV"
+    },
+    "durcheinander": {
+      "type": "ADV"
+    },
+    "durchweg": {
+      "type": "ADV"
+    },
+    "dutzendmal": {
+      "type": "ADV"
+    },
+    "eben": {
+      "type": "ADV"
+    },
+    "ebenda": {
+      "type": "ADV"
+    },
+    "ebendaher": {
+      "type": "ADV"
+    },
+    "ebendaselbst": {
+      "type": "ADV"
+    },
+    "ebendort": {
+      "type": "ADV"
+    },
+    "ebenfalls": {
+      "type": "ADV"
+    },
+    "ebenso": {
+      "type": "ADV"
+    },
+    "egal": {
+      "type": "ADV"
+    },
+    "eh": {
+      "type": "ADV"
+    },
+    "ehedem": {
+      "type": "ADV"
+    },
+    "ehemals": {
+      "type": "ADV"
+    },
+    "eher": {
+      "type": "ADV"
+    },
+    "ehnder": {
+      "type": "ADV"
+    },
+    "ehrenhalber": {
+      "type": "ADV"
+    },
+    "ehrlicherweise": {
+      "type": "ADV"
+    },
+    "eigenartigerweise": {
+      "type": "ADV"
+    },
+    "eigens": {
+      "type": "ADV"
+    },
+    "eigentümlicherweise": {
+      "type": "ADV"
+    },
+    "eilends": {
+      "type": "ADV"
+    },
+    "eimerweise": {
+      "type": "ADV"
+    },
+    "einerseits": {
+      "type": "ADV"
+    },
+    "einfacherweise": {
+      "type": "ADV"
+    },
+    "einfachheitshalber": {
+      "type": "ADV"
+    },
+    "eingangs": {
+      "type": "ADV"
+    },
+    "einigermaßen": {
+      "type": "ADV"
+    },
+    "einmal": {
+      "type": "ADV"
+    },
+    "eins": {
+      "type": "ADV"
+    },
+    "einst": {
+      "type": "ADV"
+    },
+    "einstmals": {
+      "type": "ADV"
+    },
+    "einstweilen": {
+      "type": "ADV"
+    },
+    "elbabwärts": {
+      "type": "ADV"
+    },
+    "elbaufwärts": {
+      "type": "ADV"
+    },
+    "empor": {
+      "type": "ADV"
+    },
+    "entgegen": {
+      "type": "ADV"
+    },
+    "erforderlichenfalls": {
+      "type": "ADV"
+    },
+    "erfreulicherweise": {
+      "type": "ADV"
+    },
+    "ergo": {
+      "type": "ADV"
+    },
+    "erprobungshalber": {
+      "type": "ADV"
+    },
+    "erst": {
+      "type": "ADV"
+    },
+    "erstaunlicherweise": {
+      "type": "ADV"
+    },
+    "erstens": {
+      "type": "ADV"
+    },
+    "erstmal": {
+      "type": "ADV"
+    },
+    "erstmals": {
+      "type": "ADV"
+    },
+    "erwartungsgemäß": {
+      "type": "ADV"
+    },
+    "etwa": {
+      "type": "ADV"
+    },
+    "etwas": {
+      "type": "ADV"
+    },
+    "euertwillen": {
+      "type": "ADV"
+    },
+    "eurerseits": {
+      "type": "ADV"
+    },
+    "euretwillen": {
+      "type": "ADV"
+    },
+    "eventualiter": {
+      "type": "ADV"
+    },
+    "extra": {
+      "type": "ADV"
+    },
+    "fairerweise": {
+      "type": "ADV"
+    },
+    "faktisch": {
+      "type": "ADV"
+    },
+    "fast": {
+      "type": "ADV"
+    },
+    "faszinierenderweise": {
+      "type": "ADV"
+    },
+    "ferienhalber": {
+      "type": "ADV"
+    },
+    "fernab": {
+      "type": "ADV"
+    },
+    "ferner": {
+      "type": "ADV"
+    },
+    "flugs": {
+      "type": "ADV"
+    },
+    "flussabwärts": {
+      "type": "ADV"
+    },
+    "flussaufwärts": {
+      "type": "ADV"
+    },
+    "folgendermaßen": {
+      "type": "ADV"
+    },
+    "fort": {
+      "type": "ADV"
+    },
+    "fortan": {
+      "type": "ADV"
+    },
+    "franco": {
+      "type": "ADV"
+    },
+    "franko": {
+      "type": "ADV"
+    },
+    "freiheraus": {
+      "type": "ADV"
+    },
+    "freitags": {
+      "type": "ADV"
+    },
+    "freundlicherweise": {
+      "type": "ADV"
+    },
+    "früher": {
+      "type": "ADV"
+    },
+    "frühestens": {
+      "type": "ADV"
+    },
+    "frühmorgens": {
+      "type": "ADV"
+    },
+    "fürderhin": {
+      "type": "ADV"
+    },
+    "fürwahr": {
+      "type": "ADV"
+    },
+    "ganztags": {
+      "type": "ADV"
+    },
+    "gar": {
+      "type": "ADV"
+    },
+    "gebietsweise": {
+      "type": "ADV"
+    },
+    "gech": {
+      "type": "ADV"
+    },
+    "gefälligkeitshalber": {
+      "type": "ADV"
+    },
+    "gefälligst": {
+      "type": "ADV"
+    },
+    "gegebenenfalls": {
+      "type": "ADV"
+    },
+    "gegenüber": {
+      "type": "ADV"
+    },
+    "gemach": {
+      "type": "ADV"
+    },
+    "gemeinhin": {
+      "type": "ADV"
+    },
+    "gen": {
+      "type": "ADV"
+    },
+    "genau": {
+      "type": "ADV"
+    },
+    "genauestens": {
+      "type": "ADV"
+    },
+    "genauso": {
+      "type": "ADV"
+    },
+    "genug": {
+      "type": "ADV"
+    },
+    "gerade": {
+      "type": "ADV"
+    },
+    "geradeaus": {
+      "type": "ADV"
+    },
+    "geradeheraus": {
+      "type": "ADV"
+    },
+    "geradeso": {
+      "type": "ADV"
+    },
+    "geradewegs": {
+      "type": "ADV"
+    },
+    "geradezu": {
+      "type": "ADV"
+    },
+    "gerechterweise": {
+      "type": "ADV"
+    },
+    "gern": {
+      "type": "ADV"
+    },
+    "gerne": {
+      "type": "ADV"
+    },
+    "geschäftehalber": {
+      "type": "ADV"
+    },
+    "gestern": {
+      "type": "ADV"
+    },
+    "gesundheitshalber": {
+      "type": "ADV"
+    },
+    "gewissermaßen": {
+      "type": "ADV"
+    },
+    "gleich": {
+      "type": "ADV"
+    },
+    "gleichauf": {
+      "type": "ADV"
+    },
+    "gleichentags": {
+      "type": "ADV"
+    },
+    "gleichermaßen": {
+      "type": "ADV"
+    },
+    "gleichfalls": {
+      "type": "ADV"
+    },
+    "gleichsam": {
+      "type": "ADV"
+    },
+    "gleichviel": {
+      "type": "ADV"
+    },
+    "gleichwohl": {
+      "type": "ADV"
+    },
+    "glücklicherweise": {
+      "type": "ADV"
+    },
+    "grad": {
+      "type": "ADV"
+    },
+    "gradweise": {
+      "type": "ADV"
+    },
+    "gratis": {
+      "type": "ADV"
+    },
+    "großenteils": {
+      "type": "ADV"
+    },
+    "großteils": {
+      "type": "ADV"
+    },
+    "größtenteils": {
+      "type": "ADV"
+    },
+    "gruppenweise": {
+      "type": "ADV"
+    },
+    "grüppchenweise": {
+      "type": "ADV"
+    },
+    "gutenteils": {
+      "type": "ADV"
+    },
+    "gültigkeitshalber": {
+      "type": "ADV"
+    },
+    "günstigenfalls": {
+      "type": "ADV"
+    },
+    "halb": {
+      "type": "ADV"
+    },
+    "halb leer": {
+      "type": "ADV"
+    },
+    "halb voll": {
+      "type": "ADV"
+    },
+    "halbe-halbe": {
+      "type": "ADV"
+    },
+    "halbleer": {
+      "type": "ADV"
+    },
+    "halbmast": {
+      "type": "ADV"
+    },
+    "halbtags": {
+      "type": "ADV"
+    },
+    "halbvoll": {
+      "type": "ADV"
+    },
+    "halbwegs": {
+      "type": "ADV"
+    },
+    "halt": {
+      "type": "ADV"
+    },
+    "hannen": {
+      "type": "ADV"
+    },
+    "haufenweise": {
+      "type": "ADV"
+    },
+    "hauß": {
+      "type": "ADV"
+    },
+    "haußen": {
+      "type": "ADV"
+    },
+    "häppchenweise": {
+      "type": "ADV"
+    },
+    "hehlings": {
+      "type": "ADV"
+    },
+    "heim": {
+      "type": "ADV"
+    },
+    "heimwärts": {
+      "type": "ADV"
+    },
+    "heint": {
+      "type": "ADV"
+    },
+    "hellauf": {
+      "type": "ADV"
+    },
+    "her": {
+      "type": "ADV"
+    },
+    "herab": {
+      "type": "ADV"
+    },
+    "heran": {
+      "type": "ADV"
+    },
+    "herauf": {
+      "type": "ADV"
+    },
+    "heraus": {
+      "type": "ADV"
+    },
+    "herbei": {
+      "type": "ADV"
+    },
+    "herein": {
+      "type": "ADV"
+    },
+    "hergebrachterweise": {
+      "type": "ADV"
+    },
+    "herinnen": {
+      "type": "ADV"
+    },
+    "hernach": {
+      "type": "ADV"
+    },
+    "heroben": {
+      "type": "ADV"
+    },
+    "herüber": {
+      "type": "ADV"
+    },
+    "herum": {
+      "type": "ADV"
+    },
+    "herunten": {
+      "type": "ADV"
+    },
+    "herunter": {
+      "type": "ADV"
+    },
+    "hervor": {
+      "type": "ADV"
+    },
+    "herzu": {
+      "type": "ADV"
+    },
+    "heuer": {
+      "type": "ADV"
+    },
+    "heute": {
+      "type": "ADV"
+    },
+    "heutigentags": {
+      "type": "ADV"
+    },
+    "heutzutage": {
+      "type": "ADV"
+    },
+    "hie": {
+      "type": "ADV"
+    },
+    "hie und da": {
+      "type": "ADV"
+    },
+    "hiedurch": {
+      "type": "ADV"
+    },
+    "hiefür": {
+      "type": "ADV"
+    },
+    "hienieden": {
+      "type": "ADV"
+    },
+    "hier": {
+      "type": "ADV"
+    },
+    "hieran": {
+      "type": "ADV"
+    },
+    "hierauf": {
+      "type": "ADV"
+    },
+    "hierbei": {
+      "type": "ADV"
+    },
+    "hierdurch": {
+      "type": "ADV"
+    },
+    "hierfür": {
+      "type": "ADV"
+    },
+    "hierher": {
+      "type": "ADV"
+    },
+    "hierhin": {
+      "type": "ADV"
+    },
+    "hiermit": {
+      "type": "ADV"
+    },
+    "hierunter": {
+      "type": "ADV"
+    },
+    "hierzu": {
+      "type": "ADV"
+    },
+    "hierzuland": {
+      "type": "ADV"
+    },
+    "hierzulande": {
+      "type": "ADV"
+    },
+    "hiezu": {
+      "type": "ADV"
+    },
+    "himmelan": {
+      "type": "ADV"
+    },
+    "himmelwärts": {
+      "type": "ADV"
+    },
+    "hin": {
+      "type": "ADV"
+    },
+    "hinab": {
+      "type": "ADV"
+    },
+    "hinauf": {
+      "type": "ADV"
+    },
+    "hinaus": {
+      "type": "ADV"
+    },
+    "hindurch": {
+      "type": "ADV"
+    },
+    "hinein": {
+      "type": "ADV"
+    },
+    "hinfort": {
+      "type": "ADV"
+    },
+    "hinnen": {
+      "type": "ADV"
+    },
+    "hinten": {
+      "type": "ADV"
+    },
+    "hintenach": {
+      "type": "ADV"
+    },
+    "hintereinander": {
+      "type": "ADV"
+    },
+    "hintereinanderweg": {
+      "type": "ADV"
+    },
+    "hinterher": {
+      "type": "ADV"
+    },
+    "hinterhin": {
+      "type": "ADV"
+    },
+    "hinterrücks": {
+      "type": "ADV"
+    },
+    "hinüber": {
+      "type": "ADV"
+    },
+    "hinum": {
+      "type": "ADV"
+    },
+    "hinunter": {
+      "type": "ADV"
+    },
+    "hinweg": {
+      "type": "ADV"
+    },
+    "hinzu": {
+      "type": "ADV"
+    },
+    "hoben": {
+      "type": "ADV"
+    },
+    "hoch": {
+      "type": "ADV"
+    },
+    "hochkant": {
+      "type": "ADV"
+    },
+    "höchst": {
+      "type": "ADV"
+    },
+    "höchstens": {
+      "type": "ADV"
+    },
+    "holterdiepolter": {
+      "type": "ADV"
+    },
+    "holterdipolter": {
+      "type": "ADV"
+    },
+    "hopplahopp": {
+      "type": "ADV"
+    },
+    "höflichkeitshalber": {
+      "type": "ADV"
+    },
+    "hüben": {
+      "type": "ADV"
+    },
+    "hujus": {
+      "type": "ADV"
+    },
+    "hunten": {
+      "type": "ADV"
+    },
+    "idealerweise": {
+      "type": "ADV"
+    },
+    "idealiter": {
+      "type": "ADV"
+    },
+    "ihrerseits": {
+      "type": "ADV"
+    },
+    "ihretwegen": {
+      "type": "ADV"
+    },
+    "im großen Ganzen": {
+      "type": "ADV"
+    },
+    "im Nachhinein": {
+      "type": "ADV"
+    },
+    "im Voraus": {
+      "type": "ADV"
+    },
+    "im Vorhinein": {
+      "type": "ADV"
+    },
+    "immer": {
+      "type": "ADV"
+    },
+    "immerdar": {
+      "type": "ADV"
+    },
+    "immerhin": {
+      "type": "ADV"
+    },
+    "immerzu": {
+      "type": "ADV"
+    },
+    "imstande": {
+      "type": "ADV"
+    },
+    "indem": {
+      "type": "ADV"
+    },
+    "indes": {
+      "type": "ADV"
+    },
+    "infolgedessen": {
+      "type": "ADV"
+    },
+    "infrage": {
+      "type": "ADV"
+    },
+    "inkognito": {
+      "type": "ADV"
+    },
+    "innen": {
+      "type": "ADV"
+    },
+    "innerorts": {
+      "type": "ADV"
+    },
+    "insbesondere": {
+      "type": "ADV"
+    },
+    "insgeheim": {
+      "type": "ADV"
+    },
+    "insgesamt": {
+      "type": "ADV"
+    },
+    "insofern": {
+      "type": "ADV"
+    },
+    "instand": {
+      "type": "ADV"
+    },
+    "interessanterweise": {
+      "type": "ADV"
+    },
+    "interessehalber": {
+      "type": "ADV"
+    },
+    "intus": {
+      "type": "ADV"
+    },
+    "inwiefern": {
+      "type": "ADV"
+    },
+    "inzwischen": {
+      "type": "ADV"
+    },
+    "irgend": {
+      "type": "ADV"
+    },
+    "irgendwann": {
+      "type": "ADV"
+    },
+    "irgendwie": {
+      "type": "ADV"
+    },
+    "irgendwo": {
+      "type": "ADV"
+    },
+    "ironischerweise": {
+      "type": "ADV"
+    },
+    "irrigerweise": {
+      "type": "ADV"
+    },
+    "item": {
+      "type": "ADV"
+    },
+    "itzo": {
+      "type": "ADV"
+    },
+    "itzund": {
+      "type": "ADV"
+    },
+    "jählings": {
+      "type": "ADV"
+    },
+    "jawohl": {
+      "type": "ADV"
+    },
+    "je": {
+      "type": "ADV"
+    },
+    "jedenfalls": {
+      "type": "ADV"
+    },
+    "jederzeit": {
+      "type": "ADV"
+    },
+    "jedesmal": {
+      "type": "ADV"
+    },
+    "jedoch": {
+      "type": "ADV"
+    },
+    "jeher": {
+      "type": "ADV"
+    },
+    "jemals": {
+      "type": "ADV"
+    },
+    "jenseits": {
+      "type": "ADV"
+    },
+    "jetzt": {
+      "type": "ADV"
+    },
+    "jeweils": {
+      "type": "ADV"
+    },
+    "jüngst": {
+      "type": "ADV"
+    },
+    "just": {
+      "type": "ADV"
+    },
+    "justament": {
+      "type": "ADV"
+    },
+    "kapitelweise": {
+      "type": "ADV"
+    },
+    "kaum": {
+      "type": "ADV"
+    },
+    "keinesfalls": {
+      "type": "ADV"
+    },
+    "keineswegs": {
+      "type": "ADV"
+    },
+    "keinmal": {
+      "type": "ADV"
+    },
+    "klassischerweise": {
+      "type": "ADV"
+    },
+    "kleinweis": {
+      "type": "ADV"
+    },
+    "klipp": {
+      "type": "ADV"
+    },
+    "komischerweise": {
+      "type": "ADV"
+    },
+    "komplizierterweise": {
+      "type": "ADV"
+    },
+    "kopfüber": {
+      "type": "ADV"
+    },
+    "kreuzweise": {
+      "type": "ADV"
+    },
+    "kurioserweise": {
+      "type": "ADV"
+    },
+    "kurzerhand": {
+      "type": "ADV"
+    },
+    "kurzweg": {
+      "type": "ADV"
+    },
+    "landab": {
+      "type": "ADV"
+    },
+    "landauf": {
+      "type": "ADV"
+    },
+    "lange": {
+      "type": "ADV"
+    },
+    "längs": {
+      "type": "ADV"
+    },
+    "längsseits": {
+      "type": "ADV"
+    },
+    "längst": {
+      "type": "ADV"
+    },
+    "lauter": {
+      "type": "ADV"
+    },
+    "lauthals": {
+      "type": "ADV"
+    },
+    "leewärts": {
+      "type": "ADV"
+    },
+    "leichterhand": {
+      "type": "ADV"
+    },
+    "leider": {
+      "type": "ADV"
+    },
+    "letztens": {
+      "type": "ADV"
+    },
+    "letzthin": {
+      "type": "ADV"
+    },
+    "letztmals": {
+      "type": "ADV"
+    },
+    "lieber": {
+      "type": "ADV"
+    },
+    "links": {
+      "type": "ADV"
+    },
+    "literweise": {
+      "type": "ADV"
+    },
+    "logischerweise": {
+      "type": "ADV"
+    },
+    "los": {
+      "type": "ADV"
+    },
+    "lustigerweise": {
+      "type": "ADV"
+    },
+    "luvwärts": {
+      "type": "ADV"
+    },
+    "massenweise": {
+      "type": "ADV"
+    },
+    "mal": {
+      "type": "ADV"
+    },
+    "manchenorts": {
+      "type": "ADV"
+    },
+    "mancherorts": {
+      "type": "ADV"
+    },
+    "manchmal": {
+      "type": "ADV"
+    },
+    "meerwärts": {
+      "type": "ADV"
+    },
+    "mehr": {
+      "type": "ADV"
+    },
+    "mehrmals": {
+      "type": "ADV"
+    },
+    "meinerseits": {
+      "type": "ADV"
+    },
+    "meinerzeit": {
+      "type": "ADV"
+    },
+    "meinethalben": {
+      "type": "ADV"
+    },
+    "meinetwegen": {
+      "type": "ADV"
+    },
+    "meinetwillen": {
+      "type": "ADV"
+    },
+    "meist": {
+      "type": "ADV"
+    },
+    "meistens": {
+      "type": "ADV"
+    },
+    "meistenteils": {
+      "type": "ADV"
+    },
+    "merkwürdigerweise": {
+      "type": "ADV"
+    },
+    "minder": {
+      "type": "ADV"
+    },
+    "mindestens": {
+      "type": "ADV"
+    },
+    "missbräuchlicherweise": {
+      "type": "ADV"
+    },
+    "miteinander": {
+      "type": "ADV"
+    },
+    "mithin": {
+      "type": "ADV"
+    },
+    "mitnichten": {
+      "type": "ADV"
+    },
+    "mittags": {
+      "type": "ADV"
+    },
+    "mitten": {
+      "type": "ADV"
+    },
+    "mittendrin": {
+      "type": "ADV"
+    },
+    "mittenmang": {
+      "type": "ADV"
+    },
+    "mitternachts": {
+      "type": "ADV"
+    },
+    "mittlerweile": {
+      "type": "ADV"
+    },
+    "mittschiffs": {
+      "type": "ADV"
+    },
+    "mittsommers": {
+      "type": "ADV"
+    },
+    "mittwochs": {
+      "type": "ADV"
+    },
+    "mitunter": {
+      "type": "ADV"
+    },
+    "möglicherweise": {
+      "type": "ADV"
+    },
+    "möglichst": {
+      "type": "ADV"
+    },
+    "montags": {
+      "type": "ADV"
+    },
+    "morgen": {
+      "type": "ADV"
+    },
+    "morgens": {
+      "type": "ADV"
+    },
+    "mütterlicherseits": {
+      "type": "ADV"
+    },
+    "mysteriöserweise": {
+      "type": "ADV"
+    },
+    "nach rechts": {
+      "type": "ADV"
+    },
+    "nach und nach": {
+      "type": "ADV"
+    },
+    "nacheinander": {
+      "type": "ADV"
+    },
+    "nachgerade": {
+      "type": "ADV"
+    },
+    "nachher": {
+      "type": "ADV"
+    },
+    "nachmals": {
+      "type": "ADV"
+    },
+    "nachmittags": {
+      "type": "ADV"
+    },
+    "nachtsüber": {
+      "type": "ADV"
+    },
+    "nahebei": {
+      "type": "ADV"
+    },
+    "nächstens": {
+      "type": "ADV"
+    },
+    "nächtens": {
+      "type": "ADV"
+    },
+    "nachts": {
+      "type": "ADV"
+    },
+    "näherungsweise": {
+      "type": "ADV"
+    },
+    "nahezu": {
+      "type": "ADV"
+    },
+    "namens": {
+      "type": "ADV"
+    },
+    "nebenan": {
+      "type": "ADV"
+    },
+    "nebenbei": {
+      "type": "ADV"
+    },
+    "nebenbei": {
+      "type": "ADV"
+    },
+    "nebeneinander": {
+      "type": "ADV"
+    },
+    "nebenher": {
+      "type": "ADV"
+    },
+    "nee": {
+      "type": "ADV"
+    },
+    "nein": {
+      "type": "ADV"
+    },
+    "net": {
+      "type": "ADV"
+    },
+    "netterweise": {
+      "type": "ADV"
+    },
+    "neuerdings": {
+      "type": "ADV"
+    },
+    "nicht": {
+      "type": "ADV"
+    },
+    "nie": {
+      "type": "ADV"
+    },
+    "niemals": {
+      "type": "ADV"
+    },
+    "nimmer": {
+      "type": "ADV"
+    },
+    "nimmermehr": {
+      "type": "ADV"
+    },
+    "nirgends": {
+      "type": "ADV"
+    },
+    "nirgendwo": {
+      "type": "ADV"
+    },
+    "nirgendwohin": {
+      "type": "ADV"
+    },
+    "noch": {
+      "type": "ADV"
+    },
+    "noch mal": {
+      "type": "ADV"
+    },
+    "nocheinmal": {
+      "type": "ADV"
+    },
+    "nochmal": {
+      "type": "ADV"
+    },
+    "nochmals": {
+      "type": "ADV"
+    },
+    "nordwärts": {
+      "type": "ADV"
+    },
+    "normalerweise": {
+      "type": "ADV"
+    },
+    "notabene": {
+      "type": "ADV"
+    },
+    "notfalls": {
+      "type": "ADV"
+    },
+    "nötigenfalls": {
+      "type": "ADV"
+    },
+    "notwendigerweise": {
+      "type": "ADV"
+    },
+    "nu": {
+      "type": "ADV"
+    },
+    "nun": {
+      "type": "ADV"
+    },
+    "nunmehr": {
+      "type": "ADV"
+    },
+    "nur": {
+      "type": "ADV"
+    },
+    "oben": {
+      "type": "ADV"
+    },
+    "obendrein": {
+      "type": "ADV"
+    },
+    "offenbar": {
+      "type": "ADV"
+    },
+    "oft": {
+      "type": "ADV"
+    },
+    "oftmals": {
+      "type": "ADV"
+    },
+    "ohnedem": {
+      "type": "ADV"
+    },
+    "ohnedies": {
+      "type": "ADV"
+    },
+    "ohnegleichen": {
+      "type": "ADV"
+    },
+    "ohnehin": {
+      "type": "ADV"
+    },
+    "ohnlängst": {
+      "type": "ADV"
+    },
+    "ordnungshalber": {
+      "type": "ADV"
+    },
+    "ostwärts": {
+      "type": "ADV"
+    },
+    "paarmal": {
+      "type": "ADV"
+    },
+    "paarweise": {
+      "type": "ADV"
+    },
+    "paradoxerweise": {
+      "type": "ADV"
+    },
+    "parterre": {
+      "type": "ADV"
+    },
+    "partout": {
+      "type": "ADV"
+    },
+    "passim": {
+      "type": "ADV"
+    },
+    "peu à peu": {
+      "type": "ADV"
+    },
+    "pikanterweise": {
+      "type": "ADV"
+    },
+    "pillepalle": {
+      "type": "ADV"
+    },
+    "polwärts": {
+      "type": "ADV"
+    },
+    "praktisch": {
+      "type": "ADV"
+    },
+    "praktischerweise": {
+      "type": "ADV"
+    },
+    "prima": {
+      "type": "ADV"
+    },
+    "privatim": {
+      "type": "ADV"
+    },
+    "probehalber": {
+      "type": "ADV"
+    },
+    "quartalsweise": {
+      "type": "ADV"
+    },
+    "quasi": {
+      "type": "ADV"
+    },
+    "quer": {
+      "type": "ADV"
+    },
+    "querbeet": {
+      "type": "ADV"
+    },
+    "querfeldein": {
+      "type": "ADV"
+    },
+    "ran": {
+      "type": "ADV"
+    },
+    "ratzeputz": {
+      "type": "ADV"
+    },
+    "ratzfatz": {
+      "type": "ADV"
+    },
+    "raus": {
+      "type": "ADV"
+    },
+    "realiter": {
+      "type": "ADV"
+    },
+    "recht": {
+      "type": "ADV"
+    },
+    "rechtens": {
+      "type": "ADV"
+    },
+    "rechts": {
+      "type": "ADV"
+    },
+    "reihenweise": {
+      "type": "ADV"
+    },
+    "rein": {
+      "type": "ADV"
+    },
+    "retour": {
+      "type": "ADV"
+    },
+    "ringsherum": {
+      "type": "ADV"
+    },
+    "ringsum": {
+      "type": "ADV"
+    },
+    "ringsumher": {
+      "type": "ADV"
+    },
+    "rittlings": {
+      "type": "ADV"
+    },
+    "rüber": {
+      "type": "ADV"
+    },
+    "rücklings": {
+      "type": "ADV"
+    },
+    "rückwärts": {
+      "type": "ADV"
+    },
+    "ruckzuck": {
+      "type": "ADV"
+    },
+    "rum": {
+      "type": "ADV"
+    },
+    "rund": {
+      "type": "ADV"
+    },
+    "rundherum": {
+      "type": "ADV"
+    },
+    "rundum": {
+      "type": "ADV"
+    },
+    "samstags": {
+      "type": "ADV"
+    },
+    "schandehalber": {
+      "type": "ADV"
+    },
+    "scharenweise": {
+      "type": "ADV"
+    },
+    "schätzungsweise": {
+      "type": "ADV"
+    },
+    "scheibchenweise": {
+      "type": "ADV"
+    },
+    "schier": {
+      "type": "ADV"
+    },
+    "schlankweg": {
+      "type": "ADV"
+    },
+    "schlechthin": {
+      "type": "ADV"
+    },
+    "schlimmstenfalls": {
+      "type": "ADV"
+    },
+    "schnellstens": {
+      "type": "ADV"
+    },
+    "schnurstracks": {
+      "type": "ADV"
+    },
+    "schon": {
+      "type": "ADV"
+    },
+    "schonmal": {
+      "type": "ADV"
+    },
+    "schrittweise": {
+      "type": "ADV"
+    },
+    "schuldenhalber": {
+      "type": "ADV"
+    },
+    "sehr": {
+      "type": "ADV"
+    },
+    "seinerseits": {
+      "type": "ADV"
+    },
+    "seinerzeit": {
+      "type": "ADV"
+    },
+    "seinethalben": {
+      "type": "ADV"
+    },
+    "seinetwegen": {
+      "type": "ADV"
+    },
+    "seinetwillen": {
+      "type": "ADV"
+    },
+    "seitab": {
+      "type": "ADV"
+    },
+    "seitdem": {
+      "type": "ADV"
+    },
+    "seither": {
+      "type": "ADV"
+    },
+    "seitlings": {
+      "type": "ADV"
+    },
+    "seitwärts": {
+      "type": "ADV"
+    },
+    "selbander": {
+      "type": "ADV"
+    },
+    "selbdritt": {
+      "type": "ADV"
+    },
+    "selbigesmal": {
+      "type": "ADV"
+    },
+    "selbst": {
+      "type": "ADV"
+    },
+    "selbviert": {
+      "type": "ADV"
+    },
+    "seltsamerweise": {
+      "type": "ADV"
+    },
+    "sicherheitshalber": {
+      "type": "ADV"
+    },
+    "sinnvollerweise": {
+      "type": "ADV"
+    },
+    "so": {
+      "type": "ADV"
+    },
+    "so lala": {
+      "type": "ADV"
+    },
+    "sodann": {
+      "type": "ADV"
+    },
+    "soeben": {
+      "type": "ADV"
+    },
+    "sofort": {
+      "type": "ADV"
+    },
+    "sogar": {
+      "type": "ADV"
+    },
+    "sogleich": {
+      "type": "ADV"
+    },
+    "solala": {
+      "type": "ADV"
+    },
+    "somit": {
+      "type": "ADV"
+    },
+    "sommers": {
+      "type": "ADV"
+    },
+    "sommersüber": {
+      "type": "ADV"
+    },
+    "sonderbarerweise": {
+      "type": "ADV"
+    },
+    "sonnabends": {
+      "type": "ADV"
+    },
+    "sonntags": {
+      "type": "ADV"
+    },
+    "sonst": {
+      "type": "ADV"
+    },
+    "soweit": {
+      "type": "ADV"
+    },
+    "sowieso": {
+      "type": "ADV"
+    },
+    "sozusagen": {
+      "type": "ADV"
+    },
+    "spätabends": {
+      "type": "ADV"
+    },
+    "später": {
+      "type": "ADV"
+    },
+    "spätestens": {
+      "type": "ADV"
+    },
+    "spätnachmittags": {
+      "type": "ADV"
+    },
+    "sperrangelweit": {
+      "type": "ADV"
+    },
+    "stadtauswärts": {
+      "type": "ADV"
+    },
+    "stadteinwärts": {
+      "type": "ADV"
+    },
+    "statt": {
+      "type": "ADV"
+    },
+    "stattdessen": {
+      "type": "ADV"
+    },
+    "stellenweise": {
+      "type": "ADV"
+    },
+    "stets": {
+      "type": "ADV"
+    },
+    "steuerbord": {
+      "type": "ADV"
+    },
+    "stoßweise": {
+      "type": "ADV"
+    },
+    "stracks": {
+      "type": "ADV"
+    },
+    "stromab": {
+      "type": "ADV"
+    },
+    "stromauf": {
+      "type": "ADV"
+    },
+    "studienhalber": {
+      "type": "ADV"
+    },
+    "stufenweise": {
+      "type": "ADV"
+    },
+    "stückchenweise": {
+      "type": "ADV"
+    },
+    "stückweise": {
+      "type": "ADV"
+    },
+    "südwärts": {
+      "type": "ADV"
+    },
+    "sukzessive": {
+      "type": "ADV"
+    },
+    "tageweise": {
+      "type": "ADV"
+    },
+    "tags": {
+      "type": "ADV"
+    },
+    "tagsunter": {
+      "type": "ADV"
+    },
+    "tagsüber": {
+      "type": "ADV"
+    },
+    "talwärts": {
+      "type": "ADV"
+    },
+    "teils": {
+      "type": "ADV"
+    },
+    "teilweise": {
+      "type": "ADV"
+    },
+    "testweise": {
+      "type": "ADV"
+    },
+    "traurigerweise": {
+      "type": "ADV"
+    },
+    "treppab": {
+      "type": "ADV"
+    },
+    "treppauf": {
+      "type": "ADV"
+    },
+    "tröpfchenweise": {
+      "type": "ADV"
+    },
+    "tropfenweise": {
+      "type": "ADV"
+    },
+    "trotzdem": {
+      "type": "ADV"
+    },
+    "tröpferlweise": {
+      "type": "ADV"
+    },
+    "tunlichst": {
+      "type": "ADV"
+    },
+    "typischerweise": {
+      "type": "ADV"
+    },
+    "um": {
+      "type": "ADV"
+    },
+    "um deinetwillen": {
+      "type": "ADV"
+    },
+    "um euertwillen": {
+      "type": "ADV"
+    },
+    "um euretwillen": {
+      "type": "ADV"
+    },
+    "um meinetwillen": {
+      "type": "ADV"
+    },
+    "um seinetwillen": {
+      "type": "ADV"
+    },
+    "um unseretwillen": {
+      "type": "ADV"
+    },
+    "um unsertwillen": {
+      "type": "ADV"
+    },
+    "umhin": {
+      "type": "ADV"
+    },
+    "umso mehr": {
+      "type": "ADV"
+    },
+    "umsonst": {
+      "type": "ADV"
+    },
+    "umständehalber": {
+      "type": "ADV"
+    },
+    "umstandshalber": {
+      "type": "ADV"
+    },
+    "unerwarteterweise": {
+      "type": "ADV"
+    },
+    "ungefähr": {
+      "type": "ADV"
+    },
+    "ungefrühstückt": {
+      "type": "ADV"
+    },
+    "ungerechterweise": {
+      "type": "ADV"
+    },
+    "ungern": {
+      "type": "ADV"
+    },
+    "ungestraft": {
+      "type": "ADV"
+    },
+    "unglücklicherweise": {
+      "type": "ADV"
+    },
+    "unglückseligerweise": {
+      "type": "ADV"
+    },
+    "unisono": {
+      "type": "ADV"
+    },
+    "unlängst": {
+      "type": "ADV"
+    },
+    "unnötigerweise": {
+      "type": "ADV"
+    },
+    "unsererseits": {
+      "type": "ADV"
+    },
+    "unseretwillen": {
+      "type": "ADV"
+    },
+    "unsertwillen": {
+      "type": "ADV"
+    },
+    "unten": {
+      "type": "ADV"
+    },
+    "untenan": {
+      "type": "ADV"
+    },
+    "unter der Hand": {
+      "type": "ADV"
+    },
+    "unterdessen": {
+      "type": "ADV"
+    },
+    "untereinander": {
+      "type": "ADV"
+    },
+    "untertags": {
+      "type": "ADV"
+    },
+    "unterwegs": {
+      "type": "ADV"
+    },
+    "unversehens": {
+      "type": "ADV"
+    },
+    "unvorsichtigerweise": {
+      "type": "ADV"
+    },
+    "väterlicherseits": {
+      "type": "ADV"
+    },
+    "vergebens": {
+      "type": "ADV"
+    },
+    "vergleichsweise": {
+      "type": "ADV"
+    },
+    "vergnügenshalber": {
+      "type": "ADV"
+    },
+    "vergnügungshalber": {
+      "type": "ADV"
+    },
+    "verständlicherweise": {
+      "type": "ADV"
+    },
+    "viel": {
+      "type": "ADV"
+    },
+    "vielenorts": {
+      "type": "ADV"
+    },
+    "vielerorts": {
+      "type": "ADV"
+    },
+    "vielfach": {
+      "type": "ADV"
+    },
+    "vielleicht": {
+      "type": "ADV"
+    },
+    "vielmals": {
+      "type": "ADV"
+    },
+    "vielmehr": {
+      "type": "ADV"
+    },
+    "vollends": {
+      "type": "ADV"
+    },
+    "volley": {
+      "type": "ADV"
+    },
+    "von Zeit zu Zeit": {
+      "type": "ADV"
+    },
+    "vonjeher": {
+      "type": "ADV"
+    },
+    "vonstatten": {
+      "type": "ADV"
+    },
+    "vorab": {
+      "type": "ADV"
+    },
+    "voran": {
+      "type": "ADV"
+    },
+    "vorauf": {
+      "type": "ADV"
+    },
+    "voraus": {
+      "type": "ADV"
+    },
+    "vorbei": {
+      "type": "ADV"
+    },
+    "vordem": {
+      "type": "ADV"
+    },
+    "vorerst": {
+      "type": "ADV"
+    },
+    "vorgestern": {
+      "type": "ADV"
+    },
+    "vorher": {
+      "type": "ADV"
+    },
+    "vorhin": {
+      "type": "ADV"
+    },
+    "vormals": {
+      "type": "ADV"
+    },
+    "vormittags": {
+      "type": "ADV"
+    },
+    "vorn": {
+      "type": "ADV"
+    },
+    "vorne": {
+      "type": "ADV"
+    },
+    "vorneweg": {
+      "type": "ADV"
+    },
+    "vorsichtshalber": {
+      "type": "ADV"
+    },
+    "vorüber": {
+      "type": "ADV"
+    },
+    "vorwärts": {
+      "type": "ADV"
+    },
+    "vorweg": {
+      "type": "ADV"
+    },
+    "vorzugsweise": {
+      "type": "ADV"
+    },
+    "wahlweise": {
+      "type": "ADV"
+    },
+    "währenddem": {
+      "type": "ADV"
+    },
+    "wann": {
+      "type": "ADV"
+    },
+    "warum": {
+      "type": "ADV"
+    },
+    "weg": {
+      "type": "ADV"
+    },
+    "weiland": {
+      "type": "ADV"
+    },
+    "weitab": {
+      "type": "ADV"
+    },
+    "weitaus": {
+      "type": "ADV"
+    },
+    "weiter": {
+      "type": "ADV"
+    },
+    "weiterhin": {
+      "type": "ADV"
+    },
+    "weiters": {
+      "type": "ADV"
+    },
+    "weitherum": {
+      "type": "ADV"
+    },
+    "weithin": {
+      "type": "ADV"
+    },
+    "weniger": {
+      "type": "ADV"
+    },
+    "wenigstens": {
+      "type": "ADV"
+    },
+    "werktags": {
+      "type": "ADV"
+    },
+    "weshalb": {
+      "type": "ADV"
+    },
+    "westwärts": {
+      "type": "ADV"
+    },
+    "weswegen": {
+      "type": "ADV"
+    },
+    "wie": {
+      "type": "ADV"
+    },
+    "wieder": {
+      "type": "ADV"
+    },
+    "wiederum": {
+      "type": "ADV"
+    },
+    "wieso": {
+      "type": "ADV"
+    },
+    "winters": {
+      "type": "ADV"
+    },
+    "wintersüber": {
+      "type": "ADV"
+    },
+    "wo": {
+      "type": "ADV"
+    },
+    "woanders": {
+      "type": "ADV"
+    },
+    "woandershin": {
+      "type": "ADV"
+    },
+    "wochenends": {
+      "type": "ADV"
+    },
+    "wodurch": {
+      "type": "ADV"
+    },
+    "wogegen": {
+      "type": "ADV"
+    },
+    "woher": {
+      "type": "ADV"
+    },
+    "woherum": {
+      "type": "ADV"
+    },
+    "wohin": {
+      "type": "ADV"
+    },
+    "wohl": {
+      "type": "ADV"
+    },
+    "wohlan": {
+      "type": "ADV"
+    },
+    "wohlauf": {
+      "type": "ADV"
+    },
+    "womit": {
+      "type": "ADV"
+    },
+    "womöglich": {
+      "type": "ADV"
+    },
+    "wonach": {
+      "type": "ADV"
+    },
+    "worauf": {
+      "type": "ADV"
+    },
+    "woraufhin": {
+      "type": "ADV"
+    },
+    "worein": {
+      "type": "ADV"
+    },
+    "worin": {
+      "type": "ADV"
+    },
+    "worüber": {
+      "type": "ADV"
+    },
+    "wozu": {
+      "type": "ADV"
+    },
+    "wunderbarerweise": {
+      "type": "ADV"
+    },
+    "wunderlicherweise": {
+      "type": "ADV"
+    },
+    "x-mal": {
+      "type": "ADV"
+    },
+    "zahlungshalber": {
+      "type": "ADV"
+    },
+    "zeither": {
+      "type": "ADV"
+    },
+    "zeitlang": {
+      "type": "ADV"
+    },
+    "zeitlebens": {
+      "type": "ADV"
+    },
+    "zeitweise": {
+      "type": "ADV"
+    },
+    "ziemlich": {
+      "type": "ADV"
+    },
+    "zigmal": {
+      "type": "ADV"
+    },
+    "zirka": {
+      "type": "ADV"
+    },
+    "zu": {
+      "type": "ADV"
+    },
+    "zuallerallererst": {
+      "type": "ADV"
+    },
+    "zuallerallerletzt": {
+      "type": "ADV"
+    },
+    "zuallererst": {
+      "type": "ADV"
+    },
+    "zuallerletzt": {
+      "type": "ADV"
+    },
+    "zuallermeist": {
+      "type": "ADV"
+    },
+    "zualleroberst": {
+      "type": "ADV"
+    },
+    "zuallerunterst": {
+      "type": "ADV"
+    },
+    "zuäußerst": {
+      "type": "ADV"
+    },
+    "zueinander": {
+      "type": "ADV"
+    },
+    "zuerst": {
+      "type": "ADV"
+    },
+    "zufälligerweise": {
+      "type": "ADV"
+    },
+    "zugegebenermaßen": {
+      "type": "ADV"
+    },
+    "zugleich": {
+      "type": "ADV"
+    },
+    "zugrunde": {
+      "type": "ADV"
+    },
+    "zugute": {
+      "type": "ADV"
+    },
+    "zuhauf": {
+      "type": "ADV"
+    },
+    "zuhause": {
+      "type": "ADV"
+    },
+    "zulande": {
+      "type": "ADV"
+    },
+    "zuleid": {
+      "type": "ADV"
+    },
+    "zuleide": {
+      "type": "ADV"
+    },
+    "zuletzt": {
+      "type": "ADV"
+    },
+    "zumal": {
+      "type": "ADV"
+    },
+    "zumeist": {
+      "type": "ADV"
+    },
+    "zumindest": {
+      "type": "ADV"
+    },
+    "zumindestens": {
+      "type": "ADV"
+    },
+    "zumute": {
+      "type": "ADV"
+    },
+    "zunächst": {
+      "type": "ADV"
+    },
+    "zunutze": {
+      "type": "ADV"
+    },
+    "zuoberst": {
+      "type": "ADV"
+    },
+    "zur": {
+      "type": "ADV"
+    },
+    "zurande": {
+      "type": "ADV"
+    },
+    "zurück": {
+      "type": "ADV"
+    },
+    "zusammen": {
+      "type": "ADV"
+    },
+    "zuschanden": {
+      "type": "ADV"
+    },
+    "zusehends": {
+      "type": "ADV"
+    },
+    "zustande": {
+      "type": "ADV"
+    },
+    "zuständigkeitshalber": {
+      "type": "ADV"
+    },
+    "zutage": {
+      "type": "ADV"
+    },
+    "zutiefst": {
+      "type": "ADV"
+    },
+    "zuunterst": {
+      "type": "ADV"
+    },
+    "zuviel": {
+      "type": "ADV"
+    },
+    "zuvor": {
+      "type": "ADV"
+    },
+    "zuvorderst": {
+      "type": "ADV"
+    },
+    "zuvörderst": {
+      "type": "ADV"
+    },
+    "zuweilen": {
+      "type": "ADV"
+    },
+    "zuwider": {
+      "type": "ADV"
+    },
+    "zuzeiten": {
+      "type": "ADV"
+    },
+    "zwangsweise": {
+      "type": "ADV"
+    },
+    "zwar": {
+      "type": "ADV"
+    },
+    "zweifellos": {
+      "type": "ADV"
+    },
+    "zweifelsohne": {
+      "type": "ADV"
+    },
+    "zwischendurch": {
+      "type": "ADV"
+    },
+    "überall": {
+      "type": "ADV"
+    },
+    "überallhin": {
+      "type": "ADV"
+    },
+    "überaus": {
+      "type": "ADV"
+    },
+    "überdies": {
+      "type": "ADV"
+    },
+    "überein": {
+      "type": "ADV"
+    },
+    "übergangsweise": {
+      "type": "ADV"
+    },
+    "überhand": {
+      "type": "ADV"
+    },
+    "überhaupt": {
+      "type": "ADV"
+    },
+    "übermorgen": {
+      "type": "ADV"
+    },
+    "überraschenderweise": {
+      "type": "ADV"
+    },
+    "üblicherweise": {
+      "type": "ADV"
+    },
+    "übrigens": {
+      "type": "ADV"
+    },
+    "übungshalber": {
+      "type": "ADV"
+    }
   }
 }
