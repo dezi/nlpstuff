@@ -1224,13 +1224,16 @@
     "hierhin": {
       "type": "ADV"
     },
-    "hiermit": {
-      "type": "ADV"
-    },
     "hierin": {
       "type": "ADV"
     },
+    "hiermit": {
+      "type": "ADV"
+    },
     "hierunter": {
+      "type": "ADV"
+    },
+    "hiervon": {
       "type": "ADV"
     },
     "hierzu": {
