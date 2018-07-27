@@ -351,6 +351,9 @@
     "billigerweise": {
       "type": "ADV"
     },
+    "binnen": {
+      "type": "ADV"
+    },
     "bisher": {
       "type": "ADV"
     },
@@ -376,6 +379,9 @@
       "type": "ADV"
     },
     "brockenweise": {
+      "type": "ADV"
+    },
+    "brutto": {
       "type": "ADV"
     },
     "bspw": {
@@ -556,6 +562,9 @@
       "type": "ADV"
     },
     "derweil": {
+      "type": "ADV"
+    },
+    "derzeit": {
       "type": "ADV"
     },
     "deshalb": {
@@ -771,10 +780,16 @@
     "einstweilen": {
       "type": "ADV"
     },
+    "einzig": {
+      "type": "ADV"
+    },
     "elbabwärts": {
       "type": "ADV"
     },
     "elbaufwärts": {
+      "type": "ADV"
+    },
+    "elfmal": {
       "type": "ADV"
     },
     "empor": {
@@ -1210,6 +1225,9 @@
       "type": "ADV"
     },
     "hiermit": {
+      "type": "ADV"
+    },
+    "hierin": {
       "type": "ADV"
     },
     "hierunter": {
@@ -1776,9 +1794,6 @@
     "nebenbei": {
       "type": "ADV"
     },
-    "nebenbei": {
-      "type": "ADV"
-    },
     "nebeneinander": {
       "type": "ADV"
     },
@@ -1795,6 +1810,9 @@
       "type": "ADV"
     },
     "netterweise": {
+      "type": "ADV"
+    },
+    "netto": {
       "type": "ADV"
     },
     "neuerdings": {
@@ -1878,6 +1896,9 @@
     "offenbar": {
       "type": "ADV"
     },
+    "offline": {
+      "type": "ADV"
+    },
     "oft": {
       "type": "ADV"
     },
@@ -1897,6 +1918,9 @@
       "type": "ADV"
     },
     "ohnlängst": {
+      "type": "ADV"
+    },
+    "online": {
       "type": "ADV"
     },
     "ordnungshalber": {
@@ -1930,6 +1954,9 @@
       "type": "ADV"
     },
     "pillepalle": {
+      "type": "ADV"
+    },
+    "pleite": {
       "type": "ADV"
     },
     "polwärts": {
@@ -1990,6 +2017,9 @@
       "type": "ADV"
     },
     "reihenweise": {
+      "type": "ADV"
+    },
+    "reihum": {
       "type": "ADV"
     },
     "rein": {
@@ -2182,6 +2212,9 @@
       "type": "ADV"
     },
     "sonst": {
+      "type": "ADV"
+    },
+    "soviel": {
       "type": "ADV"
     },
     "soweit": {
@@ -2634,6 +2667,9 @@
     "wogegen": {
       "type": "ADV"
     },
+    "wofür": {
+      "type": "ADV"
+    },
     "woher": {
       "type": "ADV"
     },
@@ -2668,6 +2704,9 @@
       "type": "ADV"
     },
     "woraufhin": {
+      "type": "ADV"
+    },
+    "woraus": {
       "type": "ADV"
     },
     "worein": {

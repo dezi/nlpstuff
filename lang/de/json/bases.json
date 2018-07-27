@@ -81,10 +81,19 @@
     "unsere": {
       "type": "PRON"
     },
-    "unsre": {
+    "unseren": {
+      "type": "PRON"
+    },
+    "unserem": {
+      "type": "PRON"
+    },
+    "unserer": {
       "type": "PRON"
     },
     "unseres": {
+      "type": "PRON"
+    },
+    "unsre": {
       "type": "PRON"
     },
     "unsres": {
@@ -132,6 +141,9 @@
     "deine": {
       "type": "PRON"
     },
+    "deiner": {
+      "type": "PRON"
+    },
     "deines": {
       "type": "PRON"
     },
@@ -139,6 +151,9 @@
       "type": "PRON"
     },
     "deinen": {
+      "type": "PRON"
+    },
+    "selber": {
       "type": "PRON"
     },
     "selben": {
@@ -210,6 +225,9 @@
     "beide": {
       "type": "PRON"
     },
+    "beidem": {
+      "type": "PRON"
+    },
     "beiden": {
       "type": "PRON"
     },
@@ -217,9 +235,6 @@
       "type": "PRON"
     },
     "beides": {
-      "type": "PRON"
-    },
-    "jeher": {
       "type": "PRON"
     },
     "sich": {
@@ -255,10 +270,16 @@
     "welch": {
       "type": "PRON"
     },
-    "welcher": {
+    "welche": {
       "type": "PRON"
     },
-    "welche": {
+    "welchem": {
+      "type": "PRON"
+    },
+    "welchen": {
+      "type": "PRON"
+    },
+    "welcher": {
       "type": "PRON"
     },
     "welches": {
@@ -291,6 +312,30 @@
     "einer": {
       "type": "PRON"
     },
+    "mehrere": {
+      "type": "PRON"
+    },
+    "mehreren": {
+      "type": "PRON"
+    },
+    "etliche": {
+      "type": "PRON"
+    },
+    "einzige": {
+      "type": "PRON"
+    },
+    "einziger": {
+      "type": "PRON"
+    },
+    "einziges": {
+      "type": "PRON"
+    },
+    "einzigem": {
+      "type": "PRON"
+    },
+    "einzigen": {
+      "type": "PRON"
+    },
     "manch": {
       "type": "PRON"
     },
@@ -315,6 +360,15 @@
     "anderen": {
       "type": "PRON"
     },
+    "anderem": {
+      "type": "PRON"
+    },
+    "anderer": {
+      "type": "PRON"
+    },
+    "anderes": {
+      "type": "PRON"
+    },
     "kein": {
       "type": "PRON"
     },
@@ -336,6 +390,9 @@
     "viele": {
       "type": "PRON"
     },
+    "vielem": {
+      "type": "PRON"
+    },
     "vielen": {
       "type": "PRON"
     },
@@ -355,9 +412,6 @@
       "type": "PRON"
     },
     "alles": {
-      "type": "PRON"
-    },
-    "beiden": {
       "type": "PRON"
     },
     "abseits": {
@@ -498,6 +552,9 @@
     "per": {
       "type": "ADP"
     },
+    "versus": {
+      "type": "ADP"
+    },
     "hin": {
       "type": "ADP"
     },
@@ -519,17 +576,26 @@
     "außer": {
       "type": "ADP"
     },
+    "ausser": {
+      "type": "ADP"
+    },
     "nicht": {
       "type": "ADP"
     },
     "statt": {
       "type": "ADP"
     },
+    "aua": {
+      "type": "EXCLAM"
+    },
+    "autsch": {
+      "type": "EXCLAM"
+    },
     "ja": {
-      "type": "PRT"
+      "type": "EXCLAM"
     },
     "nein": {
-      "type": "PRT"
+      "type": "EXCLAM"
     },
     "oder": {
       "type": "CONJ"
@@ -568,6 +634,9 @@
       "type": "CONJ"
     },
     "außerdem": {
+      "type": "CONJ"
+    },
+    "ausserdem": {
       "type": "CONJ"
     },
     "als": {
@@ -867,6 +936,9 @@
     "erste": {
       "type": "NUM"
     },
+    "erstem": {
+      "type": "NUM"
+    },
     "ersten": {
       "type": "NUM"
     },
@@ -877,6 +949,9 @@
       "type": "NUM"
     },
     "zweite": {
+      "type": "NUM"
+    },
+    "zweitem": {
       "type": "NUM"
     },
     "zweiten": {
@@ -891,6 +966,9 @@
     "dritte": {
       "type": "NUM"
     },
+    "drittem": {
+      "type": "NUM"
+    },
     "dritten": {
       "type": "NUM"
     },
@@ -901,6 +979,9 @@
       "type": "NUM"
     },
     "vierte": {
+      "type": "NUM"
+    },
+    "viertem": {
       "type": "NUM"
     },
     "vierten": {
@@ -915,6 +996,9 @@
     "fünfte": {
       "type": "NUM"
     },
+    "fünftem": {
+      "type": "NUM"
+    },
     "fünften": {
       "type": "NUM"
     },
@@ -925,6 +1009,9 @@
       "type": "NUM"
     },
     "sechste": {
+      "type": "NUM"
+    },
+    "sechstem": {
       "type": "NUM"
     },
     "sechsten": {
@@ -939,6 +1026,9 @@
     "siebente": {
       "type": "NUM"
     },
+    "siebentem": {
+      "type": "NUM"
+    },
     "siebenten": {
       "type": "NUM"
     },
@@ -949,6 +1039,9 @@
       "type": "NUM"
     },
     "achte": {
+      "type": "NUM"
+    },
+    "achtem": {
       "type": "NUM"
     },
     "achten": {
@@ -963,6 +1056,9 @@
     "neunte": {
       "type": "NUM"
     },
+    "neuntem": {
+      "type": "NUM"
+    },
     "neunten": {
       "type": "NUM"
     },
@@ -970,6 +1066,51 @@
       "type": "NUM"
     },
     "neuntes": {
+      "type": "NUM"
+    },
+    "zehnte": {
+      "type": "NUM"
+    },
+    "zehntem": {
+      "type": "NUM"
+    },
+    "zehnten": {
+      "type": "NUM"
+    },
+    "zehnter": {
+      "type": "NUM"
+    },
+    "zehntes": {
+      "type": "NUM"
+    },
+    "elfte": {
+      "type": "NUM"
+    },
+    "elftem": {
+      "type": "NUM"
+    },
+    "elften": {
+      "type": "NUM"
+    },
+    "elfter": {
+      "type": "NUM"
+    },
+    "elftes": {
+      "type": "NUM"
+    },
+    "zwölfte": {
+      "type": "NUM"
+    },
+    "zwölftem": {
+      "type": "NUM"
+    },
+    "zwölften": {
+      "type": "NUM"
+    },
+    "zwölfter": {
+      "type": "NUM"
+    },
+    "zwölftes": {
       "type": "NUM"
     }
   }
