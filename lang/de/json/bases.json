@@ -414,6 +414,12 @@
     "alles": {
       "type": "PRON"
     },
+    "mitsamt": {
+      "type": "ADP"
+    },
+    "anstatt": {
+      "type": "ADP"
+    },
     "abseits": {
       "type": "ADP"
     },
@@ -628,6 +634,9 @@
       "type": "CONJ"
     },
     "also": {
+      "type": "CONJ"
+    },
+    "solange": {
       "type": "CONJ"
     },
     "deshalb": {
