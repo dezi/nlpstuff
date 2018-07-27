@@ -552,6 +552,9 @@
     "dereinst": {
       "type": "ADV"
     },
+    "derentwegen": {
+      "type": "ADV"
+    },
     "dermaßen": {
       "type": "ADV"
     },
@@ -658,6 +661,9 @@
       "type": "ADV"
     },
     "drüber": {
+      "type": "ADV"
+    },
+    "druff": {
       "type": "ADV"
     },
     "drum": {
@@ -1389,6 +1395,9 @@
     "immerzu": {
       "type": "ADV"
     },
+    "imstand": {
+      "type": "ADV"
+    },
     "imstande": {
       "type": "ADV"
     },
@@ -1405,6 +1414,9 @@
       "type": "ADV"
     },
     "inkognito": {
+      "type": "ADV"
+    },
+    "inne": {
       "type": "ADV"
     },
     "innen": {
@@ -1477,6 +1489,9 @@
       "type": "ADV"
     },
     "je": {
+      "type": "ADV"
+    },
+    "jetzund": {
       "type": "ADV"
     },
     "jedenfalls": {
@@ -1639,6 +1654,12 @@
       "type": "ADV"
     },
     "manchmal": {
+      "type": "ADV"
+    },
+    "mini": {
+      "type": "ADV"
+    },
+    "mega": {
       "type": "ADV"
     },
     "meerwärts": {
@@ -1807,6 +1828,9 @@
       "type": "ADV"
     },
     "nein": {
+      "type": "ADV"
+    },
+    "ned": {
       "type": "ADV"
     },
     "net": {

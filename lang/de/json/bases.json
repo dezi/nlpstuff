@@ -603,6 +603,9 @@
     "nein": {
       "type": "EXCLAM"
     },
+    "sic": {
+      "type": "CONJ"
+    },
     "oder": {
       "type": "CONJ"
     },
