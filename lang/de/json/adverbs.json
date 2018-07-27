@@ -54,6 +54,9 @@
     "allein": {
       "type": "ADV"
     },
+    "allem": {
+      "type": "ADV"
+    },
     "allemal": {
       "type": "ADV"
     },
@@ -169,6 +172,9 @@
       "type": "ADV"
     },
     "anhand": {
+      "type": "ADV"
+    },
+    "anhin": {
       "type": "ADV"
     },
     "anjetzt": {
@@ -370,6 +376,9 @@
       "type": "ADV"
     },
     "brockenweise": {
+      "type": "ADV"
+    },
+    "bspw": {
       "type": "ADV"
     },
     "ca": {
@@ -697,6 +706,9 @@
       "type": "ADV"
     },
     "ehedem": {
+      "type": "ADV"
+    },
+    "ehem": {
       "type": "ADV"
     },
     "ehemals": {
@@ -1251,6 +1263,9 @@
     "hintenach": {
       "type": "ADV"
     },
+    "hinter": {
+      "type": "ADV"
+    },
     "hintereinander": {
       "type": "ADV"
     },
@@ -1573,6 +1588,9 @@
       "type": "ADV"
     },
     "literweise": {
+      "type": "ADV"
+    },
+    "live": {
       "type": "ADV"
     },
     "logischerweise": {
@@ -1980,6 +1998,9 @@
     "retour": {
       "type": "ADV"
     },
+    "rings": {
+      "type": "ADV"
+    },
     "ringsherum": {
       "type": "ADV"
     },
@@ -2313,6 +2334,9 @@
     "um unsertwillen": {
       "type": "ADV"
     },
+    "umher": {
+      "type": "ADV"
+    },
     "umhin": {
       "type": "ADV"
     },
@@ -2436,6 +2460,9 @@
     "vielmehr": {
       "type": "ADV"
     },
+    "vitro": {
+      "type": "ADV"
+    },
     "vollends": {
       "type": "ADV"
     },
@@ -2485,6 +2512,9 @@
       "type": "ADV"
     },
     "vormittags": {
+      "type": "ADV"
+    },
+    "vorm": {
       "type": "ADV"
     },
     "vorn": {
@@ -2631,6 +2661,9 @@
     "wonach": {
       "type": "ADV"
     },
+    "woran": {
+      "type": "ADV"
+    },
     "worauf": {
       "type": "ADV"
     },
@@ -2644,6 +2677,12 @@
       "type": "ADV"
     },
     "worüber": {
+      "type": "ADV"
+    },
+    "worum": {
+      "type": "ADV"
+    },
+    "wovon": {
       "type": "ADV"
     },
     "wozu": {

@@ -378,6 +378,9 @@
     "bevor": {
       "type": "ADP"
     },
+    "nebst": {
+      "type": "ADP"
+    },
     "trotz": {
       "type": "ADP"
     },
@@ -651,6 +654,9 @@
     "wobei": {
       "type": "CONJ"
     },
+    "umso": {
+      "type": "CONJ"
+    },
     "und": {
       "type": "CONJ"
     },
@@ -733,6 +739,9 @@
       "type": "VPFX"
     },
     "ge-": {
+      "type": "VPFX"
+    },
+    "inne-": {
       "type": "VPFX"
     },
     "her-": {
@@ -924,7 +933,7 @@
     "sechster": {
       "type": "NUM"
     },
-    "sechster": {
+    "sechstes": {
       "type": "NUM"
     },
     "siebente": {
