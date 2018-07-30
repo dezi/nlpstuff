@@ -702,6 +702,9 @@
     "ebendaher": {
       "type": "ADV"
     },
+    "ebendas": {
+      "type": "ADV"
+    },
     "ebendaselbst": {
       "type": "ADV"
     },
@@ -1294,6 +1297,9 @@
       "type": "ADV"
     },
     "hintereinander": {
+      "type": "ADV"
+    },
+    "hintereinanderher": {
       "type": "ADV"
     },
     "hintereinanderweg": {
@@ -1920,6 +1926,9 @@
     "obendrein": {
       "type": "ADV"
     },
+    "oberseits": {
+      "type": "ADV"
+    },
     "offenbar": {
       "type": "ADV"
     },
@@ -2218,6 +2227,9 @@
       "type": "ADV"
     },
     "solala": {
+      "type": "ADV"
+    },
+    "solcherart": {
       "type": "ADV"
     },
     "somit": {
