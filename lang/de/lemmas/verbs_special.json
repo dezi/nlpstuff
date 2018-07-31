@@ -1,7 +1,7 @@
 {
   "lang": "de",
   "type": "VERB",
-  "mode": "all-",
+  "mode": "any-",
   "zzzlem": [
     "apern:0,1,1e,1st,1t,1te,1ten,1test,1tet,3re,ge1t",
     "atmen:0,1,1st,1t,1te,1ten,1test,1tet,ge1t",
