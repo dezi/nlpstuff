@@ -75,6 +75,9 @@
     "eure": {
       "type": "PRON"
     },
+    "uns": {
+      "type": "PRON"
+    },
     "unser": {
       "type": "PRON"
     },
@@ -151,6 +154,15 @@
       "type": "PRON"
     },
     "deinen": {
+      "type": "PRON"
+    },
+    "derselbe": {
+      "type": "PRON"
+    },
+    "dieselbe": {
+      "type": "PRON"
+    },
+    "dasselbe": {
       "type": "PRON"
     },
     "selber": {
@@ -237,7 +249,16 @@
     "beides": {
       "type": "PRON"
     },
+    "allesamt": {
+      "type": "PRON"
+    },
     "sich": {
+      "type": "PRON"
+    },
+    "dir": {
+      "type": "PRON"
+    },
+    "mir": {
       "type": "PRON"
     },
     "mich": {
@@ -289,6 +310,21 @@
       "type": "PRON"
     },
     "jemand": {
+      "type": "PRON"
+    },
+    "jegliche": {
+      "type": "PRON"
+    },
+    "jeglicher": {
+      "type": "PRON"
+    },
+    "jegliches": {
+      "type": "PRON"
+    },
+    "jeglichen": {
+      "type": "PRON"
+    },
+    "jeglichem": {
       "type": "PRON"
     },
     "jede": {
@@ -543,9 +579,6 @@
     "neben": {
       "type": "ADP"
     },
-    "je": {
-      "type": "ADP"
-    },
     "in": {
       "type": "ADP"
     },
@@ -605,6 +638,18 @@
     },
     "jein": {
       "type": "EXCLAM"
+    },
+    "usw": {
+      "type": "CONJ"
+    },
+    "vgl": {
+      "type": "CONJ"
+    },
+    "ggf": {
+      "type": "CONJ"
+    },
+    "etc": {
+      "type": "CONJ"
     },
     "sic": {
       "type": "CONJ"
@@ -685,6 +730,9 @@
       "type": "CONJ"
     },
     "obwohl": {
+      "type": "CONJ"
+    },
+    "entweder": {
       "type": "CONJ"
     },
     "da": {
@@ -774,140 +822,824 @@
     "kg": {
       "type": "UNIT"
     },
+    "ml": {
+      "type": "UNIT"
+    },
+    "ppm": {
+      "type": "UNIT"
+    },
     "the": {
       "type": "DET"
     },
     "and": {
       "type": "CONJ"
     },
+    "bevor-": {
+      "type": "PREFIX"
+    },
+    "benach-": {
+      "type": "PREFIX"
+    },
+    "nieder-": {
+      "type": "PREFIX"
+    },
     "ab-": {
-      "type": "VPFX"
+      "type": "PREFIX"
     },
     "an-": {
-      "type": "VPFX"
-    },
-    "auf-": {
-      "type": "VPFX"
-    },
-    "aus-": {
-      "type": "VPFX"
+      "type": "PREFIX"
     },
     "be-": {
-      "type": "VPFX"
+      "type": "PREFIX"
     },
-    "bei-": {
-      "type": "VPFX"
-    },
-    "dar-": {
-      "type": "VPFX"
-    },
-    "dran-": {
-      "type": "VPFX"
-    },
-    "durch-": {
-      "type": "VPFX"
-    },
-    "ein-": {
-      "type": "VPFX"
-    },
-    "ent-": {
-      "type": "VPFX"
+    "da-": {
+      "type": "PREFIX"
     },
     "er-": {
-      "type": "VPFX"
-    },
-    "fort-": {
-      "type": "VPFX"
-    },
-    "frei-": {
-      "type": "VPFX"
+      "type": "PREFIX"
     },
     "ge-": {
-      "type": "VPFX"
+      "type": "PREFIX"
     },
-    "inne-": {
-      "type": "VPFX"
-    },
-    "her-": {
-      "type": "VPFX"
-    },
-    "hin-": {
-      "type": "VPFX"
-    },
-    "hinter-": {
-      "type": "VPFX"
-    },
-    "hoch-": {
-      "type": "VPFX"
-    },
-    "einher-": {
-      "type": "VPFX"
-    },
-    "mit-": {
-      "type": "VPFX"
-    },
-    "nach-": {
-      "type": "VPFX"
-    },
-    "tief-": {
-      "type": "VPFX"
-    },
-    "über-": {
-      "type": "VPFX"
+    "ob-": {
+      "type": "PREFIX"
     },
     "um-": {
-      "type": "VPFX"
+      "type": "PREFIX"
     },
-    "unter-": {
-      "type": "VPFX"
-    },
-    "ver-": {
-      "type": "VPFX"
-    },
-    "vor-": {
-      "type": "VPFX"
-    },
-    "weg-": {
-      "type": "VPFX"
-    },
-    "zer-": {
-      "type": "VPFX"
+    "ur-": {
+      "type": "PREFIX"
     },
     "zu-": {
-      "type": "VPFX"
+      "type": "PREFIX"
+    },
+    "auf-": {
+      "type": "PREFIX"
+    },
+    "aus-": {
+      "type": "PREFIX"
+    },
+    "bau-": {
+      "type": "PREFIX"
+    },
+    "bei-": {
+      "type": "PREFIX"
+    },
+    "dar-": {
+      "type": "PREFIX"
+    },
+    "ehe-": {
+      "type": "PREFIX"
+    },
+    "ein-": {
+      "type": "PREFIX"
+    },
+    "eis-": {
+      "type": "PREFIX"
+    },
+    "emp-": {
+      "type": "PREFIX"
+    },
+    "end-": {
+      "type": "PREFIX"
+    },
+    "ent-": {
+      "type": "PREFIX"
+    },
+    "fuß-": {
+      "type": "PREFIX"
+    },
+    "für-": {
+      "type": "PREFIX"
+    },
+    "gar-": {
+      "type": "PREFIX"
+    },
+    "gut-": {
+      "type": "PREFIX"
+    },
+    "her-": {
+      "type": "PREFIX"
+    },
+    "hin-": {
+      "type": "PREFIX"
+    },
+    "lob-": {
+      "type": "PREFIX"
+    },
+    "los-": {
+      "type": "PREFIX"
+    },
+    "mal-": {
+      "type": "PREFIX"
+    },
+    "maß-": {
+      "type": "PREFIX"
+    },
+    "mit-": {
+      "type": "PREFIX"
+    },
+    "nas-": {
+      "type": "PREFIX"
+    },
+    "not-": {
+      "type": "PREFIX"
+    },
+    "rad-": {
+      "type": "PREFIX"
+    },
+    "ran-": {
+      "type": "PREFIX"
+    },
+    "rum-": {
+      "type": "PREFIX"
+    },
+    "tot-": {
+      "type": "PREFIX"
+    },
+    "ver-": {
+      "type": "PREFIX"
+    },
+    "vor-": {
+      "type": "PREFIX"
+    },
+    "weg-": {
+      "type": "PREFIX"
+    },
+    "weh-": {
+      "type": "PREFIX"
+    },
+    "zer-": {
+      "type": "PREFIX"
+    },
+    "abbe-": {
+      "type": "PREFIX"
+    },
+    "aber-": {
+      "type": "PREFIX"
+    },
+    "abge-": {
+      "type": "PREFIX"
+    },
+    "amts-": {
+      "type": "PREFIX"
+    },
+    "anbe-": {
+      "type": "PREFIX"
+    },
+    "aner-": {
+      "type": "PREFIX"
+    },
+    "ange-": {
+      "type": "PREFIX"
+    },
+    "bean-": {
+      "type": "PREFIX"
+    },
+    "berg-": {
+      "type": "PREFIX"
+    },
+    "blau-": {
+      "type": "PREFIX"
+    },
+    "bloß-": {
+      "type": "PREFIX"
+    },
+    "dank-": {
+      "type": "PREFIX"
+    },
+    "dazu-": {
+      "type": "PREFIX"
+    },
+    "dort-": {
+      "type": "PREFIX"
+    },
+    "dran-": {
+      "type": "PREFIX"
+    },
+    "drei-": {
+      "type": "PREFIX"
+    },
+    "drin-": {
+      "type": "PREFIX"
+    },
+    "fehl-": {
+      "type": "PREFIX"
+    },
+    "feil-": {
+      "type": "PREFIX"
+    },
+    "fein-": {
+      "type": "PREFIX"
+    },
+    "fern-": {
+      "type": "PREFIX"
+    },
+    "fest-": {
+      "type": "PREFIX"
+    },
+    "fort-": {
+      "type": "PREFIX"
+    },
+    "frei-": {
+      "type": "PREFIX"
+    },
+    "froh-": {
+      "type": "PREFIX"
+    },
+    "früh-": {
+      "type": "PREFIX"
+    },
+    "gern-": {
+      "type": "PREFIX"
+    },
+    "groß-": {
+      "type": "PREFIX"
+    },
+    "hand-": {
+      "type": "PREFIX"
+    },
+    "hart-": {
+      "type": "PREFIX"
+    },
+    "haus-": {
+      "type": "PREFIX"
+    },
+    "heim-": {
+      "type": "PREFIX"
+    },
+    "heiß-": {
+      "type": "PREFIX"
+    },
+    "hier-": {
+      "type": "PREFIX"
+    },
+    "hoch-": {
+      "type": "PREFIX"
+    },
+    "hohn-": {
+      "type": "PREFIX"
+    },
+    "hopp-": {
+      "type": "PREFIX"
+    },
+    "inne-": {
+      "type": "PREFIX"
+    },
+    "irre-": {
+      "type": "PREFIX"
+    },
+    "kalt-": {
+      "type": "PREFIX"
+    },
+    "klar-": {
+      "type": "PREFIX"
+    },
+    "klug-": {
+      "type": "PREFIX"
+    },
+    "kopf-": {
+      "type": "PREFIX"
+    },
+    "kund-": {
+      "type": "PREFIX"
+    },
+    "kurz-": {
+      "type": "PREFIX"
+    },
+    "lahm-": {
+      "type": "PREFIX"
+    },
+    "lang-": {
+      "type": "PREFIX"
+    },
+    "laut-": {
+      "type": "PREFIX"
+    },
+    "gleich-": {
+      "type": "PREFIX"
+    },
+    "leck-": {
+      "type": "PREFIX"
+    },
+    "leer-": {
+      "type": "PREFIX"
+    },
+    "leid-": {
+      "type": "PREFIX"
+    },
+    "lieb-": {
+      "type": "PREFIX"
+    },
+    "matt-": {
+      "type": "PREFIX"
+    },
+    "miss-": {
+      "type": "PREFIX"
+    },
+    "moor-": {
+      "type": "PREFIX"
+    },
+    "nach-": {
+      "type": "PREFIX"
+    },
+    "nahe-": {
+      "type": "PREFIX"
+    },
+    "paar-": {
+      "type": "PREFIX"
+    },
+    "plan-": {
+      "type": "PREFIX"
+    },
+    "quer-": {
+      "type": "PREFIX"
+    },
+    "rade-": {
+      "type": "PREFIX"
+    },
+    "raus-": {
+      "type": "PREFIX"
+    },
+    "rein-": {
+      "type": "PREFIX"
+    },
+    "rund-": {
+      "type": "PREFIX"
+    },
+    "rück-": {
+      "type": "PREFIX"
+    },
+    "sand-": {
+      "type": "PREFIX"
+    },
+    "satt-": {
+      "type": "PREFIX"
+    },
+    "seil-": {
+      "type": "PREFIX"
+    },
+    "stab-": {
+      "type": "PREFIX"
+    },
+    "stoß-": {
+      "type": "PREFIX"
+    },
+    "teil-": {
+      "type": "PREFIX"
+    },
+    "tief-": {
+      "type": "PREFIX"
+    },
+    "umbe-": {
+      "type": "PREFIX"
+    },
+    "vier-": {
+      "type": "PREFIX"
+    },
+    "voll-": {
+      "type": "PREFIX"
+    },
+    "wach-": {
+      "type": "PREFIX"
+    },
+    "wahr-": {
+      "type": "PREFIX"
+    },
+    "wall-": {
+      "type": "PREFIX"
+    },
+    "warm-": {
+      "type": "PREFIX"
+    },
+    "wege-": {
+      "type": "PREFIX"
+    },
+    "weih-": {
+      "type": "PREFIX"
+    },
+    "weis-": {
+      "type": "PREFIX"
+    },
+    "weit-": {
+      "type": "PREFIX"
+    },
+    "weiß-": {
+      "type": "PREFIX"
+    },
+    "wert-": {
+      "type": "PREFIX"
+    },
+    "wett-": {
+      "type": "PREFIX"
+    },
+    "wild-": {
+      "type": "PREFIX"
+    },
+    "wind-": {
+      "type": "PREFIX"
+    },
+    "wohl-": {
+      "type": "PREFIX"
+    },
+    "zube-": {
+      "type": "PREFIX"
+    },
+    "zuer-": {
+      "type": "PREFIX"
+    },
+    "zuge-": {
+      "type": "PREFIX"
+    },
+    "zwei-": {
+      "type": "PREFIX"
+    },
+    "übel-": {
+      "type": "PREFIX"
+    },
+    "über-": {
+      "type": "PREFIX"
+    },
+    "abend-": {
+      "type": "PREFIX"
+    },
+    "abver-": {
+      "type": "PREFIX"
+    },
+    "anemp-": {
+      "type": "PREFIX"
+    },
+    "anver-": {
+      "type": "PREFIX"
+    },
+    "aufbe-": {
+      "type": "PREFIX"
+    },
+    "aufer-": {
+      "type": "PREFIX"
+    },
+    "ausbe-": {
+      "type": "PREFIX"
+    },
+    "auser-": {
+      "type": "PREFIX"
+    },
+    "bauch-": {
+      "type": "PREFIX"
+    },
+    "beauf-": {
+      "type": "PREFIX"
+    },
+    "beein-": {
+      "type": "PREFIX"
+    },
+    "befür-": {
+      "type": "PREFIX"
+    },
+    "beibe-": {
+      "type": "PREFIX"
+    },
+    "blind-": {
+      "type": "PREFIX"
+    },
+    "brach-": {
+      "type": "PREFIX"
+    },
+    "breit-": {
+      "type": "PREFIX"
+    },
+    "bruch-": {
+      "type": "PREFIX"
+    },
+    "brust-": {
+      "type": "PREFIX"
+    },
+    "dabei-": {
+      "type": "PREFIX"
+    },
+    "dafür-": {
+      "type": "PREFIX"
+    },
+    "daher-": {
+      "type": "PREFIX"
+    },
+    "dahin-": {
+      "type": "PREFIX"
+    },
+    "daran-": {
+      "type": "PREFIX"
+    },
+    "darum-": {
+      "type": "PREFIX"
+    },
+    "davon-": {
+      "type": "PREFIX"
+    },
+    "davor-": {
+      "type": "PREFIX"
+    },
+    "dicht-": {
+      "type": "PREFIX"
+    },
+    "drauf-": {
+      "type": "PREFIX"
+    },
+    "draus-": {
+      "type": "PREFIX"
+    },
+    "drein-": {
+      "type": "PREFIX"
+    },
+    "durch-": {
+      "type": "PREFIX"
+    },
+    "einbe-": {
+      "type": "PREFIX"
+    },
+    "einge-": {
+      "type": "PREFIX"
+    },
+    "einig-": {
+      "type": "PREFIX"
+    },
+    "empor-": {
+      "type": "PREFIX"
+    },
+    "feuer-": {
+      "type": "PREFIX"
+    },
+    "flach-": {
+      "type": "PREFIX"
+    },
+    "flick-": {
+      "type": "PREFIX"
+    },
+    "flott-": {
+      "type": "PREFIX"
+    },
+    "fremd-": {
+      "type": "PREFIX"
+    },
+    "gegen-": {
+      "type": "PREFIX"
+    },
+    "gehen-": {
+      "type": "PREFIX"
+    },
+    "genug-": {
+      "type": "PREFIX"
+    },
+    "happy-": {
+      "type": "PREFIX"
+    },
+    "herab-": {
+      "type": "PREFIX"
+    },
+    "heran-": {
+      "type": "PREFIX"
+    },
+    "herbe-": {
+      "type": "PREFIX"
+    },
+    "herge-": {
+      "type": "PREFIX"
+    },
+    "herum-": {
+      "type": "PREFIX"
+    },
+    "herzu-": {
+      "type": "PREFIX"
+    },
+    "hinan-": {
+      "type": "PREFIX"
+    },
+    "hinbe-": {
+      "type": "PREFIX"
+    },
+    "hinge-": {
+      "type": "PREFIX"
+    },
+    "hinzu-": {
+      "type": "PREFIX"
+    },
+    "höher-": {
+      "type": "PREFIX"
+    },
+    "kehrt-": {
+      "type": "PREFIX"
+    },
+    "klein-": {
+      "type": "PREFIX"
+    },
+    "krank-": {
+      "type": "PREFIX"
+    },
+    "kraus-": {
+      "type": "PREFIX"
+    },
+    "krumm-": {
+      "type": "PREFIX"
+    },
+    "kugel-": {
+      "type": "PREFIX"
+    },
+    "mitbe-": {
+      "type": "PREFIX"
+    },
+    "miter-": {
+      "type": "PREFIX"
+    },
+    "nacht-": {
+      "type": "PREFIX"
+    },
+    "neben-": {
+      "type": "PREFIX"
+    },
+    "näher-": {
+      "type": "PREFIX"
+    },
+    "offen-": {
+      "type": "PREFIX"
+    },
+    "preis-": {
+      "type": "PREFIX"
+    },
+    "punkt-": {
+      "type": "PREFIX"
+    },
+    "recht-": {
+      "type": "PREFIX"
+    },
+    "ruhen-": {
+      "type": "PREFIX"
+    },
+    "ruhig-": {
+      "type": "PREFIX"
+    },
+    "rüber-": {
+      "type": "PREFIX"
+    },
+    "schau-": {
+      "type": "PREFIX"
+    },
+    "schul-": {
+      "type": "PREFIX"
+    },
+    "schön-": {
+      "type": "PREFIX"
+    },
+    "segel-": {
+      "type": "PREFIX"
+    },
+    "selig-": {
+      "type": "PREFIX"
+    },
+    "spitz-": {
+      "type": "PREFIX"
+    },
+    "stand-": {
+      "type": "PREFIX"
+    },
+    "statt-": {
+      "type": "PREFIX"
+    },
+    "staub-": {
+      "type": "PREFIX"
+    },
+    "steif-": {
+      "type": "PREFIX"
+    },
+    "still-": {
+      "type": "PREFIX"
+    },
+    "traum-": {
+      "type": "PREFIX"
+    },
+    "ument-": {
+      "type": "PREFIX"
+    },
+    "umher-": {
+      "type": "PREFIX"
+    },
+    "umhin-": {
+      "type": "PREFIX"
+    },
+    "umver-": {
+      "type": "PREFIX"
+    },
+    "unter-": {
+      "type": "PREFIX"
+    },
+    "urauf-": {
+      "type": "PREFIX"
+    },
+    "verab-": {
+      "type": "PREFIX"
+    },
+    "veran-": {
+      "type": "PREFIX"
+    },
+    "verbe-": {
+      "type": "PREFIX"
+    },
+    "vorab-": {
+      "type": "PREFIX"
+    },
+    "vorbe-": {
+      "type": "PREFIX"
+    },
+    "vorer-": {
+      "type": "PREFIX"
+    },
+    "wegbe-": {
+      "type": "PREFIX"
+    },
+    "weich-": {
+      "type": "PREFIX"
+    },
+    "wider-": {
+      "type": "PREFIX"
+    },
+    "zuver-": {
+      "type": "PREFIX"
+    },
+    "übrig": {
+      "type": "PREFIX"
+    },
+    "hinter-": {
+      "type": "PREFIX"
+    },
+    "vorher-": {
+      "type": "PREFIX"
+    },
+    "nicht-": {
+      "type": "PREFIX"
+    },
+    "einher-": {
+      "type": "PREFIX"
+    },
+    "weiter-": {
+      "type": "PREFIX"
+    },
+    "voran-": {
+      "type": "PREFIX"
+    },
+    "vorraus-": {
+      "type": "PREFIX"
     },
     "erst-": {
-      "type": "VPFX"
+      "type": "PREFIX"
+    },
+    "zwischen-": {
+      "type": "PREFIX"
     },
     "zweit-": {
-      "type": "VPFX"
+      "type": "PREFIX"
     },
     "dritt-": {
-      "type": "VPFX"
+      "type": "PREFIX"
     },
     "viert-": {
-      "type": "VPFX"
+      "type": "PREFIX"
     },
     "fünft-": {
-      "type": "VPFX"
+      "type": "PREFIX"
     },
     "sechst-": {
-      "type": "VPFX"
+      "type": "PREFIX"
     },
     "siebent-": {
-      "type": "VPFX"
+      "type": "PREFIX"
     },
     "acht-": {
-      "type": "VPFX"
+      "type": "PREFIX"
     },
     "neunt-": {
-      "type": "VPFX"
+      "type": "PREFIX"
+    },
+    "zehnt-": {
+      "type": "PREFIX"
+    },
+    "elft-": {
+      "type": "PREFIX"
+    },
+    "zwöft-": {
+      "type": "PREFIX"
     },
     "zugute-": {
-      "type": "VPFX"
+      "type": "PREFIX"
     },
     "hinaus-": {
-      "type": "VPFX"
+      "type": "PREFIX"
+    },
+    "wieder-": {
+      "type": "PREFIX"
+    },
+    "zusammen-": {
+      "type": "PREFIX"
+    },
+    "zurück-": {
+      "type": "PREFIX"
     },
     "un-": {
       "type": "APFX"

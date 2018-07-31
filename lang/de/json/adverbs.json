@@ -72,6 +72,9 @@
     "allerhöchstens": {
       "type": "ADV"
     },
+    "allerlei": {
+      "type": "ADV"
+    },
     "allerorten": {
       "type": "ADV"
     },
@@ -186,6 +189,9 @@
     "ansatzweise": {
       "type": "ADV"
     },
+    "ansonst": {
+      "type": "ADV"
+    },
     "ansonsten": {
       "type": "ADV"
     },
@@ -211,6 +217,9 @@
       "type": "ADV"
     },
     "aufi": {
+      "type": "ADV"
+    },
+    "aufgrund": {
       "type": "ADV"
     },
     "aufwärts": {
@@ -579,6 +588,9 @@
     "dessentwillen": {
       "type": "ADV"
     },
+    "dessentwegen": {
+      "type": "ADV"
+    },
     "deswegen": {
       "type": "ADV"
     },
@@ -762,6 +774,21 @@
     "einerseits": {
       "type": "ADV"
     },
+    "einander": {
+      "type": "ADV"
+    },
+    "inmitten": {
+      "type": "ADV"
+    },
+    "mithilfe": {
+      "type": "ADV"
+    },
+    "dahinter": {
+      "type": "ADV"
+    },
+    "via": {
+      "type": "ADV"
+    },
     "einfacherweise": {
       "type": "ADV"
     },
@@ -879,6 +906,9 @@
     "ferner": {
       "type": "ADV"
     },
+    "fernher": {
+      "type": "ADV"
+    },
     "flugs": {
       "type": "ADV"
     },
@@ -952,6 +982,9 @@
       "type": "ADV"
     },
     "gemach": {
+      "type": "ADV"
+    },
+    "gemäß": {
       "type": "ADV"
     },
     "gemeinhin": {
@@ -1284,6 +1317,9 @@
     "hinfort": {
       "type": "ADV"
     },
+    "hingegen": {
+      "type": "ADV"
+    },
     "hinnen": {
       "type": "ADV"
     },
@@ -1488,6 +1524,9 @@
     "itzund": {
       "type": "ADV"
     },
+    "zunichte": {
+      "type": "ADV"
+    },
     "jählings": {
       "type": "ADV"
     },
@@ -1510,6 +1549,9 @@
       "type": "ADV"
     },
     "jedoch": {
+      "type": "ADV"
+    },
+    "jwd": {
       "type": "ADV"
     },
     "jeher": {
@@ -1549,6 +1591,9 @@
       "type": "ADV"
     },
     "keinmal": {
+      "type": "ADV"
+    },
+    "klasse": {
       "type": "ADV"
     },
     "klassischerweise": {
@@ -1920,7 +1965,13 @@
     "nur": {
       "type": "ADV"
     },
+    "nurmehr": {
+      "type": "ADV"
+    },
     "oben": {
+      "type": "ADV"
+    },
+    "obenauf": {
       "type": "ADV"
     },
     "obendrein": {
@@ -2101,6 +2152,9 @@
       "type": "ADV"
     },
     "rundum": {
+      "type": "ADV"
+    },
+    "runter": {
       "type": "ADV"
     },
     "samstags": {
@@ -2412,6 +2466,9 @@
     "umhin": {
       "type": "ADV"
     },
+    "ums": {
+      "type": "ADV"
+    },
     "umso mehr": {
       "type": "ADV"
     },
@@ -2428,6 +2485,9 @@
       "type": "ADV"
     },
     "ungefähr": {
+      "type": "ADV"
+    },
+    "unweit": {
       "type": "ADV"
     },
     "ungefrühstückt": {
@@ -2680,6 +2740,9 @@
       "type": "ADV"
     },
     "wieso": {
+      "type": "ADV"
+    },
+    "wieweit": {
       "type": "ADV"
     },
     "winters": {
