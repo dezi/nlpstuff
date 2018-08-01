@@ -1,0 +1,38 @@
+{
+  "lang": "de",
+  "type": "PRON",
+  "mode": "stems-",
+  "stems": [
+    "0,0m,0n,0r,0s",
+    "0,1,0m,0n,0r,0s"
+  ],
+  "zzzlem": [
+    "alle",
+    "andere",
+    "beide",
+    "deine=1",
+    "deren:1r",
+    "dasselbe:0n",
+    "derselbe:0n",
+    "dieselbe:0n",
+    "diese",
+    "eure",
+    "eine",
+    "einzige",
+    "etliche",
+    "ihre",
+    "jede",
+    "jegliche",
+    "jene",
+    "keine=1",
+    "manche=1",
+    "mehrere:0n",
+    "meine=1",
+    "seine=1",
+    "selben:1r",
+    "solche=1",
+    "unsere=0,1,0m,0n,0r,0s,3re,3rem,3ren,3rer,3res",
+    "viele",
+    "welche=1"
+  ]
+}

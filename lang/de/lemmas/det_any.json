@@ -1,0 +1,18 @@
+{
+  "lang": "de",
+  "type": "DET",
+  "mode": "any-",
+  "zzzlem": [
+    "der",
+    "die",
+    "das",
+    "des",
+    "dem",
+    "den",
+    "ein",
+    "eine",
+    "eines",
+    "einem",
+    "einen"
+  ]
+}

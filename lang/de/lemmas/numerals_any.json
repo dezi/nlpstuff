@@ -1,0 +1,35 @@
+{
+  "lang": "de",
+  "type": "NUM",
+  "mode": "stems-",
+  "stems": [
+    "0",
+    "0,1,0m,0n,0r,0s"
+  ],
+  "zzzlem": [
+    "eins",
+    "zwei",
+    "drei",
+    "vier",
+    "fünf",
+    "sechs",
+    "sieben",
+    "acht",
+    "neun",
+    "zehn",
+    "elf",
+    "zwölf",
+    "erste=1",
+    "zweite=1",
+    "dritte=1",
+    "vierte=1",
+    "fünfte=1",
+    "sechste=1",
+    "siebente=1",
+    "achte=1",
+    "neunte=1",
+    "zehnte=1",
+    "elfte=1",
+    "zwölfte=1"
+  ]
+}
