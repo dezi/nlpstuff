@@ -1,0 +1,15 @@
+{
+  "lang": "de",
+  "type": "UNIT",
+  "mode": "any-",
+  "zzzlem": [
+    "mm",
+    "cm",
+    "km",
+    "kg",
+    "ml",
+    "bhp",
+    "ppm"
+  ]
+}
+

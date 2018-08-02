@@ -3,11 +3,29 @@
   "type": "ABR",
   "mode": "any-",
   "zzzlem": [
+    "http",
+    "https",
+    "hrsg",
+    "phil",
+    "html",
+    "engl",
+    "usw",
     "usw",
     "vgl",
     "ggf",
+    "del",
     "etc",
     "bzw",
-    "evtl"
+    "www",
+    "min",
+    "lat",
+    "jur",
+    "org",
+    "com",
+    "evtl",
+    "potok",
+    "dei",
+    "subsp",
+    "vrch"
   ]
 }
