@@ -1,7 +1,7 @@
 {
   "lang": "de",
   "type": "NOUN",
-  "mode": "suffix",
+  "mode": "suffix-",
   "suffix": "heit|keit|ung|tion|mus",
   "stems": [
     "0,0en,0s",
