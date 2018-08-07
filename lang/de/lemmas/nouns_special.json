@@ -12094,12 +12094,16 @@
     "Ghetto:0,0s",
     "Gatte:0,0n",
     "Jungs:0",
+    "Elbe:0",
     "Windows:0",
     "Airport:0,0s",
     "Zahlung:0,0en,0s",
     "Single:0,0s,0n",
     "Rätsel:0,0s,0n",
     "Wort:0,0e,0en,0es,3örter,3örtern",
-    "Bogen:4ögen,0s"
+    "Bogen:4ögen,0s",
+    "Graben:0s,4äben",
+    "Gefühl:0e,0es,0en,0s",
+    "Band:0es,3ände,3änden"
   ]
 }
