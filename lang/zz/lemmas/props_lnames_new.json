@@ -2,5 +2,8 @@
   "lang": "zz",
   "type": "PROP:LASTNAME",
   "mode": "new-",
+  "stems":[
+    "0,0s"
+  ],
   "zzzlem": []
 }

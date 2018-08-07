@@ -2,8 +2,10 @@
   "lang": "zz",
   "type": "PROP:FIRSTNAME",
   "mode": "any-",
+  "stems":[
+    "0,0s"
+  ],
   "zzzlem": [
-
     "Aad",
     "Aadu",
     "Aaeon",

@@ -2,6 +2,9 @@
   "lang": "zz",
   "type": "PROP:LASTNAME",
   "mode": "any-",
+  "stems":[
+    "0,0s"
+  ],
   "zzzlem": [
     "Aab",
     "Aabech",
