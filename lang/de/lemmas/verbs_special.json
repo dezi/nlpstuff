@@ -57,7 +57,6 @@
     "salzen:0,1,1st,1t,2,2t,2te,2ten,2test,2tet,ge0,ge2t",
     "schamfilen:0,1,1st,1t,2,2st,2t,2te,2ten,2test,2tet",
     "schanghaien:0,1,1st,1t,2,2n,2st,2t,2te,2ten,2test,2tet",
-    "schloßen:0,1,1st,1t,2,2t,2te,2ten,2test,2tet,4ss,ge2t",
     "schmalzen:0,1,1st,1t,2,2t,2te,2ten,2test,2tet,ge0,ge2t",
     "schmarotzen:0,1,1st,1t,2,2t,2te,2ten,2test,2tet",
     "schweißen:0,1,1st,1t,2,2t,2te,2ten,2test,2tet,4ss,ge2t",
@@ -80,7 +79,6 @@
     "widmen:0,1,1st,1t,1te,1ten,1test,1tet,ge1t",
     "winkeln:0,1,1e,1st,1t,1te,1ten,1test,1tet,3le,ge1en,ge1t",
     "zeichnen:0,1,1st,1t,1te,1ten,1test,1tet,ge1t",
-    "zieren:0,1,2,2st,2t,2te,2ten,2test,2tet",
     "ädern:0,1,1e,1st,1t,1te,1ten,1test,1tet,3re,ge1t",
     "äufnen:0,1,1st,1t,1te,1ten,1test,1tet,ge1t",
     "öffnen:0,1,1st,1t,1te,1ten,1test,1tet,ge1t"
