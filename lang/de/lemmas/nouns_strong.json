@@ -745,7 +745,6 @@
     "Wettersturz:0,0es,0s,3ürze,3ürzen",
     "Wildsau:0,2äue,2äuen",
     "Willkommensgruß:0,0es,0s,2ss,3üße,3üßen",
-    "Willkommenstrunk:0,0es,0s,3ünke,3ünken",
     "Windsack:0,0es,0s,3äcke,3äcken",
     "Windstoß:0,0es,0s,2ss,3öße,3ößen",
     "Wintereinbruch:0,0es,0s,3üche,3üchen",
@@ -791,15 +790,5 @@
     "Ölstand:0,0es,0s,3ände,3änden",
     "Übelstand:0,0es,0s,3ände,3änden",
     "Übereinkunft:0,4ünfte,4ünften"
-  ],
-  "zzzxxx": [
-    "Angelschnur",
-    "Antennendraht",
-    "Auslandsmarkt",
-    "Beifallssturm",
-    "Gedankensprung",
-    "Großmutter",
-    "Grundwortschatz",
-    "Wehmutter"
   ]
 }
