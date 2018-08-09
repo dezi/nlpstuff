@@ -9,7 +9,11 @@
     "kg",
     "ml",
     "sec",
+    "sek",
     "bhp",
+    "mbps",
+    "mbyte",
+    "mbytes",
     "ppm"
   ]
 }
