@@ -3,6 +3,7 @@
   "type": "ADJ",
   "mode": "strong",
   "zzzlem": [
+    "hoch:0,3öher,3öhere,3öherem,3öheren,3öheres,3öherer,3öchst,3öchste,3öchstem,3öchsten,3öchster,3öchstes",
     "adelig:0,0e,0em,0en,0er,0ere,0erem,0eren,0erer,0eres,0es,0est,0este,0estem,0esten,0ester,0estes,0st,0ste,0stem,0sten,0ster,0stes,4lig,4lige,4ligem,4ligen,4liger,4ligere,4ligerem,4ligeren,4ligerer,4ligeres,4liges,4ligst,4ligste,4ligstem,4ligsten,4ligster,4ligstes",
     "bange:0,0m,0n,0r,0s,1,1st,1ste,1stem,1sten,1ster,1stes,4änger,4ängere,4ängerem,4ängeren,4ängerer,4ängeres,4ängsten",
     "bluesig:0,0e,0em,0en,0er,0ere,0erem,0eren,0erer,0eres,0es,0est,0este,0estem,0esten,0ester,0estes,0st,0ste,0stem,0sten,0ster,0stes,4sig,4sige,4sigem,4sigen,4siger,4sigere,4sigerem,4sigeren,4sigerer,4sigeres,4siges",

@@ -715,9 +715,6 @@
     "Geigerin=1",
     "Geiselnehmer",
     "Geiselnehmerin=1",
-    "Geistesarbeiterin=1",
-    "Geisteswissenschafterin=1",
-    "Geisteswissenschaftlerin=1",
     "Gemüsehändler",
     "Gemüsehändlerin=1",
     "Genetiker",
@@ -2515,5 +2512,10 @@
     "Überwinderin=1",
     "Überzieher",
     "Überzieherin=1"
+  ],
+  "zzzxxx": [
+    "Geistesarbeiterin",
+    "Geisteswissenschafterin",
+    "Geisteswissenschaftlerin"
   ]
 }
