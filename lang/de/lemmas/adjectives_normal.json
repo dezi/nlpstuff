@@ -845,6 +845,9 @@
     "sonor=1",
     "sorgsam=1",
     "souverän=1",
+    "social=1",
+    "international=1",
+    "national=1",
     "sozial=1",
     "sparsam=1",
     "spaßig=1",
@@ -1025,6 +1028,9 @@
     "ödipal=1",
     "ölig=1",
     "übertölpelt",
+    "british",
+    "australian",
+    "scottish",
     "übervölkert=1"
   ]
 }
