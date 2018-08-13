@@ -121,6 +121,7 @@
     "schwingen:0,1,1st,1t,2,2st,2t,5ang,5angen,5angst,5angt,5änge,5ängen,5ängest,5änget,ge5ungen",
     "schwören:0,1,1st,1t,2,2st,2t,5or,5oren,5orst,5ort,5ur,5uren,5urst,5urt,5üre,5üren,5ürest,5üret,ge5oren",
     "sehen:0,1,1st,1t,2,2n,2t,4ah,4ahen,4ahn,4ahst,4aht,4ieh,4iehe,4iehst,4ieht,4ähe,4ähen,4ähest,4ähet,4ähn,ge0,ge2n",
+    "geschehen:0,1,1st,1t,2,2n,2t,4ah,4ahen,4ahn,4ahst,4aht,4ieh,4iehe,4iehst,4ieht",
     "sein:0,1,1d,1en,1est,1et,1st,1t,3ind,4bin,4bist,4ist,4war,4waren,4warst,4wart,4wäre,4wären,4wärest,4wäret,4wärst,4wärt,ge4wesen",
     "senden:0,1,1st,1t,2,5and,5anden,5andest,5andet,5andte,5andtet,5andst,ge5sand,ge5endet",
     "singen:0,1,1st,1t,2,2st,2t,5ang,5angen,5angst,5angt,5änge,5ängen,5ängest,5änget,ge5ungen",
