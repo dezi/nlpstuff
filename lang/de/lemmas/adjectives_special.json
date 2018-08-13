@@ -3,6 +3,9 @@
   "type": "ADJ",
   "mode": "any-",
   "zzzlem": [
+    "konventional:0,0e,0em,0en,0er,0ere,0erem,0eren,0erer,0eres,0es,0m,0n,0st,0ste,0stem,0sten,0ster,0stes,2re,2rem,2ren,2rer,2rere,2rerem,2reren,2rerer,2reres,2res",
+    "thermal:0,0e,0em,0en,0er,0ere,0erem,0eren,0erer,0eres,0es,0m,0n,0st,0ste,0stem,0sten,0ster,0stes,2re,2rem,2ren,2rer,2rere,2rerem,2reren,2rerer,2reres,2res",
+    "individual:0,0e,0em,0en,0er,0ere,0erem,0eren,0erer,0eres,0es,0m,0n,0st,0ste,0stem,0sten,0ster,0stes,2re,2rem,2ren,2rer,2rere,2rerem,2reren,2rerer,2reres,2res",
     "admirabel:0,0st,0ste,0stem,0sten,0ster,0stes,2le,2lem,2len,2ler,2lere,2lerem,2leren,2lerer,2leres,2les",
     "adorabel:0,0st,0ste,0stem,0sten,0ster,0stes,2le,2lem,2len,2ler,2lere,2lerem,2leren,2lerer,2leres,2les",
     "akzeptabel:0,0st,0ste,0stem,0sten,0ster,0stes,2le,2lem,2len,2ler,2lere,2lerem,2leren,2lerer,2leres,2les",
@@ -346,6 +349,7 @@
     "träge:0,0m,0n,0r,0s,1,1st,1ste,1stem,1sten,1ster,1stes",
     "trübe:0,0m,0n,0r,0s,1,1st,1ste,1stem,1sten,1ster,1stes",
     "töricht:0,0e,0em,0en,0er,0ere,0erem,0eren,0erer,0eres,0es,0est,0este,0estem,0esten,0ester,0estes,0st,0ste,0stem,0sten,0ster,0stes",
+    "schlecht:0,0e,0em,0en,0er,0ere,0erem,0eren,0erer,0eres,0es,0est,0este,0estem,0esten,0ester,0estes,0st,0ste,0stem,0sten,0ster,0stes",
     "türkis:0",
     "underdressed:0",
     "uni:0",
