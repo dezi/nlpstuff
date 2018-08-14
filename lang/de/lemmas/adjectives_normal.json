@@ -4,7 +4,8 @@
   "mode": "stems",
   "stems": [
     "0,0e,0em,0en,0er,0ere,0erem,0eren,0erer,0eres,0es,0est,0este,0estem,0esten,0ester,0estes",
-    "0,0e,0em,0en,0er,0ere,0erem,0eren,0erer,0eres,0es,0st,0ste,0stem,0sten,0ster,0stes"
+    "0,0e,0em,0en,0er,0ere,0erem,0eren,0erer,0eres,0es,0st,0ste,0stem,0sten,0ster,0stes",
+    "0,1e,1em,1en,1er,1ere,1erem,1eren,1erer,1eres,1es,0t,0te,0tem,0ten,0ter,0tes"
   ],
   "zzzlem": [
     "abgefuckt",
@@ -37,6 +38,8 @@
     "alert",
     "bemerkenswert",
     "erwähnenswert",
+    "nennenswert",
+    "liebenswert",
     "alluvial=1",
     "ambivalent",
     "amorph=1",
@@ -65,6 +68,7 @@
     "approximativ=1",
     "aquamarin=1",
     "arbeitsam=1",
+    "unaufhaltsam=1",
     "gemeinsam=1",
     "arbiträr=1",
     "areal=1",
@@ -206,7 +210,7 @@
     "distinktiv=1",
     "divergent",
     "divers",
-    "besonders",
+    "besonders=2",
     "doll=1",
     "dominant",
     "doof=1",
