@@ -6,7 +6,8 @@
     "0,0erlei",
     "0,1erlei",
     "0,1,0m,0n,0ns,0r,0s",
-    "0,0ig,0ige,0iger,0iges,0igem,0igem"
+    "0,0ig,0ige,0iger,0iges,0igem,0igem",
+    "0"
   ],
   "zzzlem": [
     "eins=1",
@@ -80,6 +81,13 @@
     "neunte=2",
     "zehnte=2",
     "elfte=2",
-    "zwölfte=2"
+    "zwölfte=2",
+
+    "anderthalb",
+    "eineinhalb",
+    "zweieinhalb",
+    "dreieinhalb",
+    "viereinhalb",
+    "fünfeinhalb"
   ]
 }
