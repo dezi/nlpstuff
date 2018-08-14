@@ -1,0 +1,43 @@
+{
+  "lang": "zz",
+  "type": "NUM",
+  "mode": "stems-",
+  "stems": [
+    "0"
+  ],
+  "zzzlem": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI",
+    "VII",
+    "VIII",
+    "IX",
+    "X",
+    "XI",
+    "XII",
+    "XIII",
+    "XIV",
+    "XV",
+    "XVI",
+    "XVII",
+    "XVIII",
+    "XIX",
+    "XX",
+    "XXI",
+    "XXII",
+    "XXIII",
+    "XXIV",
+    "XXV",
+    "XXVI",
+    "XXX",
+    "XXXL",
+    "XXXVI",
+    "L",
+    "C",
+    "D",
+    "M"
+  ]
+}
