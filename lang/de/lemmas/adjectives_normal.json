@@ -533,8 +533,6 @@
     "konkav=1",
     "konkludent",
     "konkret",
-    "konsequent",
-    "konsequent",
     "konservativ=1",
     "konsistent",
     "konstant",
@@ -643,8 +641,6 @@
     "nackt",
     "naiv=1",
     "nasal=1",
-    "national=1",
-    "national=1",
     "nebulös",
     "negativ=1",
     "negligeant",
@@ -729,8 +725,6 @@
     "porös",
     "positiv=1",
     "possessiv=1",
-    "potent",
-    "potent",
     "potentiell=1",
     "potenziell=1",
     "prall=1",
@@ -1055,13 +1049,5 @@
     "ölig=1",
     "übertölpelt",
     "übervölkert=1"
-  ],
-  "zzzxxx": [
-    "konsequent",
-    "konsequent",
-    "national=1",
-    "national=1",
-    "potent",
-    "potent"
   ]
 }
