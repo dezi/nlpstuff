@@ -3,20 +3,20 @@
   "type": "DET",
   "mode": "any-",
   "zzzlem": [
-    "der",
-    "die",
+    "a",
     "das",
-    "des",
     "dem",
     "den",
-    "ne",
-    "nen",
+    "der",
+    "des",
+    "die",
     "ein",
     "eine",
-    "eines",
     "einem",
     "einen",
-    "a",
+    "eines",
+    "ne",
+    "nen",
     "the"
   ]
 }

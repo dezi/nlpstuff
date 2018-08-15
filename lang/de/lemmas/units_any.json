@@ -3,18 +3,17 @@
   "type": "UNIT",
   "mode": "any-",
   "zzzlem": [
-    "mm",
-    "cm",
-    "km",
-    "kg",
-    "ml",
-    "sec",
-    "sek",
     "bhp",
+    "cm",
+    "kg",
+    "km",
     "mbps",
     "mbyte",
     "mbytes",
-    "ppm"
+    "ml",
+    "mm",
+    "ppm",
+    "sec",
+    "sek"
   ]
 }
-
