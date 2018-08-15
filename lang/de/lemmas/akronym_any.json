@@ -1,6 +1,6 @@
 {
   "lang": "de",
-  "type": "ABR",
+  "type": "ACR",
   "mode": "any-",
   "zzzlem": [
     "AAA",
@@ -2108,6 +2108,7 @@
     "TSG",
     "TSK",
     "TSS",
+    "TSV",
     "TSX",
     "TTC",
     "TTEG",

@@ -81,7 +81,8 @@
     "winkeln:0,1,1e,1st,1t,1te,1ten,1test,1tet,3le,ge1en,ge1t",
     "zeichnen:0,1,1st,1t,1te,1ten,1test,1tet,ge1t",
     "ädern:0,1,1e,1st,1t,1te,1ten,1test,1tet,3re,ge1t",
-    "verlängern:0,1,1e,1st,1t,1te,1ten,1test,1tet,3re,ge1t",
+    "verlängern:0,1,1e,1st,1t,1te,1ten,1test,1tet,3re,1t",
+    "verabschieden:0,1,1e,1st,1t,1te,1ten,1test,1tet,3re,1t",
     "äufnen:0,1,1st,1t,1te,1ten,1test,1tet,ge1t",
     "öffnen:0,1,1st,1t,1te,1ten,1test,1tet,ge1t"
   ]
