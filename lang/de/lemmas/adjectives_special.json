@@ -138,7 +138,9 @@
     "impermeabel:0,0e,0em,0en,0er,0es,0st,0ste,0stem,0sten,0ster,0stes,2le,2le,2lem,2lem,2len,2len,2ler,2ler,2lere,2lerem,2leren,2lerer,2leres,2les,2les",
     "implausibel:0,2le,2lem,2len,2ler,2lere,2lerem,2leren,2lerer,2leres,2les",
     "imponderabel:0,0e,0em,0en,0er,0es,0st,0ste,0stem,0sten,0ster,0stes,2le,2le,2lem,2lem,2len,2len,2ler,2ler,2lere,2lerem,2leren,2lerer,2leres,2les,2les",
+    "inakzeptabel:0,0e,0em,0en,0er,0es,0st,0ste,0stem,0sten,0ster,0stes,2le,2le,2lem,2lem,2len,2len,2ler,2ler,2lere,2lerem,2leren,2lerer,2leres,2les,2les",
     "indeklinabel:0,2le,2lem,2len,2ler,2lere,2lerem,2leren,2lerer,2leres,2les",
+    "indiskutabel:0,0e,0em,0en,0er,0es,0st,0ste,0stem,0sten,0ster,0stes,2le,2le,2lem,2lem,2len,2len,2ler,2ler,2lere,2lerem,2leren,2lerer,2leres,2les,2les",
     "individual:0,0e,0em,0en,0er,0ere,0erem,0eren,0erer,0eres,0es,0m,0n,0st,0ste,0stem,0sten,0ster,0stes,2re,2rem,2ren,2rer,2rere,2rerem,2reren,2rerer,2reres,2res",
     "inflammabel:0,0e,0em,0en,0er,0es,0st,0ste,0stem,0sten,0ster,0stes,2le,2le,2lem,2lem,2len,2len,2ler,2ler,2lere,2lerem,2leren,2lerer,2leres,2les,2les",
     "innere:0,0m,0n,0r,0s,1m,1n,1ste,3re,3rem,3ren,3rer,3rere,3rerem,3reren,3rerer,3reres,3res",
@@ -237,6 +239,7 @@
     "nullachtfünfzehn:0",
     "nulle:0,1",
     "obere:0,0m,0n,0r,0s,1m,1n,1ste,3re,3rem,3ren,3rer,3rere,3rerem,3reren,3rerer,3reres,3res",
+    "oberst:0,0em,0en,0er,0es",
     "ocker:0",
     "okay:0",
     "oliv:0",
@@ -258,6 +261,7 @@
     "plemplem:0",
     "plump:0,0e,0em,0en,0er,0ere,0erem,0eren,0erer,0eres,0es,0est,0este,0estem,0esten,0ester,0estes,0st,0ste,0stem,0sten,0ster,0stes",
     "ponderabel:0,0e,0em,0en,0er,0es,0st,0ste,0stem,0sten,0ster,0stes,2le,2le,2lem,2lem,2len,2len,2ler,2ler,2lere,2lerem,2leren,2lerer,2leres,2les,2les",
+    "praktikabel:0,0e,0em,0en,0er,0es,0st,0ste,0stem,0sten,0ster,0stes,2le,2le,2lem,2lem,2len,2len,2ler,2ler,2lere,2lerem,2leren,2lerer,2leres,2les,2les",
     "premium:0",
     "profitabel:0,0e,0em,0en,0er,0es,0st,0ste,0stem,0sten,0ster,0stes,2le,2le,2lem,2lem,2len,2len,2ler,2ler,2lere,2lerem,2leren,2lerer,2leres,2les,2les",
     "proper:0,0e,0em,0en,0er,0ere,0erem,0eren,0erer,0eres,0es,0m,0n,0st,0ste,0stem,0sten,0ster,0stes,2re,2rem,2ren,2rer,2rere,2rerem,2reren,2rerer,2reres,2res",
@@ -333,6 +337,7 @@
     "solubel:0,2le,2lem,2len,2ler,2lere,2lerem,2leren,2lerer,2leres,2les",
     "spendabel:0,0e,0em,0en,0er,0es,0st,0ste,0stem,0sten,0ster,0stes,2le,2le,2lem,2lem,2len,2len,2ler,2ler,2lere,2lerem,2leren,2lerer,2leres,2les,2les",
     "spitze:0",
+    "spröde:0,0m,0n,0r,0s,0st,0ste,0stem,0sten,0ster,0stes,1",
     "stark:0,0e,0em,0en,0er,0ere,0erem,0eren,0erer,0eres,0es,3ärker,3ärkere,3ärkerem,3ärkeren,3ärkerer,3ärkeres,3ärkst,3ärkste,3ärkstem,3ärksten,3ärkster,3ärkstes",
     "stille:0,0m,0n,0r,0s,1,1st,1ste,1stem,1sten,1ster,1stes",
     "strange:0,0m,0n,0r,0s,0st,0ste,0stem,0sten,0ster,0stes",
@@ -364,6 +369,7 @@
     "underdressed:0",
     "uni:0",
     "untere:0,0m,0n,0r,0s,1m,1n,1ste,3re,3rem,3ren,3rer,3rere,3rerem,3reren,3rerer,3reres,3res",
+    "unterst:0,0em,0en,0er,0es",
     "untertan:0",
     "uralt:0,0e,0em,0en,0er,0ere,0erem,0eren,0erer,0eres,0es,3älter,3ältere,3älterem,3älteren,3älterer,3älteres,3ältest,3älteste,3ältestem,3ältesten,3ältester,3ältestes",
     "vage:0,0m,0n,0r,0s,1,1st,1ste,1stem,1sten,1ster,1stes",
@@ -378,6 +384,7 @@
     "visibel:0,2le,2lem,2len,2ler,2lere,2lerem,2leren,2lerer,2leres,2les",
     "vonnöten:0",
     "vordere:0,0m,0n,0r,0s,1m,1n,1ste,3re,3rem,3ren,3rer,3rere,3rerem,3reren,3rerer,3reres,3res",
+    "vorderst:0,0em,0en,0er,0es",
     "vulnerabel:0,0e,0em,0en,0er,0es,0st,0ste,0stem,0sten,0ster,0stes,2le,2le,2lem,2lem,2len,2len,2ler,2ler,2lere,2lerem,2leren,2lerer,2leres,2les,2les",
     "wacker:0,0e,0em,0en,0er,0ere,0erem,0eren,0erer,0eres,0es,0m,0n,0st,0ste,0stem,0sten,0ster,0stes,2re,2rem,2ren,2rer,2rere,2rerem,2reren,2rerer,2reres,2res",
     "warm:0,0e,0em,0en,0er,0ere,0erem,0eren,0erer,0eres,0es,3ärmer,3ärmere,3ärmerem,3ärmeren,3ärmerer,3ärmeres,3ärmst,3ärmste,3ärmstem,3ärmsten,3ärmster,3ärmstes",
@@ -398,8 +405,12 @@
     "zwittrig:0,0e,0em,0en,0er,0ere,0erem,0eren,0erer,0eres,0es,0est,0este,0estem,0esten,0ester,0estes,0st,0ste,0stem,0sten,0ster,0stes,3erer,3erere,3ererem,3ereren,3ererer,3ereres,3erig,3erige,3erigem,3erigen,3eriger,3eriges",
     "zähe:0,0m,0n,0r,0s,0st,0ste,0stem,0sten,0ster,0stes,1,1st,1ste,1stem,1sten,1ster,1stes",
     "äußere:0,0m,0n,0r,0s,1m,1n,1st,1ste,3re,3rem,3ren,3rer,3rere,3rerem,3reren,3rerer,3reres,3res",
+    "äußerst:0,0em,0en,0er,0es",
     "öde:0,0m,0n,0r,0s,0st,0ste,0stem,0sten,0ster,0stes,1",
     "übel:0,0e,0em,0en,0er,0es,0st,0ste,0stem,0sten,0ster,0stes,2le,2le,2lem,2lem,2len,2len,2ler,2ler,2lere,2lerem,2leren,2lerer,2leres,2les,2les",
     "überkandidelt:0,0e,0em,0en,0er,0ere,0erem,0eren,0erer,0eres,0es,0est,0este,0estem,0esten,0ester,0estes,0st,0ste,0stem,0sten,0ster,0stes"
+  ],
+  "delete": [
+    "diskutabel:0,0e,0em,0en,0er,0es,0st,0ste,0stem,0sten,0ster,0stes,2le,2le,2lem,2lem,2len,2len,2ler,2ler,2lere,2lerem,2leren,2lerer,2leres,2les,2les"
   ]
 }

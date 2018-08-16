@@ -34,6 +34,8 @@
     "gleiche=1",
     "ihre",
     "irgendeine",
+    "irgendwas:0",
+    "irgendetwas:0",
     "jede",
     "jegliche",
     "jemand:0,0em,0en,0es",
@@ -49,9 +51,11 @@
     "seinesgleiche=1",
     "selbe=1",
     "solche=1",
-    "unsere:0,0m,0n,0r,0s,1,3re,3rem,3ren,3rer,3res",
+    "unsere:0,0m,0n,0r,0s,1,1m,3re,3rem,3ren,3rer,3res",
     "viele",
     "weitere",
-    "welche=1"
+    "welche=1",
+    "irgendwelche=1",
+    "allererste=1"
   ]
 }
