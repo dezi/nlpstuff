@@ -192,7 +192,6 @@
     "Genuss:0,0es,0s,2ß,3üsse,3üssen",
     "Geschirrtuch:0,0es,0s,3ücher,3üchern",
     "Geschmack:0,0es,0s,3äcke,3äcken",
-    "Gesellschaftsraum:0,0es,0s,3äume,3äumen",
     "Gesichtszug:0,0es,0s,2üge,2ügen",
     "Gewand:0,0es,0s,3änder,3ändern",
     "Gewinnsucht:0,4üchte,4üchten",
@@ -679,11 +678,5 @@
     "Zwang:0,0es,0s,3änge,3ängen",
     "Ölstand:0,0es,0s,3ände,3änden",
     "Übelstand:0,0es,0s,3ände,3änden"
-  ],
-  "delete": [
-    "Wirtschaftsbuch",
-    "Wirtschaftsgut",
-    "Wirtschaftshof",
-    "Wirtschaftsraum"
   ]
 }
