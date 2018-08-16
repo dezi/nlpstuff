@@ -52,7 +52,6 @@
     "Bezüger",
     "Biber",
     "Binder",
-    "Binnengewässer",
     "Blazer",
     "Blecheimer",
     "Blechner",
@@ -633,21 +632,6 @@
     "Überholmanöver"
   ],
   "delete": [
-    "Anrufbeantworter",
-    "Appetitzügler",
-    "Außenborder",
-    "Außendienstler",
-    "Deckenfluter",
-    "Doppelzentner",
-    "Durcheinander",
-    "Neurotransmitter",
-    "Rappenspalter",
-    "Rauchverzehrer",
-    "Reifenplatzer",
-    "Rohrkrepierer",
-    "Schaumlöscher",
-    "Teleprompter",
-    "Wiederkäuer",
-    "Wirtschaftswunder"
+    "Binnengewässer"
   ]
 }

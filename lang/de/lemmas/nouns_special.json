@@ -927,7 +927,6 @@
     "Bilch:0,0e,0en,0es,0s",
     "Bild:0,0e,0er,0ern,0es,0s",
     "Bildchen:0,0s",
-    "Bildergallerie:0,0n",
     "Bildnis:0,0se,0sen,0ses",
     "Bilge:0,0n",
     "Billard:0,0e,0en,0es,0s",
@@ -2662,7 +2661,6 @@
     "Forum:0,0s,2en",
     "Fossil:0,0ien,0s",
     "Foto:0,0s",
-    "Fotogallerie:0,0n",
     "Fotografie:0,0n",
     "Fotometrie:0,0n",
     "Fotovoltaik:0,0en",
@@ -6130,7 +6128,6 @@
     "Ontogenie:0",
     "Ontologie:0",
     "Ontologie:0,0n",
-    "Ontotheologie:0,0n",
     "Onyx:0,0e,0en",
     "Oolith:0,0en,0s",
     "Oozyte:0,0n",
@@ -6586,7 +6583,6 @@
     "Phosphor:0,0e,0en,0es,0s",
     "Phosphorit:0,0e,0en,0es,0s",
     "Photo:0,0s",
-    "Photogallerie:0,0n",
     "Photogrammetrie:0,0n",
     "Photographie:0,0n",
     "Photometrie:0,0n",
@@ -8046,7 +8042,6 @@
     "Sechsling:0,0e,0en,0es,0s",
     "Sedativum:0,0s,2a",
     "Sediment:0,0e,0en,0es,0s",
-    "Sedimentpetrografie:0,0n",
     "See:0,0n,0s",
     "Seele:0,0n,1",
     "Seelsorge:0",
@@ -10259,7 +10254,10 @@
     "Übernahme:0,0n"
   ],
   "delete": [
-    "Talg:0,0e,0en,0es,0s",
-    "Talg:0,0e,0en,0es,0s"
+    "Bildergallerie",
+    "Fotogallerie",
+    "Ontotheologie",
+    "Photogallerie",
+    "Sedimentpetrografie"
   ]
 }

@@ -963,7 +963,6 @@
     "Bilokation",
     "Bimetallismus=1",
     "Bindung",
-    "Binnenwanderung",
     "Biodiversität",
     "Biologismus=1",
     "Bioturbation",
@@ -2814,7 +2813,6 @@
     "Hypogenitalismus=1",
     "Hypogonadismus=1",
     "Hypoparathyreoidismus=1",
-    "Hyposensibilisierung",
     "Hägerkolonisation",
     "Hämofiltration",
     "Hämoglobinkonzentration",
@@ -3589,7 +3587,6 @@
     "Legalität",
     "Legenheit",
     "Legierung",
-    "Legionärskrankheit",
     "Legitimation",
     "Legitimierung",
     "Legitimität",
@@ -6737,16 +6734,8 @@
     "Üppigkeit"
   ],
   "delete": [
-    "Auseinandersetzung",
-    "Hydroborierung",
-    "Landwirtschaftsorganisation",
-    "Neurokommunikation",
-    "Neuroprotektion",
-    "Neurorehabilitation",
-    "Paramagnetismus",
-    "Paraphrasierung",
-    "Piezozündung",
-    "Wirtschaftskriminalität",
-    "Wirtschaftsordnung"
+    "Binnenwanderung",
+    "Hyposensibilisierung",
+    "Legionärskrankheit"
   ]
 }
