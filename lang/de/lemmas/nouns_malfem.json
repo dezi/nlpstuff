@@ -6,7 +6,7 @@
   "stems": [
     "0,0n,0s",
     "0,0nen",
-    "0,0en,0s",
+    "0,0e,0en,0es,0s",
     "0,0nen,3se,3sen"
   ],
   "lemmas": [
@@ -2529,7 +2529,7 @@
     "Fresserin=1",
     "Freudianer",
     "Freudianerin=1",
-    "Freund",
+    "Freund=2",
     "Freundenberger",
     "Freundenbergerin=1",
     "Freundin=1",
