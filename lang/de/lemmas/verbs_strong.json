@@ -84,7 +84,7 @@
     "lügen:0,1,1st,1t,2,2st,2t,2ts,5og,5ogen,5ogst,5ogt,5öge,5ögen,5ögest,5öget,ge5ogen",
     "meiden:0,1,1st,1t,2,5ied,5iede,5ieden,5iedest,5iedet,5iedst,ge5ieden",
     "melken:0,1,1st,1t,2,2st,2t,2te,2ten,2test,2tet,2ts,2ts,ge2t,ge5olken",
-    "messen:0,1,1st,1t,2,2t,2ts,5ass,5aß,5aßen,5aßest,5aßet,5aßt,5iss,5isst,5äße,5äßen,5äßest,5äßet,ge0",
+    "messen:0,1,1st,1t,2,2t,2ts,4ß,5ass,5aß,5aßen,5aßest,5aßet,5aßt,5iss,5isst,5äße,5äßen,5äßest,5äßet,ge0",
     "mögen:0,1,1st,1t,2t,2ts,3chte,3chten,3chtest,3chtet,5ag,5agst,5ochte,5ochten,5ochtest,5ochtet,ge5ocht",
     "müssen:0,1,1st,1t,2t,2te,2ten,2test,2tet,2ts,6uss,6usst,6usste,6ussten,6usstest,6usstet,6uß,6ußt,6ußte,6ußten,6ußtest,6ußtet,ge6usst",
     "nehmen:0,1,1st,1t,2,2t,2ts,5ahm,5ahmen,5ahmst,5ahmt,5imm,5immst,5immt,5ähme,5ähmen,5ähmest,5ähmet,ge5ommen",
