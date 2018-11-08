@@ -1,0 +1,39 @@
+{
+  "lang": "de",
+  "type": "ABR",
+  "mode": "any-",
+  "stems":[
+    "0,1"
+  ],
+  "lemmas": [
+    "allg.",
+    "allgem.",
+    "Bhf.",
+    "Bsp.",
+    "bzw.",
+    "Dr.",
+    "etc.",
+    "excl.",
+    "evgl.",
+    "Gebr.",
+    "Gew.",
+    "ggf.",
+    "incl.",
+    "Jhd.",
+    "Jhdt.",
+    "Jr.",
+    "kath.",
+    "Mr.",
+    "Mrs.",
+    "phil.",
+    "staatl.",
+    "Stck.",
+    "std.",
+    "tsd.",
+    "Univ.",
+    "usw.",
+    "uvm.",
+    "vgl.",
+    "zzgl."
+  ]
+}
