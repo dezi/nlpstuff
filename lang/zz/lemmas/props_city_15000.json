@@ -1,7 +1,8 @@
 {
+  "diss": "+",
   "lang": "zz",
   "type": "PROP:CITY",
-  "mode": "any",
+  "mode": "any-",
   "lemmas": [
     "'Afak:'Afak,‘Afak,Afag,Afak,Afaq,Sok el Afej,`Afak,Афак,عفك",
     "'Ain Abid:'Ain Abid,’Aïn Abid,Aine Abid,Aïne Abid",
