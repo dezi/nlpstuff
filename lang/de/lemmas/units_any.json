@@ -3,7 +3,9 @@
   "type": "UNIT",
   "mode": "any-",
   "lemmas": [
-    "bhp",
+    "DM",
+    "EUR",
+    "BHP",
     "cm",
     "kg",
     "km",
@@ -14,9 +16,13 @@
     "mbytes",
     "ml",
     "mm",
+    "kHz",
+    "kWh",
     "KeV",
     "MeV",
+    "pix",
     "ppm",
+    "mmol",
     "sec",
     "sek"
   ]
