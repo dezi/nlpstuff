@@ -1,6 +1,9 @@
 # Apple shit
 .DS_Store
 
+# Backups.
+*.bak
+
 # Test junk
 d2
 test*

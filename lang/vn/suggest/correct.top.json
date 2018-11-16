@@ -405,6 +405,7 @@ xế:51
 ấp:51
 ốm:51
 ức:51
+A-:50
 AA:50
 AB:50
 AC:50
@@ -661,7 +662,6 @@ Nỗ:50
 Nở:50
 Nợ:50
 Nụ:50
-O':50
 OK:50
 OS:50
 Oa:50
@@ -840,7 +840,6 @@ cớ:50
 cở:50
 cừ:50
 cữ:50
-d':50
 dà:50
 dè:50
 dê:50
@@ -934,8 +933,6 @@ ml:50
 mo:50
 mu:50
 my:50
-m²:50
-m³:50
 mè:50
 mé:50
 mí:50
@@ -1042,6 +1039,7 @@ tớ:50
 tỳ:50
 tỵ:50
 um:50
+un:50
 up:50
 uý:50
 uế:50
@@ -1083,16 +1081,12 @@ xỏ:50
 xổ:50
 xở:50
 zh:50
-°C:50
-°F:50
 Ác:50
 Ái:50
 Ám:50
 Án:50
 Áp:50
 Ít:50
-Ðó:50
-Ðể:50
 Ôi:50
 Ôn:50
 Út:50
@@ -1162,8 +1156,6 @@ zh:50
 ớt:50
 ủi:50
 ứa:50
-%$%:100
-%^%:100
 Nam:100
 bạn:100
 cao:100
@@ -1271,8 +1263,8 @@ Tuy:77
 bao:77
 bán:77
 vực:77
+Đại:77
 giờ:76
-Đại:76
 đây:76
 đưa:76
 đấu:76
@@ -1424,7 +1416,6 @@ căn:60
 cải:60
 duy:60
 huy:60
-km²:60
 mẫu:60
 quý:60
 vui:60
@@ -1667,6 +1658,7 @@ web:54
 xưa:54
 Đài:54
 Đào:54
+Đầu:54
 Địa:54
 đâu:54
 đòi:54
@@ -1754,7 +1746,6 @@ tắt:53
 ung:53
 xấu:53
 yên:53
-Đầu:53
 Đội:53
 đai:53
 đàm:53
@@ -2760,6 +2751,7 @@ Niu:50
 Noi:50
 Nol:50
 Non:50
+Not:50
 Nou:50
 Now:50
 Nxb:50
@@ -2910,6 +2902,7 @@ Sen:50
 Seo:50
 Set:50
 Sex:50
+Shi:50
 Sim:50
 Sin:50
 Sir:50
@@ -3712,7 +3705,6 @@ nôn:50
 núm:50
 núp:50
 năn:50
-nǎm:50
 nạc:50
 nạo:50
 nạt:50
@@ -3972,6 +3964,7 @@ tắn:50
 tắp:50
 tằm:50
 tặc:50
+tế-:50
 tệp:50
 tỉa:50
 tịt:50
@@ -4101,10 +4094,6 @@ yểu:50
 Áng:50
 Ánh:50
 Ích:50
-Ðây:50
-Ðại:50
-Ðến:50
-Ðức:50
 Ôtô:50
 ách:50
 áng:50
@@ -4666,6 +4655,7 @@ Giao:53
 Hùng:53
 Hưng:53
 Lịch:53
+Nông:53
 Phan:53
 Phúc:53
 Phật:53
@@ -4751,7 +4741,6 @@ Mông:52
 Mạnh:52
 Ngân:52
 Nhất:52
-Nông:52
 Nước:52
 Phải:52
 Quản:52
@@ -5413,6 +5402,7 @@ Hans:50
 Hart:50
 Hawk:50
 Head:50
+Hell:50
 Hero:50
 High:50
 Hill:50
@@ -5480,7 +5470,6 @@ Jump:50
 Jung:50
 Just:50
 Juve:50
-Jörg:50
 KHCN:50
 KHTN:50
 KHXH:50
@@ -6905,11 +6894,6 @@ xẻng:50
 yoga:50
 your:50
 zoom:50
-Ðiều:50
-Ðoàn:50
-Ðông:50
-Ðảng:50
-Ðồng:50
 ôliu:50
 ôxít:50
 ĐBQH:50
@@ -6981,6 +6965,7 @@ zoom:50
 đọng:50
 đống:50
 đụng:50
+ơ-rô:50
 Ương:50
 chính:100
 không:100
@@ -6997,8 +6982,8 @@ trình:100
 trước:100
 Trong:94
 chúng:94
+đường:94
 triển:93
-đường:93
 chiến:92
 nhiên:91
 thống:89
@@ -7051,11 +7036,11 @@ xuống:64
 Hoàng:63
 riêng:63
 tuyển:63
+tưởng:63
 Ngoài:62
 giống:62
 ngoại:62
 thuốc:62
-tưởng:62
 Chúng:61
 Dương:61
 chiếm:61
@@ -7268,6 +7253,7 @@ nướng:51
 phẳng:51
 quyến:51
 quyển:51
+quãng:51
 thiệp:51
 thoái:51
 thuần:51
@@ -7289,6 +7275,7 @@ virus:51
 vuông:51
 vướng:51
 xưởng:51
+A-rập:50
 ASIAD:50
 Aaron:50
 Abbas:50
@@ -7361,6 +7348,7 @@ Brown:50
 Bruce:50
 Bruno:50
 Bryan:50
+Bu-sơ:50
 Budde:50
 Busan:50
 CBCNV:50
@@ -7421,6 +7409,7 @@ Crazy:50
 Creek:50
 Crete:50
 Cross:50
+Cu-ba:50
 Curie:50
 Cuông:50
 Cyrus:50
@@ -7482,6 +7471,7 @@ Force:50
 Forum:50
 Frank:50
 Franz:50
+GD-ĐT:50
 Games:50
 Gates:50
 Georg:50
@@ -7549,6 +7539,8 @@ Huyên:50
 Huyết:50
 Hường:50
 Hưởng:50
+I-ran:50
+I-rắc:50
 IELTS:50
 INSEE:50
 Index:50
@@ -7660,6 +7652,7 @@ Macau:50
 Mafia:50
 Magic:50
 Maine:50
+Major:50
 Malta:50
 Manga:50
 Marco:50
@@ -7961,6 +7954,7 @@ Weber:50
 Wells:50
 White:50
 Wigan:50
+Women:50
 Woods:50
 Works:50
 XVIII:50
@@ -8191,7 +8185,6 @@ quàng:50
 quách:50
 quáng:50
 quánh:50
-quãng:50
 quăng:50
 quạnh:50
 quầng:50
@@ -8235,6 +8228,7 @@ thảnh:50
 thặng:50
 thủng:50
 thừng:50
+ti-vi:50
 titan:50
 toang:50
 track:50
@@ -8247,6 +8241,7 @@ trạch:50
 tuyền:50
 tuông:50
 tuồng:50
+tế-xã:50
 urani:50
 vectơ:50
 virut:50
@@ -8261,11 +8256,13 @@ xuồng:50
 xướng:50
 yahoo:50
 École:50
+ê-kíp:50
 ĐBSCL:50
 ĐCSVN:50
+ĐH-CĐ:50
 Đuống:50
 Đương:50
-đồng/:50
+đô-la:50
 nghiệp:100
 trường:100
 thường:92
@@ -8522,7 +8519,6 @@ Grolle:50
 Gruzia:50
 Guinea:50
 Gustav:50
-Göring:50
 Hannah:50
 Hansen:50
 Harold:50
@@ -8551,10 +8547,10 @@ Iberia:50
 Ieyasu:50
 Images:50
 Indian:50
-Intel®:50
 Iphone:50
 Island:50
 Italia:50
+Ivoire:50
 Jaeger:50
 Javier:50
 Jeremy:50
@@ -8606,6 +8602,7 @@ Lucius:50
 Ludwig:50
 Lumpur:50
 Luther:50
+Lê-nin:50
 Makoto:50
 Malaya:50
 Manila:50
@@ -8654,7 +8651,6 @@ Murray:50
 Museum:50
 Myanma:50
 México:50
-Müller:50
 NGUYÊN:50
 NGUYỄN:50
 Nakhon:50
@@ -8747,6 +8743,7 @@ Safari:50
 Safina:50
 Sahara:50
 Saigon:50
+Saint-:50
 Sakura:50
 Samuel:50
 Sandra:50
@@ -8881,6 +8878,7 @@ dioxin:50
 dollar:50
 domain:50
 driver:50
+e-mail:50
 engine:50
 enzyme:50
 format:50
@@ -8892,6 +8890,7 @@ heroin:50
 hiflex:50
 hormon:50
 hybrid:50
+héc-ta:50
 iTunes:50
 inches:50
 iphone:50
@@ -8954,6 +8953,7 @@ update:50
 upload:50
 vaccin:50
 vector:50
+vi-rút:50
 violin:50
 vắcxin:50
 ĐHQGHN:50
@@ -9025,6 +9025,7 @@ Blatter:50
 Bohemia:50
 Bolivia:50
 Booking:50
+Bra-xin:50
 Bradley:50
 Bristol:50
 British:50
@@ -9151,10 +9152,12 @@ Kashmir:50
 Kennedy:50
 Kenshin:50
 Kharkov:50
+Ki-moon:50
 Knowles:50
 Kremlin:50
 Krishna:50
 Kristen:50
+La-tinh:50
 Lampard:50
 Lastrea:50
 Laurent:50
@@ -9166,6 +9169,7 @@ Liberty:50
 Limited:50
 Lincoln:50
 Lindsay:50
+Long-Hà:50
 Lorentz:50
 MacBook:50
 Madison:50
@@ -9197,7 +9201,6 @@ Mozilla:50
 Mubarak:50
 Mueller:50
 Myanmar:50
-München:50
 Natalie:50
 Network:50
 Neville:50
@@ -9391,7 +9394,8 @@ trailer:50
 turbine:50
 uranium:50
 vaccine:50
-đồng/kg:50
+vắc-xin:50
+Ô-ba-ma:50
 Internet:53
 Airlines:51
 Facebook:51
@@ -9405,6 +9409,7 @@ Advanced:50
 Agribank:50
 Aguilera:50
 Aircraft:50
+Al-Qaeda:50
 Alliance:50
 American:50
 Anderson:50
@@ -9412,6 +9417,7 @@ Angelina:50
 Antonius:50
 Arshavin:50
 Aspidium:50
+Assassin:50
 Athletic:50
 Athyrium:50
 Atlantic:50
@@ -9478,14 +9484,13 @@ Florence:50
 Football:50
 Francois:50
 Franklin:50
-François:50
 GHPGVNTN:50
 Giovanni:50
 Giuseppe:50
 Gonzalez:50
+Gru-di-a:50
 Guardian:50
 Guinness:50
-HIV/AIDS:50
 Hamilton:50
 Hannibal:50
 Hannover:50
@@ -9503,6 +9508,7 @@ Holstein:50
 Honduras:50
 Hongkong:50
 Hànộimới:50
+I-xra-en:50
 Illinois:50
 Istanbul:50
 Ivanovic:50
@@ -9530,6 +9536,7 @@ Margaret:50
 Marshall:50
 Maryland:50
 Matxcơva:50
+McDonald:50
 Medvedev:50
 Megastar:50
 Mercedes:50
@@ -9607,6 +9614,8 @@ Tokugawa:50
 Trafford:50
 Trinidad:50
 Universe:50
+V-League:50
+VN-Index:50
 Valencia:50
 Verdasco:50
 Vexillum:50
@@ -9628,6 +9637,7 @@ Yokohama:50
 Zeppelin:50
 Zimbabwe:50
 ZingPlay:50
+al-Qaeda:50
 barangay:50
 bootroom:50
 cacbonat:50
@@ -9645,6 +9655,7 @@ liveshow:50
 melamine:50
 nickname:50
 password:50
+play-off:50
 showroom:50
 thesaban:50
 Singapore:52
@@ -9710,15 +9721,18 @@ Francisco:50
 Frankfurt:50
 Frederick:50
 Friedrich:50
+Geum-soon:50
 Gorbachev:50
 Greenland:50
 Guardiola:50
 Guatemala:50
+HNX-Index:50
 Halloween:50
 Hampshire:50
 Hezbollah:50
 Hideyoshi:50
 Hollywood:50
+I-ta-li-a:50
 Instagram:50
 Institute:50
 Jefferson:50
@@ -9726,6 +9740,7 @@ Jerusalem:50
 Johansson:50
 Kaspersky:50
 Katherine:50
+Khoa-Giáo:50
 Kobayashi:50
 Leicester:50
 Leningrad:50
@@ -9769,8 +9784,10 @@ Takahashi:50
 Telegraph:50
 Tennessee:50
 Theridion:50
+Thiên-Huế:50
 Tipulidae:50
 Tottenham:50
+U-crai-na:50
 Universal:50
 Valentine:50
 Vancouver:50
@@ -9787,6 +9804,7 @@ Wikipedia:50
 Wimbledon:50
 Wolfsburg:50
 Wozniacki:50
+Xin-ga-po:50
 Zvonareva:50
 chocolate:50
 container:50
@@ -9795,6 +9813,7 @@ marketing:50
 megapixel:50
 photocopy:50
 taekwondo:50
+Ô-xê-ti-a:50
 California:51
 Manchester:51
 Washington:51
@@ -9838,8 +9857,12 @@ Management:50
 Mitsubishi:50
 Montenegro:50
 Mozambique:50
+Mát-xcơ-va:50
+Mét-vê-đép:50
 Nephrodium:50
 PETROSETCO:50
+Pa-ki-xtan:50
+Pa-le-xtin:50
 Passalidae:50
 Pediciidae:50
 Pellegrini:50
@@ -9878,8 +9901,6 @@ Wellington:50
 Wunderlich:50
 Zuckerberg:50
 eThanhNien:50
-đồng/lượng:50
-đồng/tháng:50
 Philippines:51
 Trichoptera:51
 Acrostichum:50
@@ -9890,6 +9911,7 @@ Association:50
 Athyriaceae:50
 Blechnaceae:50
 Brandenburg:50
+Cam-pu-chia:50
 Cebrionidae:50
 Christopher:50
 Condoleezza:50
@@ -9905,9 +9927,11 @@ Hymenoptera:50
 Ibrahimovic:50
 Laccophilus:50
 Lamborghini:50
+Ma-lai-xi-a:50
 Mississippi:50
 Mithridates:50
 Munnopsidae:50
+Oa-sinh-tơn:50
 Observatory:50
 Oedemeridae:50
 PlayStation:50
@@ -9946,10 +9970,12 @@ testosterone:50
 Entertainment:50
 Heteroceridae:50
 Hydrobiosidae:50
+In-đô-nê-xi-a:50
 International:50
 Limnephilidae:50
 Massachusetts:50
 Saigontourist:50
+Vê-nê-xu-ê-la:50
 Cheumatopsyche:50
 Coenagrionidae:50
 Confederations:50
@@ -9959,6 +9985,7 @@ Schwarzenegger:50
 Schweinsteiger:50
 Sphaeromatidae:50
 Dryopteridaceae:50
+Editor-in-Chief:50
 Glossosomatidae:50
 Helicopsychidae:50
 Ptilodactylidae:50
